@@ -1,0 +1,2354 @@
+D006394 - angiosarcoma
+D011625 - pterygium
+D008659 - disease of metabolism
+D004887 - erysipeloid
+D004670 - La Crosse encephalitis
+D051359 - hemophagocytic lymphohistiocytosis
+D010854 - superficial mycosis
+D007619 - Kartagener syndrome
+D011015 - aspiration pneumonia
+D054990 - idiopathic pulmonary fibrosis
+D018549 - cryptogenic organizing pneumonia
+D004675 - tick-borne encephalitis
+D015624 - Lambert-Eaton myasthenic syndrome
+D003409 - congenital hypothyroidism
+D011125 - familial adenomatous polyposis
+D012148 - restless legs syndrome
+D013262 - Stevens-Johnson syndrome
+D014983 - xeroderma pigmentosum
+D015776 - nonepidermolytic palmoplantar keratoderma
+D016506 - Hailey-Hailey disease
+D018813 - multiple endocrine neoplasia type 2A
+D019571 - arrhythmogenic right ventricular cardiomyopathy
+D020817 - Asperger syndrome
+D034062 - fatal familial insomnia
+D050030 - Andersen-Tawil syndrome
+D050336 - mulibrey nanism
+D052120 - Danon disease
+D052159 - Frasier syndrome
+D052245 - Usher syndrome
+D052496 - familial partial lipodystrophy
+D052517 - mucosulfatidosis
+D052919 - infantile Refsum disease
+D053098 - X-linked hypophosphatemic rickets
+D053529 - hereditary mucosal leukokeratosis
+D053549 - pachyonychia congenita
+D053579 - Gitelman syndrome
+D053840 - Brugada syndrome
+D054078 - mevalonic aciduria
+D054082 - lissencephaly
+D054091 - periventricular nodular heterotopia
+D054312 - Buruli ulcer disease
+D054331 - Sertoli cell-only syndrome
+D054429 - juvenile myelomonocytic leukemia
+D054559 - hyperphosphatemia
+D054877 - Wolf-Hirschhorn syndrome
+D054880 - aspartylglucosaminuria
+D054882 - Antley-Bixler syndrome
+D055036 - campomelic dysplasia
+D055577 - Farber lipogranulomatosis
+D055653 - Muir-Torre syndrome
+D055947 - Loeys-Dietz syndrome
+D056266 - erythrokeratodermia variabilis
+D056684 - yellow nail syndrome
+D056685 - Costello syndrome
+D056731 - Donohue syndrome
+D056733 - Carney complex
+D056734 - monilethrix
+D056769 - Alstrom syndrome
+D056770 - Netherton syndrome
+D056846 - Weill-Marchesani syndrome
+D056889 - Barth syndrome
+D056929 - Liddle syndrome
+D005076 - exanthem
+D005077 - exanthema subitum
+D015459 - adult T-cell leukemia
+D015212 - inflammatory bowel disease
+D000848 - tooth agenesis
+D012554 - intestinal schistosomiasis
+D010255 - paranasal sinus cancer
+D004694 - atrioventricular septal defect
+D009371 - organ system cancer
+D009202 - cardiomyopathy
+D010610 - alcohol dependence
+D014029 - nicotine dependence
+D020522 - mantle cell lymphoma
+D008258 - lymphoplasmacytic lymphoma
+D020967 - myotonic dystrophy type 2
+D010235 - paraganglioma
+D015043 - Zollinger-Ellison syndrome
+D020528 - secondary progressive multiple sclerosis
+D054537 - atrioventricular block
+D058747 - CHARGE syndrome
+D004422 - generalized dystonia
+D020821 - focal hand dystonia
+D012891 - obstructive sleep apnea
+D002294 - tongue squamous cell carcinoma
+D008224 - follicular lymphoma
+D016767 - Caroli disease
+D008527 - medulloblastoma
+D009190 - myelodysplastic syndrome
+D053632 - gamma chain deficiency
+D017098 - immunoglobulin alpha deficiency
+D008223 - lymphoma
+D016410 - cutaneous T cell lymphoma
+D012983 - connective tissue benign neoplasm
+D006362 - heavy chain disease
+D014897 - survival motor neuron spinal muscular atrophy
+D055534 - Kennedy's disease
+D020191 - dentatorubral-pallidoluysian atrophy
+D003092 - colitis
+D017091 - ischemic colitis
+D046728 - microscopic colitis
+D046729 - collagenous colitis
+D046730 - lymphocytic colitis
+D004761 - Clostridium difficile colitis
+D007079 - ileitis
+D003424 - Crohn's colitis
+D002549 - Balo concentric sclerosis
+D055952 - Cogan syndrome
+D017675 - CREST syndrome
+D001281 - atrial fibrillation
+D013342 - stuttering
+D012600 - scoliosis
+D001763 - ptosis
+D005705 - gallbladder disease
+D065708 - porencephaly
+D054514 - persistent hyperplastic primary vitreous
+D006457 - paroxysmal nocturnal hemoglobinuria
+D002613 - angular cheilitis
+D017733 - oral hairy leukoplakia
+D009958 - orofaciodigital syndrome I
+D008169 - lung abscess
+D015473 - acute promyelocytic leukemia
+D006323 - cardiac arrest
+D006554 - umbilical hernia
+D008417 - mastoiditis
+D008591 - myelomeningocele
+D011271 - ectopic pregnancy
+D016917 - bacillary angiomatosis
+D054069 - multiple acyl-CoA dehydrogenase deficiency
+D054221 - chromosome 17p13.1 deletion syndrome
+D053559 - Meesmann corneal dystrophy
+D000071243 - Zika fever
+D055665 - purpura fulminans
+D063748 - anomalous left coronary artery from the pulmonary artery
+D014381 - cardiac tuberculosis
+D056725 - von Willebrand's disease 1
+D056728 - von Willebrand's disease 2
+D054438 - atypical chronic myeloid leukemia
+D002538 - arteriovenous malformations of the brain
+D000071017 - hyperekplexia 1
+D011546 - autosomal recessive pseudohypoaldosteronism type 1
+D025962 - septooptic dysplasia
+D053560 - ichthyosis bullosa of Siemens
+D011535 - prune belly syndrome
+D001847 - bone disease
+D001862 - bone resorption disease
+D007635 - herpes simplex virus keratitis
+D016919 - Cryptococcal meningitis
+D017726 - Cytomegalovirus retinitis
+D002179 - cutaneous candidiasis
+D008181 - lupus nephritis
+D008585 - meningococcal meningitis
+D006504 - hepatic veno-occlusive disease
+D052016 - mucositis
+D008583 - haemophilus meningitis
+D016891 - autosomal recessive polycystic kidney disease
+D055652 - gray platelet syndrome
+D056729 - von Willebrand's disease 3
+D006313 - sensorineural hearing loss
+D018814 - multiple endocrine neoplasia type 2B
+D018761 - multiple endocrine neoplasia type 1
+D004716 - endometritis
+D004379 - duodenum cancer
+D020325 - migraine with aura
+D013606 - tabes dorsalis
+D000292 - pelvic inflammatory disease
+D019568 - hyperlucent lung
+D009494 - asymptomatic neurosyphilis
+D004416 - dysplastic nevus syndrome
+D006925 - hymenolepiasis
+D004169 - diphyllobothriasis
+D003551 - cysticercosis
+D013031 - sparganosis
+D014353 - sleeping sickness
+D014352 - trypanosomiasis
+D003316 - corneal disease
+D007640 - keratoconus
+D014689 - venous insufficiency
+D014985 - xerophthalmia
+D015352 - dry eye syndrome
+D001248 - asthenopia
+D007414 - intestinal cancer
+D007078 - ileal neoplasm
+D010020 - osteonecrosis
+D010211 - optic papillitis
+D012173 - neuroretinitis
+D008067 - pleomorphic lipoma
+D010874 - pinta disease
+D003882 - dermatomyositis
+D015439 - borderline leprosy
+D015835 - Brown's tendon sheath syndrome
+D005084 - exhibitionism
+D007918 - leprosy
+D013789 - thalassemia
+D016873 - ehrlichiosis
+D015441 - tuberculoid leprosy
+D008146 - louping ill
+D009107 - mumps
+D011471 - prostate cancer
+D010245 - familial periodic paralysis
+D004948 - monocular esotropia
+D011928 - Raynaud disease
+D010309 - parotitis
+D010305 - parotid disease
+D012793 - sialadenitis
+D008587 - viral meningitis
+D004696 - endocarditis
+D011009 - pneumoconiosis
+D001195 - asbestosis
+D001607 - berylliosis
+D002095 - byssinosis
+D000874 - anthracosilicosis
+D012829 - silicosis
+D002205 - Caplan's syndrome
+D055008 - anthracosis
+D012806 - siderosis
+D016569 - blepharophimosis
+D047688 - breast cyst
+D005348 - breast fibrocystic disease
+D007945 - lymphoblastic leukemia
+D015001 - yaws
+D000550 - suppression amblyopia
+D020968 - amyotrophic neuralgia
+D015463 - prolymphocytic leukemia
+D010005 - secondary hypertrophic osteoarthropathy
+D010930 - pneumonic plague
+D001424 - bacterial infectious disease
+D015451 - chronic lymphocytic leukemia
+D007714 - Klippel-Feil syndrome
+D014069 - tonsillitis
+D007877 - Legionnaires' disease
+D007876 - legionellosis
+D003139 - common cold
+D009304 - nasopharyngitis
+D003965 - diaphragmatic eventration
+D004933 - esophageal atresia
+D007409 - intestinal atresia
+D006627 - Hirschsprung's disease
+D001006 - imperforate anus
+D011024 - viral pneumonia
+D013274 - stomach cancer
+D008590 - meningoencephalitis
+D009800 - oculocerebrorenal syndrome
+D002128 - calcium metabolism disease
+D007966 - metachromatic leukodystrophy
+D012035 - Refsum disease
+D007965 - Krabbe disease
+D000326 - adrenoleukodystrophy
+D011225 - pre-eclampsia
+D002607 - Charcot-Marie-Tooth disease
+D014396 - pleural tuberculosis
+D006250 - Hartnup disease
+D013981 - chronic tic disorder
+D045602 - steatorrhea
+D018149 - glucose intolerance
+D007787 - lactose intolerance
+D012778 - short bowel syndrome
+D001765 - blind loop syndrome
+D013182 - tropical sprue
+D002446 - celiac disease
+D012279 - rickets
+D011504 - protein-losing enteropathy
+D005198 - Fanconi syndrome
+D008850 - microphthalmia
+D009395 - interstitial nephritis
+D014929 - Wolfram syndrome
+D003554 - cystinosis
+D012569 - schizotypal personality disorder
+D000544 - Alzheimer's disease
+D005902 - open-angle glaucoma
+D008413 - mastitis
+D010237 - paragonimiasis
+D005873 - giardiasis
+D006977 - renal hypertension
+D051437 - kidney failure
+D010033 - otitis media
+D059270 - petrositis
+D006975 - portal hypertension
+D006973 - hypertension
+D011697 - thrombotic thrombocytopenic purpura
+D008640 - mesenteric lymphadenitis
+D008708 - methemoglobinemia
+D008594 - premature menopause
+D012719 - setariasis
+D015522 - frontal sinusitis
+D015524 - sphenoid sinusitis
+D005368 - filariasis
+D013276 - gastric ulcer
+D008368 - mansonelliasis
+D012448 - sexual sadism
+D004184 - dirofilariasis
+D006974 - malignant hypertension
+D014843 - voyeurism
+D020242 - Eastern equine encephalitis
+D020241 - Western equine encephalitis
+D004672 - Japanese encephalitis
+D004674 - St. Louis encephalitis
+D008398 - sexual masochism
+D015840 - partial third-nerve palsy
+D020434 - abducens nerve disease
+D008268 - age related macular degeneration
+D008588 - meningocele
+D006232 - hand, foot and mouth disease
+D011000 - epidemic pleurodynia
+D006557 - herpangina
+D015440 - lepromatous leprosy
+D016135 - tethered spinal cord syndrome
+D007021 - hypospadias
+D008831 - microcephaly
+D006849 - hydrocephalus
+D014076 - tooth disease
+D000647 - amnestic disorder
+D020915 - Wernicke-Korsakoff syndrome
+D000755 - sickle cell anemia
+D001883 - borderline personality disorder
+D003859 - dependent personality disorder
+D003193 - obsessive-compulsive personality disorder
+D009771 - obsessive-compulsive disorder
+D009105 - multiple personality disorder
+D004213 - dissociative disorder
+D012557 - schizoid personality disorder
+D007174 - impulse control disorder
+D010260 - paranoid personality disorder
+D000987 - antisocial personality disorder
+D001289 - attention deficit hyperactivity disorder
+D002532 - intracranial aneurysm
+D014060 - tongue disease
+D009393 - nephritis
+D013322 - strongyloidiasis
+D018424 - cholesteatoma of middle ear
+D002547 - spastic diplegia
+D009402 - lipoid nephrosis
+D006429 - hemiplegia
+D009869 - oophoritis
+D015433 - membranous glomerulonephritis
+D004899 - fetal erythroblastosis
+D009394 - Alport syndrome
+D015299 - discitis
+D017085 - alpha thalassemia
+D020144 - basal ganglia cerebrovascular disease
+D004684 - acute hemorrhagic leukoencephalitis
+D007905 - lens disease
+D010049 - ovarian disease
+D059407 - pinguecula
+D015715 - corneal edema
+D003861 - depersonalization disorder
+D005258 - Felty's syndrome
+D020139 - gastroschisis
+D008471 - meconium aspiration syndrome
+D001749 - urinary bladder cancer
+D010326 - pasteurellosis
+D010923 - placenta praevia
+D002006 - brucellosis
+D009198 - myiasis
+D001238 - asphyxia neonatorum
+D011778 - Q fever
+D014205 - trench fever
+D001474 - bartonellosis
+D012288 - rickettsialpox
+D006869 - hydronephrosis
+D005879 - Gilles de la Tourette syndrome
+D011671 - pulpitis
+D011695 - Henoch-Schoenlein purpura
+D041761 - cholecystolithiasis
+D008883 - miliaria rubra
+D007007 - hypohidrosis
+D001885 - pertussis
+D003218 - anogenital venereal wart
+D015841 - enophthalmos
+D013576 - syndactyly
+D004062 - DiGeorge syndrome
+D007011 - hypoparathyroidism
+D010279 - parathyroid gland disease
+D049950 - primary hyperparathyroidism
+D003233 - allergic conjunctivitis
+D006871 - hydrophthalmos
+D003232 - acute hemorrhagic conjunctivitis
+D025242 - spondyloarthropathy
+D054517 - orbital cellulitis
+D001063 - appendix cancer
+D000751 - neonatal anemia
+D004211 - disseminated intravascular coagulation
+D014813 - vitamin K deficiency hemorrhagic disease
+D014438 - Brill-Zinsser disease
+D014437 - typhus
+D010698 - social phobia
+D002372 - cat-scratch disease
+D011818 - rabies
+D009956 - ornithosis
+D014141 - trachoma
+D006480 - hemorrhagic fever with renal syndrome
+D010899 - pituitary apoplexy
+D007733 - Kyasanur forest disease
+D011618 - schizophreniform disorder
+D000387 - ainhum
+D004886 - erysipelas
+D012507 - sarcoidosis
+D012226 - rhinoscleroma
+D005674 - Lemierre's syndrome
+D013742 - tetanus
+D011020 - pneumocystosis
+D005889 - gingival recession
+D001112 - arcus senilis
+D015422 - scleral disease
+D001744 - bladder calculus
+D010217 - Phlebotomus fever
+D007906 - lens subluxation
+D008531 - megacolon
+D058429 - gnathomiasis
+D008579 - spinal meningioma
+D016510 - corneal neovascularization
+D003456 - cryptorchidism
+D020802 - epidural abscess
+D013354 - subdural empyema
+D012128 - adult respiratory distress syndrome
+D011654 - pulmonary edema
+D006331 - heart disease
+D011704 - pyelonephritis
+D011705 - xanthogranulomatous pyelonephritis
+D003354 - diphtheria
+D002833 - choroiditis
+D005099 - alternating exotropia
+D020426 - sciatic neuropathy
+D011559 - pseudotumor cerebri
+D010024 - osteoporosis
+D010494 - constrictive pericarditis
+D010490 - hemopericardium
+D006732 - Horner's syndrome
+D002305 - cardiac tamponade
+D008944 - mitral valve insufficiency
+D003929 - diabetic autonomic neuropathy
+D010035 - suppurative otitis media
+D019959 - rumination disorder
+D006502 - Budd-Chiari syndrome
+D014063 - fissured tongue
+D007829 - laryngostenosis
+D000270 - Adie syndrome
+D057129 - Chandler syndrome
+D005642 - Fuchs' endothelial dystrophy
+D002805 - chondrocalcinosis
+D058437 - hypertensive retinopathy
+D031300 - retinal vasculitis
+D009449 - neurocirculatory asthenia
+D008584 - Listeria meningitis
+D008088 - listeriosis
+D011128 - Cauda equina syndrome
+D004402 - Riley-Day syndrome
+D013547 - Frey syndrome
+D006177 - infant gynecomastia
+D016921 - fungal meningitis
+D011085 - polycystic ovary syndrome
+D017588 - hyperandrogenism
+D010412 - penile cancer
+D003790 - dental pulp necrosis
+D018382 - thyroid hormone resistance syndrome
+D009230 - myxedema
+D011305 - presbyopia
+D010390 - cicatricial pemphigoid
+D003117 - blue color blindness
+D009400 - nephrosclerosis
+D009855 - onchocerciasis
+D006949 - familial hyperlipidemia
+D006338 - heart cancer
+D004406 - dysgammaglobulinemia
+D006954 - hyperlipoproteinemia type V
+D003923 - lipoatrophic diabetes
+D003925 - diabetic angiopathy
+D016640 - gestational diabetes
+D011236 - prediabetes syndrome
+D039141 - oculopharyngeal muscular dystrophy
+D006953 - hyperlipoproteinemia type IV
+D049310 - distal muscular dystrophy
+D006014 - glycogen storage disease VII
+D009223 - myotonic dystrophy type 1
+D020388 - Duchenne muscular dystrophy
+D049288 - limb-girdle muscular dystrophy
+D003635 - Cornelia de Lange syndrome
+D020389 - Emery-Dreifuss muscular dystrophy
+D020391 - facioscapulohumeral muscular dystrophy
+D008193 - Lyme disease
+D042883 - choledocholithiasis
+D000747 - hypochromic anemia
+D001982 - bronchial disease
+D009759 - spontaneous ocular nystagmus
+D001251 - astigmatism
+D011502 - protein-energy malnutrition
+D014516 - ureter cancer
+D006530 - hepatorenal syndrome
+D047728 - degenerative myopia
+D009216 - myopia
+D019575 - cortical blindness
+D012640 - visual epilepsy
+D003025 - clubfoot
+D009404 - nephrotic syndrome
+D003329 - coronary artery vasospasm
+D003328 - coronary thrombosis
+D020429 - tibial neuropathy
+D020774 - Pick's disease
+D013282 - denture stomatitis
+D020422 - mononeuropathy
+D014625 - vaginal cancer
+D004473 - ecthyma
+D018589 - gastroparesis
+D010524 - peripheral nervous system neoplasm
+D006258 - head and neck cancer
+D007562 - Creutzfeldt-Jakob disease
+D004941 - esophagitis
+D013580 - synostosis
+D001906 - botulism
+D009767 - morbid obesity
+D011218 - Prader-Willi syndrome
+D002312 - hypertrophic cardiomyopathy
+D010023 - osteopoikilosis
+D013086 - spermatic cord torsion
+D013088 - spermatocele
+D005833 - female reproductive organ cancer
+D018917 - anterior ischemic optic neuropathy
+D006929 - Conn's syndrome
+D009879 - sympathetic ophthalmia
+D015864 - panuveitis
+D006967 - allergic hypersensitivity disease
+D003453 - cryptococcosis
+D015518 - Rett syndrome
+D011906 - sodoku disease
+D014277 - trigeminal neuralgia
+D014623 - vaginal disease
+D009902 - optic neuritis
+D006486 - hemosiderosis
+D011649 - pulmonary alveolar proteinosis
+D010842 - pica disease
+D014890 - Wegener's granulomatosis
+D006467 - factor VIII deficiency
+D019263 - dysthymic disorder
+D001750 - neurogenic bladder
+D008216 - lymphocytic choriomeningitis
+D001100 - arachnoiditis
+D008582 - aseptic meningitis
+D002349 - carpal tunnel syndrome
+D005213 - fascioloidiasis
+D020425 - radial nerve lesion
+D006042 - goiter
+D017074 - common variable immunodeficiency
+D004451 - echinostomiasis
+D004011 - dicrocoeliasis
+D003715 - dengue disease
+D019595 - dengue hemorrhagic fever
+D004605 - filarial elephantiasis
+D016104 - oligohydramnios
+D020961 - Lewy body dementia
+D002357 - cartilage disease
+D008105 - primary biliary cirrhosis
+D001655 - bile reflux
+D017086 - beta thalassemia
+D002836 - hemophilia B
+D009503 - neutropenia
+D003103 - coloboma
+D015783 - aniridia
+D015858 - anisometropia
+D006479 - Crimean-Congo hemorrhagic fever
+D012563 - paranoid schizophrenia
+D014607 - Vogt-Koyanagi-Harada disease
+D007184 - Bloch-Sulzberger syndrome
+D014820 - vitiligo
+D007566 - Dubin-Johnson syndrome
+D014582 - urticaria pigmentosa
+D003317 - corneal granular dystrophy
+D014190 - transvestism
+D006398 - hematocele of tunica vaginalis testis
+D007248 - male infertility
+D014646 - varicocele
+D010013 - osteogenesis imperfecta
+D005329 - fetishism
+D006111 - Graves' disease
+D008288 - malaria
+D001996 - bronchopneumonia
+D009134 - spinal muscular atrophy
+D017029 - complex partial epilepsy
+D004403 - dysentery
+D004405 - shigellosis
+D001447 - balantidiasis
+D018500 - nephrogenic diabetes insipidus
+D020790 - neurohypophyseal diabetes insipidus
+D004774 - entropion
+D005715 - pathological gambling
+D007938 - leukemia
+D005391 - pyromania
+D014008 - tinea pedis
+D000741 - aplastic anemia
+D014846 - vulva cancer
+D010198 - pancytopenia
+D013436 - sulfhemoglobinemia
+D006962 - secondary hyperparathyroidism
+D001778 - blood coagulation disease
+D020421 - Vagus nerve disease
+D020330 - Bell's palsy
+D012167 - retinal perforation
+D014257 - trichuriasis
+D013641 - tarsal tunnel syndrome
+D014842 - von Willebrand's disease
+D014253 - trichostrongylosis
+D006506 - hepatitis A
+D014252 - trichostrongyloidiasis
+D006501 - hepatic coma
+D006463 - hemolytic-uremic syndrome
+D007683 - acute kidney tubular necrosis
+D004370 - Duane retraction syndrome
+D017246 - chronic progressive external ophthalmoplegia
+D015866 - posterior uveitis
+D014524 - urethral obstruction
+D003410 - Cri-Du-Chat syndrome
+D010249 - parametritis
+D046248 - hypertrophic pyloric stenosis
+D011707 - pyloric stenosis
+D000160 - vestibulocochlear nerve disease
+D020254 - tooth ankylosis
+D010229 - paracoccidioidomycosis
+D001759 - blastomycosis
+D006934 - hypercalcemia
+D009397 - nephrocalcinosis
+D020828 - pseudobulbar palsy
+D020338 - vestibular neuronitis
+D009464 - acoustic neuroma
+D011782 - locked-in syndrome
+D007889 - leiomyoma
+D013683 - hereditary hemorrhagic telangiectasia
+D002640 - hyperprolactinemia
+D001260 - ataxia telangiectasia
+D005621 - Friedreich ataxia
+D002527 - myoclonic cerebellar dyssynergia
+D004613 - Ellis-Van Creveld syndrome
+D006819 - newborn respiratory distress syndrome
+D013684 - telangiectasis
+D002537 - cerebral atherosclerosis
+D010009 - multiple epiphyseal dysplasia
+D018357 - respiratory syncytial virus infectious disease
+D015868 - pars planitis
+D015867 - intermediate uveitis
+D006936 - hypercementosis
+D021866 - cyclosporiasis
+D002830 - choroid cancer
+D020333 - tolosa-hunt syndrome
+D020326 - migraine without aura
+D009083 - mucopolysaccharidosis
+D016532 - mucopolysaccharidosis II
+D009087 - mucopolysaccharidosis VI
+D009084 - mucopolysaccharidosis III
+D008059 - mucopolysaccharidosis I
+D016538 - Sly syndrome
+D009085 - mucopolysaccharidosis IV
+D013958 - thyroid crisis
+D000724 - ancylostomiasis
+D020275 - Guillain-Barre syndrome
+D001321 - autistic disorder
+D012002 - rectal disease
+D006816 - Huntington's disease
+D002318 - cardiovascular system disease
+D006998 - hypochondriasis
+D019846 - Miller Fisher syndrome
+D019636 - neurodegenerative disease
+D012859 - Sjogren's syndrome
+D007638 - keratoconjunctivitis sicca
+D013364 - submandibular gland disease
+D008882 - Mikulicz disease
+D012797 - necrotizing sialometaplasia
+D015494 - sialolithiasis
+D013919 - thromboangiitis obliterans
+D007000 - hypodermyiasis
+D012610 - screw worm infectious disease
+D004695 - endocardial fibroelastosis
+D002311 - dilated cardiomyopathy
+D004719 - endomyocardial fibrosis
+D007625 - Kearns-Sayre syndrome
+D002310 - alcoholic cardiomyopathy
+D000168 - acrocephalosyndactylia
+D011045 - Poland syndrome
+D013103 - hereditary spherocytosis
+D016780 - Plasmodium vivax malaria
+D018921 - leukostasis
+D000380 - agranulocytosis
+D019955 - conduct disorder
+D016893 - carotid stenosis
+D013349 - subclavian steal syndrome
+D014715 - vertebrobasilar insufficiency
+D012178 - retinopathy of prematurity
+D060368 - lobomycosis
+D020236 - transient global amnesia
+D001446 - balanitis
+D012061 - relapsing fever
+D010547 - persistent fetal circulation syndrome
+D012080 - renal osteodystrophy
+D008271 - eumycotic mycetoma
+D008151 - Lown-Ganong-Levine syndrome
+D007969 - periventricular leukomalacia
+D020765 - intracranial arterial disease
+D015356 - branch retinal artery occlusion
+D018860 - Sneddon syndrome
+D009072 - Moyamoya disease
+D020301 - intracranial vasospasm
+D010304 - paronychia
+D005923 - focal segmental glomerulosclerosis
+D017359 - HELLP syndrome
+D015829 - suppurative uveitis
+D014605 - uveitis
+D001229 - allergic bronchopulmonary aspergillosis
+D045723 - esophageal diverticulosis
+D004931 - megaesophagus
+D006073 - gout
+D001932 - brain cancer
+D047268 - lingual goiter
+D006044 - nodular goiter
+D006043 - endemic goiter
+D006045 - substernal goiter
+D014091 - tooth resorption
+D001528 - Behcet's disease
+D011006 - pneumatosis cystoides intestinalis
+D008641 - mesenteric vascular occlusion
+D004239 - diverticulitis of colon
+D014435 - typhoid fever
+D011164 - porphyria
+D046349 - hereditary coproporphyria
+D046351 - erythropoietic protoporphyria
+D017092 - cutaneous porphyria
+D012295 - Rift Valley fever
+D012544 - Scheuermann's disease
+D010188 - exocrine pancreatic insufficiency
+D046768 - hyperinsulinemic hypoglycemia
+D014125 - congenital toxoplasmosis
+D010378 - pedophilia
+D046789 - chondromalacia patellae
+D004535 - Ehlers-Danlos syndrome
+D021081 - obsolete chronobiology disease
+D016750 - Stiff-Person syndrome
+D012612 - scrub typhus
+D019896 - alpha 1-antitrypsin deficiency
+D009221 - fibrodysplasia ossificans progressiva
+D013700 - temporal arteritis
+D009080 - Kawasaki disease
+D000742 - congenital dyserythropoietic anemia
+D000752 - pernicious anemia
+D000749 - megaloblastic anemia
+D029503 - Diamond-Blackfan anemia
+D012010 - pure red-cell aplasia
+D000793 - angioid streaks
+D014608 - uveoparotid fever
+D017565 - pulmonary sarcoidosis
+D004410 - alexia
+D055496 - neurogenic bowel
+D029502 - congenital hypoplastic anemia
+D014526 - urethritis
+D014211 - bejel
+D005896 - glanders
+D003047 - coccidioidomycosis
+D015423 - scleritis
+D013796 - thanatophoric dysplasia
+D016715 - Proteus syndrome
+D007580 - jejunal cancer
+D014064 - hairy tongue
+D020331 - Mobius syndrome
+D014402 - tuberous sclerosis
+D010254 - paranasal sinus disease
+D008118 - loiasis
+D010022 - osteopetrosis
+D006961 - hyperparathyroidism
+D057066 - low tension glaucoma
+D010302 - secondary Parkinson disease
+D015812 - angle-closure glaucoma
+D015594 - optic disk drusen
+D001228 - aspergillosis
+D020953 - neuroaspergillosis
+D005330 - twin-to-twin transfusion syndrome
+D007732 - kwashiorkor
+D008444 - maxillary sinus neoplasm
+D002779 - cholestasis
+D004368 - alveolar periostitis
+D004461 - eclampsia
+D001656 - biliary atresia
+D001651 - extrahepatic cholestasis
+D054092 - patent foramen ovale
+D002169 - campylobacteriosis
+D005236 - favism
+D005199 - Fanconi anemia
+D017889 - exfoliation syndrome
+D004673 - post-vaccinal encephalitis
+D020083 - SAPHO syndrome
+D061686 - premature ejaculation
+D009050 - dental fluorosis
+D020818 - neuroschistosomiasis
+D012614 - scurvy
+D001602 - beriberi
+D010202 - panophthalmitis
+D007766 - excessive tearing
+D003003 - clonorchiasis
+D009889 - opisthorchiasis
+D000224 - Addison's disease
+D004819 - epidermodysplasia verruciformis
+D002602 - chancroid
+D016889 - endometrial cancer
+D003235 - inclusion conjunctivitis
+D000258 - pharyngoconjunctival fever
+D006950 - familial combined hyperlipidemia
+D005588 - Fox-Fordyce disease
+D006938 - familial hypercholesterolemia
+D020437 - hypoglossal nerve disease
+D008219 - lymphogranuloma venereum
+D013543 - sweat gland disease
+D004374 - patent ductus arteriosus
+D000012 - abetalipoproteinemia
+D020432 - trochlear nerve disease
+D005156 - facial neuralgia
+D020018 - hypoactive sexual desire disorder
+D007009 - hypolipoproteinemia
+D013631 - Tangier disease
+D012804 - sick sinus syndrome
+D011115 - polyneuropathy
+D001716 - bird fancier's lung
+D010212 - squamous cell papilloma
+D006995 - hypobetalipoproteinemia
+D007863 - Norum disease
+D013001 - somatization disorder
+D057765 - eosinophilic esophagitis
+D005892 - necrotizing ulcerative gingivitis
+D007767 - lacrimal duct obstruction
+D005158 - facial paralysis
+D012553 - urinary schistosomiasis
+D065635 - benign paroxysmal positional nystagmus
+D046589 - CADASIL
+D001748 - bladder neck obstruction
+D018856 - interstitial cystitis
+D004942 - peptic esophagitis
+D002973 - cleidocranial dysplasia
+D017545 - thoracic aortic aneurysm
+D008104 - alcoholic liver cirrhosis
+D013991 - Tietze's syndrome
+D016878 - POEMS syndrome
+D016884 - autoimmune polyendocrine syndrome
+D020941 - neonatal myasthenia gravis
+D007500 - iritis
+D016778 - Plasmodium falciparum malaria
+D001742 - blackwater fever
+D016779 - cerebral malaria
+D014606 - anterior uveitis
+D005155 - geniculate ganglionitis
+D013716 - epicondylitis
+D017213 - root caries
+D001907 - boutonneuse fever
+D053684 - De Quervain disease
+D012772 - toxic shock syndrome
+D008069 - multiple symmetric lipomatosis
+D008072 - familial lipoprotein lipase deficiency
+D001437 - bacteriuria
+D018438 - blue toe syndrome
+D053039 - ureterolithiasis
+D015799 - gyrate atrophy
+D015862 - choroid disease
+D018306 - central neurocytoma
+D006623 - von Hippel-Lindau disease
+D017099 - selective IgG deficiency disease
+D020269 - alcoholic neuropathy
+D002062 - frozen shoulder
+D054067 - dihydropyrimidine dehydrogenase deficiency
+D000141 - renal tubular acidosis
+D024821 - metabolic syndrome X
+D053713 - azoospermia
+D009845 - oligospermia
+D004314 - Down syndrome
+D016706 - adult-onset Still's disease
+D014515 - ureteral disease
+D005600 - fragile X syndrome
+D002180 - oral candidiasis
+D020936 - benign neonatal seizures
+D011665 - pulmonary valve insufficiency
+D015209 - sclerosing cholangitis
+D019534 - shoulder impingement syndrome
+D010004 - primary hypertrophic osteoarthropathy
+D046788 - patellofemoral pain syndrome
+D001177 - neurogenic arthropathy
+D004437 - Ebstein anomaly
+D044542 - LEOPARD syndrome
+D004654 - tuberculous empyema
+D000796 - skin epithelioid hemangioma
+D011001 - pleuropneumonia
+D008382 - Marfan syndrome
+D010300 - Parkinson's disease
+D010301 - postencephalitic Parkinson disease
+D013969 - suppurative thyroiditis
+D011776 - pyuria
+D017827 - Machado-Joseph disease
+D019559 - capillary leak syndrome
+D020754 - autosomal dominant cerebellar ataxia
+D007873 - Legg-Calve-Perthes disease
+D004320 - dracunculiasis
+D004154 - dipetalonemiasis
+D020435 - glossopharyngeal neuralgia
+D006059 - gonadal dysgenesis
+D006061 - 46 XY gonadal dysgenesis
+D006060 - mixed gonadal dysgenesis
+D023961 - 46 XX gonadal dysgenesis
+D020513 - hyperkalemic periodic paralysis
+D020514 - hypokalemic periodic paralysis
+D005203 - farmer's lung
+D002007 - Brucella abortus brucellosis
+D009459 - neuroleptic malignant syndrome
+D018804 - hantavirus pulmonary syndrome
+D006559 - herpes gestationis
+D020150 - chorea gravidarum
+D013174 - sporotrichosis
+D004377 - dumping syndrome
+D015223 - Wolman disease
+D008065 - lipoid proteinosis
+D000795 - Fabry disease
+D005645 - fucosidosis
+D016111 - Sjogren-Larsson syndrome
+D015217 - cholesterol ester storage disease
+D009472 - neuronal ceroid lipofuscinosis
+D009542 - Niemann-Pick disease
+D017624 - WAGR syndrome
+D012202 - Reye syndrome
+D005929 - geographic tongue
+D012391 - root resorption
+D009901 - Foster-Kennedy syndrome
+D005928 - glossitis
+D007037 - hypothyroidism
+D017700 - cholesterol embolism
+D011472 - prostatitis
+D007762 - labyrinthitis
+D056730 - Silver-Russell syndrome
+D019082 - Smith-Lemli-Opitz syndrome
+D004476 - Clouston syndrome
+D005693 - galactokinase deficiency
+D003865 - major depressive disorder
+D056693 - propionic acidemia
+D019280 - branchiootorenal syndrome
+D020914 - centronuclear myopathy
+D054179 - hereditary angioedema
+D010520 - aggressive periodontitis
+D058495 - Sotos syndrome
+D008202 - lymphangioma
+D056807 - argininosuccinic aciduria
+D009849 - olivopontocerebellar atrophy
+D057130 - Leber congenital amaurosis
+D053358 - hypohidrotic ectodermal dysplasia
+D005882 - gingival disease
+D003550 - cystic fibrosis
+D004443 - echinococcosis
+D002771 - cholera
+D001523 - disease of mental health
+D002177 - candidiasis
+D010554 - avoidant personality disorder
+D002430 - cecal benign neoplasm
+D002429 - cecal disease
+D010201 - nodular nonsuppurative panniculitis
+D015434 - panniculitis
+D010995 - pleural disease
+D018198 - mixed cell type cancer
+D010282 - parathyroid carcinoma
+D001183 - arthus reaction
+D007105 - hypersensitivity reaction type III disease
+D000799 - angioedema
+D019965 - cognitive disorder
+D002862 - chromoblastomycosis
+D003881 - dermatomycosis
+D009181 - fungal infectious disease
+D004483 - ectropion
+D006850 - normal pressure hydrocephalus
+D000437 - alcohol abuse
+D045745 - limited scleroderma
+D045743 - diffuse scleroderma
+D014387 - laryngeal tuberculosis
+D056586 - acute chest syndrome
+D012213 - rheumatic fever
+D013921 - thrombocytopenia
+D006978 - renovascular hypertension
+D003866 - endogenous depression
+D003863 - mental depression
+D008199 - lymphadenitis
+D007642 - keratosis
+D001943 - breast cancer
+D018567 - male breast cancer
+D018226 - breast fibroadenoma
+D009369 - cancer
+D018300 - intraductal papilloma
+D003557 - benign breast phyllodes tumor
+D016862 - central nervous system tuberculosis
+D014394 - skeletal tuberculosis
+D006345 - ventricular septal defect
+D015173 - supratentorial cancer
+D017600 - melanotic neuroectodermal tumor
+D010871 - pineoblastoma
+D003556 - cystitis
+D006343 - heart septal defect
+D006330 - congenital heart disease
+D005901 - glaucoma
+D015355 - neovascular glaucoma
+D018358 - neuroendocrine tumor
+D007057 - ichthyosis
+D016113 - congenital ichthyosiform erythroderma
+D009140 - musculoskeletal system disease
+D004701 - endocrine gland cancer
+D016114 - X-linked ichthyosis
+D043202 - steroid inherited metabolic disorder
+D016112 - ichthyosis vulgaris
+D017599 - neuroectodermal tumor
+D001024 - aortic valve stenosis
+D049309 - clear cell acanthoma
+D004381 - duodenal ulcer
+D012170 - retinal vein occlusion
+D003457 - cryptosporidiosis
+D011605 - drug psychosis
+D019043 - vascular cancer
+D008946 - mitral valve stenosis
+D005150 - facial hemiatrophy
+D008556 - Melkersson-Rosenthal syndrome
+D003291 - conversion disorder
+D008532 - toxic megacolon
+D000783 - vascular disease
+D013964 - thyroid cancer
+D010911 - pituitary cancer
+D000314 - adrenal rest tumor
+D010493 - pericarditis
+D010190 - pancreatic cancer
+D018273 - pancreatic endocrine carcinoma
+D007516 - islet cell tumor
+D018214 - ossifying fibroma
+D018278 - neuroendocrine carcinoma
+D009443 - neuritis
+D012019 - reflex sympathetic dystrophy
+D002114 - calcinosis
+D013226 - status epilepticus
+D004832 - childhood absence epilepsy
+D004827 - epilepsy
+D004829 - idiopathic generalized epilepsy
+D016883 - diabetic ketoacidosis
+D007706 - Menkes disease
+D001859 - bone cancer
+D002189 - cannabis dependence
+D002780 - intrahepatic cholestasis
+D002636 - cherubism
+D005357 - McCune Albright syndrome
+D007573 - jaw cancer
+D012888 - skull cancer
+D006101 - giant cell reparative granuloma
+D012735 - sexual dysfunction
+D006344 - atrial heart septal defect
+D006526 - hepatitis C
+D006524 - viral hepatitis
+D012811 - sigmoid neoplasm
+D012810 - sigmoid disease
+D051677 - malignant fibroxanthoma
+D008545 - melanoma
+D018240 - endodermal sinus tumor
+D007926 - Lesch-Nyhan syndrome
+D018312 - sex cord-gonadal stromal tumor
+D007713 - Klinefelter's syndrome
+D012734 - sex differentiation disease
+D007006 - hypogonadism
+D005776 - Gaucher's disease
+D013106 - sphingolipidosis
+D018980 - Williams-Beuren syndrome
+D021921 - supravalvular aortic stenosis
+D007849 - Laurence-Moon syndrome
+D007027 - hypothalamic disease
+D017204 - Angelman syndrome
+D012415 - Rubinstein-Taybi syndrome
+D004413 - dysostosis
+D020788 - Bardet-Biedl syndrome
+D050197 - atherosclerosis
+D014245 - trichomoniasis
+D002764 - cholecystitis
+D005184 - fallopian tube disease
+D005185 - fallopian tube carcinoma
+D007890 - leiomyosarcoma
+D018195 - adenosarcoma
+D012004 - rectal neoplasm
+D008185 - Lutembacher's syndrome
+D005870 - giant cell tumor
+D009463 - neuroma
+D019773 - preretinal fibrosis
+D009372 - connective tissue cancer
+D006946 - hyperinsulinism
+D005096 - exostosis
+D001008 - anxiety disorder
+D003147 - communication disorder
+D004678 - encephalomalacia
+D012216 - enthesopathy
+D006509 - hepatitis B
+D056487 - drug-induced hepatitis
+D003699 - hepatitis D
+D019693 - autoimmune hepatitis
+D015576 - hyperostosis
+D015523 - maxillary sinusitis
+D013313 - post-traumatic stress disorder
+D002178 - chronic mucocutaneous candidiasis
+D014845 - vulvar disease
+D005097 - hereditary multiple exostoses
+D018252 - syringoma
+D007416 - intestinal perforation
+D036982 - heel spur
+D009224 - myotonia congenita
+D021865 - cystoisosporiasis
+D003048 - coccidiosis
+D005489 - focal dermal hypoplasia
+D014406 - tularemia
+D014401 - urogenital tuberculosis
+D009396 - nephroblastoma
+D003731 - dental caries
+D014627 - vaginitis
+D005142 - eyelid neoplasm
+D005134 - ocular cancer
+D000567 - amelogenesis imperfecta
+D003110 - colon cancer
+D005177 - factor XIII deficiency
+D020147 - coagulation protein disease
+D006474 - hemorrhagic disease
+D025861 - inherited blood coagulation disease
+D005168 - factor VII deficiency
+D005166 - factor V deficiency
+D001606 - Bernard-Soulier syndrome
+D001791 - blood platelet disease
+D013915 - Glanzmann's thrombasthenia
+D005171 - factor X deficiency
+D010981 - platelet storage pool deficiency
+D013920 - essential thrombocythemia
+D013922 - thrombocytosis
+D005173 - factor XI deficiency
+D005175 - factor XII deficiency
+D004828 - focal epilepsy
+D007020 - prothrombin deficiency
+D000347 - congenital afibrinogenemia
+D006521 - hepatitis
+D002546 - transient cerebral ischemia
+D055009 - spondylosis
+D002577 - cervix disease
+D000844 - ankylosis
+D002181 - vulvovaginal candidiasis
+D014848 - vulvovaginitis
+D010608 - pharyngitis
+D006058 - gonadal disease
+D017497 - hidradenitis suppurativa
+D016575 - hidradenitis
+D005831 - female reproductive system disease
+D007922 - leptospirosis
+D016472 - lateral sclerosis
+D013169 - spondylolysis
+D019956 - stereotypic movement disorder
+D009617 - nocardiosis
+D002545 - brain ischemia
+D008173 - obstructive lung disease
+D005759 - gastroenteritis
+D008339 - mandibular cancer
+D003394 - Crouzon syndrome
+D003398 - craniosynostosis
+D001161 - arteriosclerosis
+D019189 - iron metabolism disease
+D006432 - hemochromatosis
+D000750 - myelophthisic anemia
+D000740 - anemia
+D000748 - macrocytic anemia
+D011186 - post-thrombotic syndrome
+D014901 - West Nile encephalitis
+D019150 - neuroaxonal dystrophy
+D005733 - gangliosidosis
+D004612 - hereditary elliptocytosis
+D009103 - multiple sclerosis
+D020529 - relapsing-remitting multiple sclerosis
+D011681 - pupil disease
+D007647 - kernicterus
+D007567 - neonatal jaundice
+D014899 - Wernicke encephalopathy
+D010051 - ovarian cancer
+D007499 - iris disease
+D012227 - rhinosporidiosis
+D016586 - granular cell tumor
+D005729 - gangliocytoma
+D005918 - glomus tumor
+D006964 - hyperpituitarism
+D000172 - acromegaly
+D018455 - protein S deficiency
+D019851 - thrombophilia
+D015417 - motor peripheral neuropathy
+D014717 - central nervous system origin vertigo
+D014134 - trachea leiomyoma
+D013036 - infantile epileptic encephalopathy
+D010760 - phosphorus metabolism disease
+D009477 - sensory peripheral neuropathy
+D020252 - gastric antral vascular ectasia
+D016888 - angiodysplasia
+D014077 - tooth erosion
+D001015 - Takayasu's arteritis
+D020232 - Kluver-Bucy syndrome
+D001478 - nevoid basal cell carcinoma syndrome
+D002280 - basal cell carcinoma
+D009920 - orchitis
+D013733 - testicular disease
+D011604 - alcoholic psychosis
+D009401 - nephrosis
+D013158 - splenic disease
+D019337 - hematologic cancer
+D013159 - splenic infarction
+D020277 - chronic inflammatory demyelinating polyneuritis
+D018887 - Landau-Kleffner syndrome
+D020195 - reflex epilepsy
+D006391 - hemangioma
+D020293 - granulomatous angiitis
+D011081 - relapsing polychondritis
+D009293 - opiate dependence
+D009021 - morphine dependence
+D010482 - suppurative periapical periodontitis
+D002575 - cervicitis
+D015593 - retinal drusen
+D015620 - malignant histiocytic disease
+D018902 - rhizomelic chondrodysplasia punctata
+D002806 - chondrodysplasia punctata
+D020642 - acatalasia
+D000361 - agammaglobulinemia
+D007822 - larynx cancer
+D002812 - chondroma
+D018194 - adenomyoma
+D020288 - choroid plexus papilloma
+D007680 - kidney cancer
+D003537 - cystadenoma
+D001948 - ovarian Brenner tumor
+D006393 - hemangiopericytoma
+D013330 - struma ovarii
+D054973 - perivascular epithelioid cell tumor
+D008654 - benign mesothelioma
+D002804 - chondroblastoma
+D054363 - benign fibrous mesothelioma
+D003884 - dermoid cyst
+D009208 - myoepithelioma
+D013544 - sweat gland neoplasm
+D008637 - mesenchymoma
+D002295 - transitional cell carcinoma
+D000232 - adenofibroma
+D009214 - myoma
+D007984 - Leydig cell tumor
+D013586 - pigmented villonodular synovitis
+D013585 - synovitis
+D018877 - sick building syndrome
+D010688 - phimosis
+D001816 - Bloom syndrome
+D006468 - hemopneumothorax
+D000169 - acrodermatitis
+D003872 - dermatitis
+D018324 - capillary hemangioma
+D019871 - dyskeratosis congenita
+D004820 - epidermolysis bullosa
+D012872 - vesiculobullous skin disease
+D011038 - Rothmund-Thomson syndrome
+D007644 - keratosis follicularis
+D030981 - Hajdu-Cheney syndrome
+D011561 - pseudoxanthoma elasticum
+D005878 - Gilbert syndrome
+D004427 - auditory system disease
+D011702 - pyelitis
+D006012 - glycogen storage disease V
+D006008 - glycogen storage disease
+D006010 - glycogen storage disease III
+D005953 - glycogen storage disease I
+D006011 - glycogen storage disease IV
+D006015 - glycogen storage disease VIII
+D006009 - glycogen storage disease II
+D006013 - glycogen storage disease VI
+D015270 - Mycobacterium avium complex disease
+D003963 - diaper rash
+D017453 - irritant dermatitis
+D003877 - contact dermatitis
+D050398 - adamantinoma
+D003616 - Dandy-Walker syndrome
+D002526 - cerebellar disease
+D011528 - parasitic protozoa infectious disease
+D009332 - necatoriasis
+D011658 - idiopathic interstitial pneumonia
+D001989 - bronchiolitis obliterans
+D004700 - endocrine system disease
+D008878 - middle lobe syndrome
+D003390 - cranial nerve malignant neoplasm
+D009668 - nose disease
+D042101 - acalculous cholecystitis
+D005847 - geotrichosis
+D001249 - asthma
+D029593 - Jervell-Lange Nielsen syndrome
+D008133 - long QT syndrome
+D002012 - bruxism
+D007943 - hairy cell leukemia
+D006981 - hyperthyroxinemia
+D005067 - euthyroid sick syndrome
+D006445 - hemoglobin C disease
+D006453 - hemoglobinopathy
+D000746 - congenital nonspherocytic hemolytic anemia
+D005955 - glucosephosphate dehydrogenase deficiency
+D062788 - endometriosis of uterus
+D011470 - prostatic adenoma
+D012181 - retrocochlear disease
+D004715 - endometriosis
+D006053 - Goldenhar syndrome
+D008342 - Treacher Collins syndrome
+D007160 - hypersensitivity reaction type IV disease
+D003449 - cryoglobulinemia
+D015432 - membranoproliferative glomerulonephritis
+D005921 - glomerulonephritis
+D007715 - Klippel-Trenaunay syndrome
+D009521 - Newcastle disease
+D000453 - aleutian mink disease
+D002609 - Chediak-Higashi syndrome
+D001988 - bronchiolitis
+D045169 - severe acute respiratory syndrome
+D007759 - inner ear disease
+D014397 - pulmonary tuberculosis
+D054463 - photosensitive trichothiodystrophy
+D003057 - Cockayne syndrome
+D010489 - periarthritis
+D012078 - renal artery obstruction
+D007673 - kidney cortex necrosis
+D052177 - cystic kidney disease
+D006959 - primary hyperoxaluria
+D002239 - carbohydrate metabolic disorder
+D007681 - kidney papillary necrosis
+D010501 - perinephritis
+D001002 - anuria
+D005922 - IgA glomerulonephritis
+D010505 - familial Mediterranean fever
+D016736 - antiphospholipid syndrome
+D000230 - adenocarcinoma
+D009373 - germ cell cancer
+D018310 - Sertoli-Leydig cell tumor
+D013736 - testicular cancer
+D006106 - granulosa cell tumor
+D044584 - breast ductal carcinoma
+D018270 - invasive ductal carcinoma
+D016864 - Li-Fraumeni syndrome
+D019966 - substance abuse
+D018267 - acinar cell carcinoma
+D002288 - mucinous adenocarcinoma
+D017449 - allergic contact dermatitis
+D005512 - food allergy
+D014924 - Wissler's syndrome
+D015267 - Churg-Strauss syndrome
+D002277 - carcinoma
+D001449 - Balkan nephropathy
+D010284 - paratyphoid fever
+D005909 - glioblastoma multiforme
+D001254 - astrocytoma
+D005910 - malignant glioma
+D018316 - gliosarcoma
+D004831 - early myoclonic encephalopathy
+D018191 - cystic lymphangioma
+D017563 - interstitial lung disease
+D029424 - chronic obstructive pulmonary disease
+D019214 - gingival overgrowth
+D005891 - gingivitis
+D009380 - nervous system cancer
+D018228 - small cell sarcoma
+D017243 - MERRF syndrome
+D013901 - thoracic outlet syndrome
+D017227 - toxascariasis
+D001198 - ascaridiasis
+D018344 - idiopathic CD4-positive T-lymphocytopenia
+D018283 - papillary cystadenocarcinoma
+D003536 - cystadenocarcinoma
+D000231 - papillary adenocarcinoma
+D002291 - papillary carcinoma
+D018284 - serous cystadenocarcinoma
+D004067 - gastrointestinal system cancer
+D005706 - gallbladder cancer
+D017219 - gastric outlet obstruction
+D011349 - proctitis
+D001004 - anus disease
+D017119 - porphyria cutanea tarda
+D017094 - acute porphyria
+D005148 - facial dermatosis
+D012536 - scalp dermatosis
+D000052 - acanthosis nigricans
+D012592 - scleredema adultorum
+D017520 - mucinoses
+D007868 - leg dermatosis
+D003483 - cutis laxa
+D006952 - hyperlipoproteinemia type III
+D008052 - lipid metabolism disorder
+D007636 - keratoacanthoma
+D008068 - lipomatosis
+D010859 - incontinentia pigmenti achromians
+D006229 - hand dermatosis
+D010787 - photosensitivity disease
+D012878 - skin benign neoplasm
+D007955 - obsolete leukemoid reaction
+D018307 - squamous cell neoplasm
+D000236 - papillary adenoma
+D018308 - inverted papilloma
+D009837 - oligodendroglioma
+D013118 - spinal cord disease
+D017696 - nemaline myopathy
+D009442 - neurilemmoma
+D018317 - peripheral nerve sheath neoplasm
+D016109 - junctional epidermolysis bullosa
+D015493 - tropical spastic paraparesis
+D020371 - Pelizaeus-Merzbacher disease
+D016464 - lysosomal storage disease
+D003711 - demyelinating disease
+D009187 - myelitis
+D002422 - causalgia
+D020918 - complex regional pain syndrome
+D014133 - tracheal disease
+D014135 - tracheal stenosis
+D013271 - gastric dilatation
+D006610 - high pressure neurological syndrome
+D011017 - lipid pneumonia
+D018233 - embryonal rhabdomyosarcoma
+D012208 - rhabdomyosarcoma
+D007589 - Job's syndrome
+D010585 - phagocyte bactericidal dysfunction
+D016116 - piebaldism
+D006105 - chronic granulomatous disease
+D013595 - syringomyelia
+D013945 - thymoma
+D013953 - thymus cancer
+D045908 - monkeypox
+D014615 - vaccinia
+D018238 - gonadoblastoma
+D002817 - chordoma
+D018237 - germinoma
+D018243 - teratocarcinoma
+D013724 - teratoma
+D018236 - embryonal carcinoma
+D009450 - neurodermatitis
+D002493 - central nervous system disease
+D003876 - atopic dermatitis
+D001714 - bipolar disorder
+D018207 - angiomyolipoma
+D000690 - amyotrophic lateral sclerosis
+D013661 - Tay-Sachs disease
+D020143 - gangliosidosis GM2
+D016537 - gangliosidosis GM1
+D012497 - Sandhoff disease
+D019964 - mood disorder
+D011694 - hyperglobulinemic purpura
+D011693 - purpura
+D020938 - partial motor epilepsy
+D004833 - temporal lobe epilepsy
+D019305 - benign epilepsy with centrotemporal spikes
+D020937 - partial sensory epilepsy
+D017034 - frontal lobe epilepsy
+D006188 - haemonchiasis
+D006677 - histrionic personality disorder
+D010002 - osteitis fibrosa
+D010000 - bone inflammation disease
+D009081 - glycoproteinosis
+D014973 - xanthomatosis
+D012516 - osteosarcoma
+D005354 - fibrosarcoma
+D003323 - coronary aneurysm
+D002813 - chondrosarcoma
+D018217 - juxtacortical osteosarcoma
+D008080 - liposarcoma
+D016585 - bacterial vaginosis
+D010510 - periodontal disease
+D010214 - Papillon-Lefevre disease
+D020436 - accessory nerve disease
+D007645 - palmoplantar keratosis
+D003324 - coronary artery disease
+D007177 - inappropriate ADH syndrome
+D015614 - histiocytosis
+D002340 - carotid artery disease
+D001157 - peripheral vascular disease
+D002341 - carotid artery thrombosis
+D008363 - alpha-mannosidosis
+D019574 - optic nerve neoplasm
+D015837 - vestibular disease
+D018979 - inclusion body myositis
+D007827 - laryngitis
+D014591 - uterine disease
+D010145 - cutaneous Paget's disease
+D020520 - brain infarction
+D002579 - cervix erosion
+D018275 - invasive lobular carcinoma
+D001941 - breast disease
+D015811 - iris cancer
+D014604 - uveal cancer
+D014603 - uveal disease
+D009335 - necrobiosis lipoidica
+D002481 - cellulitis
+D034721 - systemic mastocytosis
+D009634 - Noonan syndrome
+D014424 - Turner syndrome
+D008947 - mixed connective tissue disease
+D018279 - signet ring cell adenocarcinoma
+D008415 - mastocytosis
+D018223 - dermatofibrosarcoma protuberans
+D018319 - neurofibrosarcoma
+D014854 - lateral medullary syndrome
+D020526 - brain stem infarction
+D020244 - middle cerebral artery infarction
+D002544 - cerebral infarction
+D002539 - cerebral arterial disease
+D020243 - anterior cerebral artery infarction
+D020512 - central core myopathy
+D034081 - chronic wasting disease
+D020192 - Lafora disease
+D020194 - Unverricht-Lundborg syndrome
+D016545 - choroid plexus cancer
+D002551 - cerebral ventricle cancer
+D012515 - mast-cell sarcoma
+D013478 - superior mesenteric artery syndrome
+D004380 - duodenal obstruction
+D011553 - pseudomyxoma peritonei
+D008577 - meningioma
+D008113 - liver cancer
+D012851 - intracranial sinus thrombosis
+D020227 - lateral sinus thrombosis
+D020226 - cavernous sinus thrombosis
+D020225 - sagittal sinus thrombosis
+D012707 - Sertoli cell tumor
+D021441 - pancreatic ductal carcinoma
+D006828 - gestational trophoblastic neoplasm
+D002822 - choriocarcinoma
+D018245 - placental site trophoblastic tumor
+D020258 - toxic encephalopathy
+D018282 - mucinous cystadenocarcinoma
+D015882 - acute retinal necrosis syndrome
+D017825 - Canavan disease
+D017436 - Kallmann syndrome
+D018206 - angiolipoma
+D015174 - epidural neoplasm
+D016543 - central nervous system cancer
+D001014 - aortic aneurysm
+D014594 - uterine cancer
+D044905 - beta-mannosidosis
+D020294 - congenital myasthenic syndrome
+D004652 - empty sella syndrome
+D007029 - hypothalamic neoplasm
+D015325 - pyruvate decarboxylase deficiency
+D001745 - bladder disease
+D000140 - lactic acidosis
+D015324 - pyruvate carboxylase deficiency disease
+D007888 - Leigh disease
+D029461 - sialuria
+D021182 - wheat allergy
+D034701 - cutaneous mastocytosis
+D007383 - intermittent claudication
+D020431 - olfactory nerve disease
+D010497 - pericoronitis
+D018335 - rhabdoid cancer
+D016726 - pulmonary plasma cell granuloma
+D008175 - lung benign neoplasm
+D017241 - MELAS syndrome
+D018304 - olfactory neuroblastoma
+D020516 - brachial plexus neuropathy
+D012871 - skin disease
+D010954 - plasmacytoma
+D013801 - theileriasis
+D018289 - verrucous carcinoma
+D009748 - nutrition disease
+D022861 - Hermansky-Pudlak syndrome
+D020152 - antithrombin III deficiency
+D020151 - protein C deficiency
+D030401 - cytochrome-c oxidase deficiency disease
+D030321 - Denys-Drash syndrome
+D007973 - leukorrhea
+D019522 - vaginal discharge
+D016460 - granuloma annulare
+D000858 - anovulation
+D038921 - Coffin-Lowry syndrome
+D016724 - pleural empyema
+D003414 - Crigler-Najjar syndrome
+D017499 - porokeratosis
+D007592 - arthropathy
+D003389 - cranial nerve palsy
+D017454 - photoallergic dermatitis
+D011040 - toxicodendron dermatitis
+D020762 - posterior cerebral artery infarction
+D012790 - Shwartzman phenomenon
+D000238 - chromophobe adenoma
+D014927 - Wolff-Parkinson-White syndrome
+D003397 - craniopharyngioma
+D019292 - skull base neoplasm
+D010580 - Peutz-Jeghers syndrome
+D005834 - male reproductive organ cancer
+D013924 - thrombophlebitis
+D003112 - colonic pseudo-obstruction
+D003109 - functional colonic disease
+D007418 - intestinal pseudo-obstruction
+D003123 - Lynch syndrome
+D017118 - acute intermittent porphyria
+D010927 - placental insufficiency
+D007340 - insulinoma
+D018251 - hidrocystoma
+D006607 - hidradenoma
+D014847 - vulvitis
+D002283 - bronchus carcinoma
+D001984 - bronchial neoplasm
+D002289 - non-small cell lung carcinoma
+D011371 - progeria
+D000274 - adiposis dolorosa
+D000868 - anterior compartment syndrome
+D047748 - pituitary-dependent Cushing's disease
+D000308 - adrenal gland hyperfunction
+D018268 - adrenocortical carcinoma
+D000303 - adrenal cortex disease
+D000310 - adrenal gland cancer
+D018263 - follicular thyroid carcinoma
+D018265 - papillary follicular thyroid adenocarcinoma
+D002313 - restrictive cardiomyopathy
+D006211 - pantothenate kinase-associated neurodegeneration
+D008538 - Meige syndrome
+D009814 - oesophagostomiasis
+D010029 - ostertagiasis
+D014375 - tuberculosis
+D018088 - multidrug-resistant tuberculosis
+D014393 - oral tuberculosis
+D014518 - ureterocele
+D008039 - linitis plastica
+D002293 - scirrhous adenocarcinoma
+D013231 - steatitis
+D005756 - gastritis
+D009059 - mouth disease
+D014385 - gastrointestinal tuberculosis
+D009217 - muscle cancer
+D018232 - alveolar rhabdomyosarcoma
+D014386 - hepatic tuberculosis
+D004383 - duodenogastric reflux
+D004378 - duodenal disease
+D014264 - tricuspid valve stenosis
+D006349 - heart valve disease
+D014262 - tricuspid valve insufficiency
+D014328 - trophoblastic neoplasm
+D008107 - liver disease
+D000377 - agnosia
+D013984 - tick infestation
+D004478 - parasitic ectoparasitic infectious disease
+D009260 - nail disease
+D004894 - erythrasma
+D009236 - myxosarcoma
+D003137 - common bile duct disease
+D001649 - bile duct disease
+D001657 - biliary dyskinesia
+D009918 - orbital cancer
+D003811 - dentinogenesis imperfecta
+D018305 - ganglioneuroblastoma
+D002601 - syphilis
+D012203 - Rh isoimmunization
+D001787 - blood group incompatibility
+D012595 - systemic scleroderma
+D011556 - pseudopseudohypoparathyroidism
+D011547 - pseudohypoparathyroidism
+D001184 - articulation disorder
+D004454 - echolalia
+D009155 - mutism
+D012594 - scleroderma
+D020767 - intracranial thrombosis
+D044882 - glucose metabolism disease
+D006943 - hyperglycemia
+D020428 - femoral neuropathy
+D006983 - hypertrichosis
+D020427 - peroneal neuropathy
+D020295 - brain stem cancer
+D002528 - cerebellum cancer
+D006201 - hair disease
+D011711 - pyoderma
+D018203 - endometrial stromal sarcoma
+D009135 - myopathy
+D051642 - histiocytoma
+D018227 - clear cell sarcoma
+D012509 - spindle cell sarcoma
+D002296 - carcinosarcoma
+D018234 - alveolar soft part sarcoma
+D023903 - coronary restenosis
+D023921 - coronary stenosis
+D016098 - Gerstmann-Straussler-Scheinker syndrome
+D003229 - conjunctival disease
+D038261 - Alexander disease
+D008557 - melorheostosis
+D010026 - osteosclerosis
+D006958 - Caffey disease
+D010855 - Weissenbacher-Zweymuller syndrome
+D020235 - gait apraxia
+D018229 - angiomyoma
+D000405 - akinetic mutism
+D016890 - encephalitozoonosis
+D016881 - microsporidiosis
+D006175 - gynatresia
+D012587 - scimitar syndrome
+D018212 - bone giant cell tumor
+D011843 - radiculopathy
+D011129 - polyradiculoneuropathy
+D009209 - myofascial pain syndrome
+D018235 - smooth muscle tumor
+D016107 - epidermolysis bullosa acquisita
+D031954 - non-gestational choriocarcinoma
+D019142 - Ebola hemorrhagic fever
+D008379 - Marburg hemorrhagic fever
+D031249 - Erdheim-Chester disease
+D015616 - non-Langerhans-cell histiocytosis
+D002054 - burning mouth syndrome
+D010310 - parovarian cyst
+D014007 - tinea favosa
+D046350 - variegate porphyria
+D008210 - lymphocele
+D018328 - amelanotic melanoma
+D002583 - cervical cancer
+D043204 - apparent mineralocorticoid excess syndrome
+D009157 - myasthenia gravis
+D045724 - stomach diverticulosis
+D019873 - Schnitzler syndrome
+D020766 - intracranial embolism
+D012832 - silo filler's disease
+D016269 - milk allergy
+D021181 - egg allergy
+D021183 - peanut allergy
+D021184 - nut allergy
+D020274 - autoimmune disease of the nervous system
+D047708 - myofibroma
+D020511 - neuromuscular junction disease
+D011565 - pustulosis of palm and sole
+D009468 - neuromuscular disease
+D009783 - occupational dermatitis
+D017484 - phototoxic dermatitis
+D005499 - folliculitis
+D016751 - hepatitis E
+D018219 - fibrous histiocytoma
+D012618 - sea-blue histiocyte syndrome
+D014972 - juvenile xanthogranuloma
+D013005 - somatostatinoma
+D018239 - seminoma
+D004407 - dysgerminoma
+D008269 - cystoid macular edema
+D001477 - Bartter disease
+D002292 - renal cell carcinoma
+D003480 - primary hyperaldosteronism
+D008649 - clear cell adenocarcinoma
+D015499 - renal tubular transport disease
+D000130 - achondroplasia
+D012220 - rhinitis
+D005585 - avian influenza
+D007008 - hypokalemia
+D008949 - pleomorphic adenoma
+D018277 - mucoepidermoid carcinoma
+D006210 - Hallermann-Streiff syndrome
+D007039 - hypotrichosis
+D000381 - dysgraphia
+D000849 - nominal aphasia
+D000237 - basophil adenoma
+D000648 - retrograde amnesia
+D018211 - mesenchymal chondrosarcoma
+D000694 - anal gland neoplasm
+D001005 - anus neoplasm
+D018287 - large cell carcinoma
+D007967 - oral leukoedema
+D008158 - Ludwig's angina
+D001196 - ascariasis
+D004698 - subacute bacterial endocarditis
+D017488 - epidermolytic hyperkeratosis
+D001650 - bile duct cancer
+D001661 - biliary tract cancer
+D003138 - common bile duct neoplasm
+D009379 - muscle benign neoplasm
+D020424 - ulnar neuropathy
+D010484 - periapical granuloma
+D008441 - maxillary neoplasm
+D016142 - holoprosencephaly
+D004687 - Ollier disease
+D006832 - hydranencephaly
+D020240 - ideomotor apraxia
+D016110 - epidermolysis bullosa simplex
+D019572 - retinal cancer
+D012175 - familial retinoblastoma
+D034801 - extracutaneous mastocytoma
+D018777 - multiple chemical sensitivity
+D013786 - thalamic disease
+D005611 - freemartinism
+D013734 - androgen insensitivity syndrome
+D014511 - uremia
+D007634 - keratitis
+D009877 - endophthalmitis
+D011469 - prostate disease
+D049328 - mongolian spot
+D015192 - infratentorial cancer
+D019585 - intracranial hypotension
+D001929 - brain edema
+D012223 - vasomotor rhinitis
+D012222 - atrophic rhinitis
+D002115 - calciphylaxis
+D010921 - placenta accreta
+D020955 - striatonigral degeneration
+D012791 - multiple system atrophy
+D018783 - vasculogenic impotence
+D018202 - pulmonary blastoma
+D018201 - mesoblastic nephroma
+D000794 - angiokeratoma
+D018242 - medulloepithelioma
+D049290 - Tay-Sachs disease AB variant
+D005832 - male reproductive system disease
+D009069 - movement disease
+D019294 - cerebrotendinous xanthomatosis
+D006392 - cavernous hemangioma
+D018196 - adenosquamous carcinoma
+D010015 - Gorham's disease
+D018266 - sebaceous adenocarcinoma
+D020141 - vascular hemostatic disease
+D018315 - subependymal glioma
+D004806 - benign ependymoma
+D003528 - salivary gland adenoid cystic carcinoma
+D003121 - Colorado tick fever
+D014388 - lymph node tuberculosis
+D020190 - juvenile myoclonic epilepsy
+D002282 - bronchiolo-alveolar adenocarcinoma
+D018285 - Klatskin's tumor
+D018281 - intrahepatic cholangiocarcinoma
+D065311 - adenocarcinoma in situ
+D016262 - postpoliomyelitis syndrome
+D011051 - poliomyelitis
+D016108 - epidermolysis bullosa dystrophica
+D009196 - bone marrow cancer
+D001855 - bone marrow disease
+D010495 - pericardial tuberculosis
+D000275 - neurotic disorder
+D009347 - Nelson syndrome
+D005862 - Gerstmann syndrome
+D020238 - prosopagnosia
+D055728 - myelofibrosis
+D054437 - myelodysplastic/myeloproliferative neoplasm
+D000187 - actinobacillosis
+D004604 - elephantiasis
+D008209 - lymphedema
+D019512 - alcoholic pancreatitis
+D010195 - pancreatitis
+D020329 - essential tremor
+D020339 - optic nerve glioma
+D003966 - Camurati-Engelmann disease
+D015826 - trichorhinophalangeal syndrome type II
+D013959 - thyroid gland disease
+D005058 - eunuchism
+D004938 - esophageal cancer
+D002286 - Ehrlich tumor carcinoma
+D008554 - melioidosis
+D010623 - phencyclidine abuse
+D002281 - basosquamous carcinoma
+D018303 - ganglioglioma
+D008103 - liver cirrhosis
+D013899 - thoracic cancer
+D004428 - auricular cancer
+D013540 - swayback
+D003677 - nutritional deficiency disease
+D018231 - leiomyomatosis
+D018318 - plexiform neurofibroma
+D001890 - borna disease
+D010997 - pleural cancer
+D001162 - arteriosclerosis obliterans
+D050379 - arteriolosclerosis
+D036821 - endometrial stromal tumor
+D001025 - aortitis
+D001018 - aortic disease
+D015319 - fructose-1,6-bisphosphatase deficiency
+D018981 - congenital disorder of glycosylation
+D007246 - infertility
+D017121 - hepatoerythropoietic porphyria
+D001023 - aortic valve prolapse
+D018325 - hemangioblastoma
+D015658 - human immunodeficiency virus infectious disease
+D001764 - blepharospasm
+D007410 - intestinal disease
+D005141 - eyelid disease
+D012163 - retinal detachment
+D003788 - dental pulp disease
+D010263 - paraphimosis
+D005886 - gingival hypertrophy
+D020324 - anterograde amnesia
+D003108 - colonic disease
+D017573 - focal epithelial hyperplasia
+D018208 - myxoid liposarcoma
+D003074 - pulmonary coin lesion
+D018296 - pilomatrixoma
+D002759 - bile duct adenoma
+D018249 - oxyphilic adenoma
+D009886 - ophthalmoplegia
+D000239 - acidophil adenoma
+D015175 - prolactinoma
+D010001 - Paget's disease of bone
+D055752 - lung small cell carcinoma
+D018288 - lung oat cell carcinoma
+D012559 - schizophrenia
+D016471 - ovarian hyperstimulation syndrome
+D016649 - premature ovarian failure
+D004421 - dystonia
+D012608 - scrapie
+D016643 - variant Creutzfeldt-Jakob disease
+D018250 - eccrine acrospiroma
+D011668 - pulmonary venoocclusive disease
+D015834 - cochlear disease
+D003230 - conjunctival cancer
+D062625 - clear cell adenofibroma
+D013584 - synovial sarcoma
+D010373 - lice infestation
+D011014 - pneumonia
+D005266 - femoral cancer
+D008479 - mediastinal cancer
+D007674 - kidney disease
+D001506 - Beckwith-Wiedemann syndrome
+D003969 - VIPoma
+D015408 - gastrinoma
+D018286 - lung giant cell carcinoma
+D054061 - Volkmann contracture
+D054198 - precursor lymphoblastic lymphoma/leukemia
+D003784 - dental pulp calcification
+D013120 - spinal cancer
+D005128 - eye disease
+D014263 - tricuspid valve prolapse
+D015179 - large intestine cancer
+D012164 - retinal disease
+D061325 - hereditary breast ovarian cancer syndrome
+D014898 - Werner syndrome
+D001022 - aortic valve insufficiency
+D009896 - optic atrophy
+D009408 - nerve compression syndrome
+D012488 - salpingitis
+D010523 - peripheral nervous system disease
+D012626 - sebaceous gland neoplasm
+D011507 - proteinuria
+D047868 - pulmonary sclerosing hemangioma
+D009914 - oral submucous fibrosis
+D021922 - discrete subaortic stenosis
+D001020 - subvalvular aortic stenosis
+D016511 - MHC class II deficiency
+D006456 - hemoglobinuria
+D058617 - composite lymphoma
+D000743 - hemolytic anemia
+D009203 - myocardial infarction
+D056988 - anterolateral myocardial infarction
+D056989 - inferior myocardial infarction
+D011657 - eosinophilic pneumonia
+D012186 - retroperitoneal cancer
+D000745 - congenital hemolytic anemia
+D000379 - agoraphobia
+D016584 - panic disorder
+D006333 - congestive heart failure
+D004935 - esophageal disease
+D018437 - Brown-Sequard syndrome
+D010264 - paraplegia
+D007153 - primary immunodeficiency disease
+D018302 - gliomatosis cerebri
+D001991 - bronchitis
+D008231 - lymphopenia
+D007970 - leukopenia
+D003231 - conjunctivitis
+D016918 - reactive arthritis
+D001796 - blood protein disease
+D049912 - growth hormone secreting pituitary adenoma
+D054740 - follicular dendritic cell sarcoma
+D058922 - inflammatory breast carcinoma
+D030342 - genetic disease
+D005356 - fibromyalgia
+D009220 - myositis
+D000163 - acquired immunodeficiency syndrome
+D017590 - central pontine myelinolysis
+D008881 - migraine
+D006971 - hypersplenism
+D004679 - encephalomyelitis
+D004310 - double outlet right ventricle
+D013771 - tetralogy of Fallot
+D011666 - pulmonary valve stenosis
+D007968 - progressive multifocal leukoencephalopathy
+D006976 - pulmonary hypertension
+D006223 - Cowden disease
+D004671 - viral encephalitis
+D007729 - kuru
+D017096 - prion disease
+D017492 - seborrheic keratosis
+D003240 - connective tissue disease
+D010265 - plasma cell neoplasm
+D044343 - overnutrition
+D008661 - inherited metabolic disorder
+D000306 - adrenal cortex cancer
+D018370 - leukocyte adhesion deficiency
+D053306 - X-linked hyper IgM syndrome
+D004057 - diffuse idiopathic skeletal hyperostosis
+D002194 - Capgras syndrome
+D013168 - spondylolisthesis
+D056735 - autoimmune lymphoproliferative syndrome
+D055010 - Barre-Lieou syndrome
+D020759 - anterior spinal artery syndrome
+D002561 - cerebrovascular disease
+D013160 - spleen cancer
+D013130 - spinal stenosis
+D002972 - cleft palate
+D001171 - juvenile rheumatoid arthritis
+D013494 - progressive supranuclear palsy
+D001480 - basal ganglia disease
+D024801 - tauopathy
+D010244 - progressive bulbar palsy
+D003161 - compartment syndrome
+D018197 - hepatoblastoma
+D003744 - dental enamel hypoplasia
+D003130 - combat disorder
+D003807 - dentin sensitivity
+D017240 - mitochondrial myopathy
+D028361 - mitochondrial metabolism disease
+D049913 - ACTH-secreting pituitary adenoma
+D003805 - dentin dysplasia
+D017129 - anisakiasis
+D029242 - Leber hereditary optic neuropathy
+D016393 - B-cell lymphoma
+D054752 - Langerhans cell sarcoma
+D013167 - ankylosing spondylitis
+D001172 - rheumatoid arthritis
+D015458 - T-cell leukemia
+D013968 - subacute thyroiditis
+D013966 - thyroiditis
+D000744 - autoimmune hemolytic anemia
+D013967 - autoimmune thyroiditis
+D005887 - congenital epulis
+D014523 - urethral benign neoplasm
+D014571 - urinary system benign neoplasm
+D014522 - urethral disease
+D006402 - hematopoietic system disease
+D049932 - Nijmegen breakage syndrome
+D000881 - anthrax disease
+D010123 - enterobiasis
+D018254 - adenomatoid tumor
+D004238 - diverticulitis
+D055034 - Osgood-Schlatter's disease
+D008206 - lymphatic system disease
+D010437 - peptic ulcer disease
+D010439 - peptic ulcer perforation
+D006069 - gonorrhea
+D057090 - eccrine porocarcinoma
+D012857 - situs inversus
+D013272 - stomach disease
+D009133 - muscular atrophy
+D009447 - neuroblastoma
+D017544 - abdominal aortic aneurysm
+D004066 - gastrointestinal system disease
+D004830 - epilepsy with generalized tonic-clonic seizures
+D064090 - intraocular lymphoma
+D058456 - Coats disease
+D010922 - placenta disease
+D007676 - chronic kidney disease
+D054739 - interdigitating dendritic cell sarcoma
+D007818 - laryngeal disease
+D008924 - mite infestation
+D015814 - ocular hypotension
+D014648 - varicose veins
+D013971 - thyrotoxicosis
+D006980 - hyperthyroidism
+D010178 - Pancoast tumor
+D006395 - hemarthrosis
+D019970 - cocaine abuse
+D008060 - lipodystrophy
+D001170 - septic arthritis
+D008480 - mediastinitis
+D009205 - myocarditis
+D010485 - periapical periodontitis
+D010518 - periodontitis
+D012532 - scabies
+D002386 - cataract
+D001064 - appendicitis
+D014323 - trombiculiasis
+D010007 - osteochondritis dissecans
+D000542 - extrinsic allergic alveolitis
+D011086 - polycythemia
+D007415 - intestinal obstruction
+D000343 - afferent loop syndrome
+D011178 - postgastrectomy syndrome
+D045823 - ileus
+D045822 - intestinal volvulus
+D007443 - intussusception
+D003527 - cyclothymic disorder
+D012257 - ariboflavinosis
+D026681 - pyridoxine deficiency anemia
+D002796 - choline deficiency disease
+D010383 - pellagra
+D058540 - Aicardi syndrome
+D003320 - corneal ulcer
+D041441 - retinoschisis
+D012162 - retinal degeneration
+D007251 - influenza
+D008061 - Whipple disease
+D000196 - actinomycosis
+D001168 - arthritis
+D006831 - polyhydramnios
+D009755 - night blindness
+D008171 - lung disease
+D058499 - fundus dystrophy
+D007169 - impetigo
+D003874 - dermatitis herpetiformis
+D010391 - bullous pemphigoid
+D011660 - Cor pulmonale
+D011111 - polymyalgia rheumatica
+D007012 - hypopharynx cancer
+D005764 - gastroesophageal reflux disease
+D006562 - herpes zoster
+D008228 - reticulosarcoma
+D003095 - collagen disease
+D012751 - Sezary's disease
+D006689 - Hodgkin's lymphoma, lymphocytic-histiocytic predominance
+D015673 - chronic fatigue syndrome
+D015464 - chronic myeloid leukemia
+D017511 - pyoderma gangrenosum
+D028921 - biotinidase deficiency
+D008048 - lip cancer
+D006561 - herpes simplex
+D007244 - infectious mononucleosis
+D009100 - multiple carboxylase deficiency
+D017513 - lichen nitidus
+D003093 - ulcerative colitis
+D054747 - malignant histiocytosis
+D002051 - Burkitt lymphoma
+D028922 - holocarboxylase synthetase deficiency
+D007951 - chronic monocytic leukemia
+D012541 - scarlet fever
+D010411 - Peyronie's disease
+D006970 - recurrent hypersomnia
+D008457 - measles
+D009422 - nervous system disease
+D012514 - Kaposi's sarcoma
+D010689 - phlebitis
+D004382 - duodenitis
+D003693 - subacute delirium
+D014062 - tongue cancer
+D014657 - vasculitis
+D002644 - chickenpox
+D020345 - perinatal necrotizing enterocolitis
+D020364 - paraneoplastic polyneuropathy
+D023981 - myeloid sarcoma
+D000856 - anorexia nervosa
+D002781 - cholesteatoma
+D009182 - mycosis fungoides
+D006558 - genital herpes
+D003668 - decubitus ulcer
+D002278 - in situ carcinoma
+D015140 - vascular dementia
+D011213 - milker's nodule
+D012899 - smallpox
+D052798 - leukoplakia of penis
+D018410 - bacterial pneumonia
+D012628 - seborrheic dermatitis
+D016731 - erythema infectiosum
+D005758 - gastric mucosal hypertrophy
+D052880 - pyomyositis
+D007947 - megakaryocytic leukemia
+D004474 - contagious pustular dermatitis
+D012409 - rubella
+D000789 - intermediate coronary syndrome
+D006373 - parasitic helminthiasis infectious disease
+D014201 - metagonimiasis
+D005211 - fascioliasis
+D014067 - tonsil cancer
+D011662 - pulmonary subvalvular stenosis
+D007948 - acute monocytic leukemia
+D055623 - actinic keratosis
+D008976 - molluscum contagiosum
+D009471 - neuromyelitis optica
+D012393 - rosacea
+D002825 - chorioretinitis
+D017515 - pityriasis rosea
+D017237 - mitochondrial encephalomyopathy
+D016553 - autoimmune thrombocytopenic purpura
+D007859 - learning disability
+D005757 - atrophic gastritis
+D006527 - Wilson disease
+D063807 - seborrheic infantile dermatitis
+D003930 - diabetic retinopathy
+D000756 - sideroblastic anemia
+D015605 - cowpox
+D008664 - metal metabolism disorder
+D013344 - subacute sclerosing panencephalitis
+D007690 - autosomal dominant polycystic kidney disease
+D009290 - narcolepsy
+D015529 - choledochal cyst
+D018290 - cervix uteri carcinoma in situ
+D011087 - polycythemia vera
+D020065 - hepatopulmonary syndrome
+D015535 - psoriatic arthritis
+D010307 - parotid gland cancer
+D015211 - Zellweger syndrome
+D018901 - peroxisomal disease
+D014010 - pityriasis versicolor
+D013206 - Ritter's disease
+D007896 - leishmaniasis
+D006103 - lethal midline granuloma
+D008180 - systemic lupus erythematosus
+D010267 - parapsoriasis
+D020187 - REM sleep behavior disorder
+D016773 - cutaneous leishmaniasis
+D006100 - granuloma inguinale
+D015470 - acute myeloid leukemia
+D000686 - amyloidosis
+D007617 - eczema herpeticum
+D020966 - atrophic muscular disease
+D010382 - peliosis hepatis
+D007898 - visceral leishmaniasis
+D007897 - mucocutaneous leishmaniasis
+D005738 - gas gangrene
+D014923 - Wiskott-Aldrich syndrome
+D000562 - amebiasis
+D010392 - pemphigus
+D015154 - dyskinesia of esophagus
+D013064 - speech disorder
+D008010 - lichen planus
+D001471 - Barrett's esophagus
+D020189 - periodic limb movement disorder
+D016697 - geniculate herpes zoster
+D010916 - pityriasis rubra pilaris
+D020182 - central sleep apnea
+D011146 - pompholyx
+D004916 - erythromelalgia
+D016738 - Alagille syndrome
+D028243 - cerebral amyloid angiopathy
+D054975 - Pallister-Hall syndrome
+D055673 - acrocallosal syndrome
+D000592 - amino acid metabolic disorder
+D046152 - gastrointestinal stromal tumor
+D007946 - mast-cell leukemia
+D014849 - Waardenburg's syndrome
+D009303 - nasopharynx carcinoma
+D006712 - homocystinuria
+D003555 - cystinuria
+D056806 - urea cycle disorder
+D020158 - glycine encephalopathy
+D008375 - maple syrup urine disease
+D000474 - alkaptonuria
+D020163 - ornithine carbamoyltransferase deficiency
+D020159 - citrullinemia
+D020167 - hyperlysinemia
+D020176 - tyrosinemia
+D013132 - primary cerebellar degeneration
+D020162 - hyperargininemia
+D020138 - hyperhomocysteinemia
+D020165 - carbamoyl phosphate synthetase I deficiency disease
+D010661 - phenylketonuria
+D009798 - ocular hypertension
+D011317 - priapism
+D002971 - cleft lip
+D008047 - lip disease
+D007806 - language disorder
+D009916 - orbital disease
+D014400 - splenic tuberculosis
+D013285 - mechanical strabismus
+D012005 - rectal prolapse
+D008989 - monieziasis
+D008205 - lymphangitis
+D001102 - viral infectious disease
+D003920 - diabetes mellitus
+D003924 - type 2 diabetes mellitus
+D001927 - brain disease
+D013224 - status asthmaticus
+D007637 - keratoconjunctivitis
+D016727 - orbital plasma cell granuloma
+D005094 - exophthalmos
+D014136 - tracheitis
+D003440 - croup
+D004826 - epiglottitis
+D004823 - epididymitis
+D007018 - hypopituitarism
+D003919 - diabetes insipidus
+D001762 - blepharitis
+D020343 - hypertensive encephalopathy
+D019586 - intracranial hypertension
+D006030 - renal glycosuria
+D002761 - cholangitis
+D005234 - fatty liver disease
+D008064 - lipid storage disease
+D004030 - dientamoebiasis
+D010032 - otitis externa
+D009261 - nail-patella syndrome
+D016920 - bacterial meningitis
+D008581 - meningitis
+D011655 - pulmonary embolism
+D019052 - postpartum depression
+D008467 - Meckel's diverticulum
+D003607 - dacryoadenitis
+D007960 - leukocyte disease
+D015521 - ethmoid sinusitis
+D007952 - plasmacytic leukemia
+D046150 - Laron syndrome
+D013592 - latent syphilis
+D007835 - Lassa fever
+D009101 - multiple myeloma
+D017445 - vascular skin disease
+D000307 - adrenal gland disease
+D009302 - nasopharyngeal disease
+D002925 - primary ciliary dyskinesia
+D001987 - bronchiectasis
+D003914 - dextrocardia
+D004685 - Venezuelan equine encephalitis
+D004660 - encephalitis
+D007725 - Krukenberg carcinoma
+D005208 - fasciitis
+D013202 - staphyloenterotoxemia
+D036981 - plantar fasciitis
+D019115 - necrotizing fasciitis
+D009455 - neurofibroma
+D014718 - vesicoureteral reflux
+D010381 - Pelger-Huet anomaly
+D013280 - stomatitis
+D012523 - sarcocystosis
+D001404 - babesiosis
+D020417 - congenital nystagmus
+D054143 - systolic heart failure
+D013281 - aphthous stomatitis
+D000033 - placental abruption
+D009625 - noma
+D002581 - cervical incompetence
+D015004 - yellow fever
+D013717 - tenosynovitis
+D003234 - bacterial conjunctivitis
+D052256 - tendinitis
+D018630 - proliferative vitreoretinopathy
+D020255 - vitreous detachment
+D014398 - renal tuberculosis
+D017562 - postcholecystectomy syndrome
+D001660 - biliary tract disease
+D003922 - type 1 diabetes mellitus
+D006484 - hemorrhoid
+D041882 - emphysematous cholecystitis
+D017682 - myocardial stunning
+D006322 - heart aneurysm
+D054144 - diastolic heart failure
+D043183 - irritable bowel syndrome
+D014235 - trichinosis
+D011052 - bulbar polio
+D007816 - toxocariasis
+D014395 - tuberculous peritonitis
+D019867 - Goodpasture syndrome
+D018366 - hypersensitivity vasculitis
+D010488 - polyarteritis nodosa
+D015794 - choroideremia
+D009357 - neonatal abstinence syndrome
+D006956 - hyperopia
+D012030 - refractive error
+D018159 - endolymphatic hydrops
+D008575 - Meniere's disease
+D013590 - congenital syphilis
+D000506 - alopecia areata
+D014391 - miliary tuberculosis
+D005633 - hereditary fructose intolerance syndrome
+D000505 - alopecia
+D008945 - mitral valve prolapse
+D009136 - muscular dystrophy
+D017043 - meibomian cyst
+D000507 - follicular mucinosis
+D006726 - hordeolum
+D006481 - Omsk hemorrhagic fever
+D019957 - developmental coordination disorder
+D014884 - Waterhouse-Friderichsen syndrome
+D015456 - B- and T-cell mixed leukemia
+D018636 - hypoplastic left heart syndrome
+D010522 - periostitis
+D006409 - hemometra
+D014123 - toxoplasmosis
+D019687 - uterine inversion
+D009765 - obesity
+D006986 - hypervitaminosis A
+D016603 - eosinophilia-myalgia syndrome
+D004802 - hypereosinophilic syndrome
+D007003 - hypoglycemia

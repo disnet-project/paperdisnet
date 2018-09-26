@@ -1,0 +1,56 @@
+Vocabularies 
+ALFRED
+AO Foundation
+BRENDA
+dbSNP
+DiseasesDB
+Dorlands /Elsevier
+EC number
+eMedicine
+Ensembl
+Entrez
+ExPASy
+FMA
+GARD
+Gene Ontology
+GeneReviews
+HapMap
+HgenetInfoDB
+HUGO
+ICD-10
+ICD-9
+ICD-9-CM
+ICD-O
+IntEnz
+InterPro
+KEGG
+MedlinePlus
+MeSH
+MetaCyc
+NCI
+NeuroLex ID
+NORD
+OMIM
+Orphanet
+Orthobullets
+OrthoInfo
+Patient UK
+PDB structures
+Pfam
+Pfam clan
+PRIAM
+PROSITE
+Radiopaedia
+Radiopedia
+RefSeq
+Rfam
+SCOP
+SNOMED_CT
+SNPedia
+SUPERFAMILY
+TA
+TE
+TH
+UMLS
+UniProt
+Wheeless Online

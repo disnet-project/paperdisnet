@@ -1,0 +1,802 @@
+{
+	"variables": [],
+	"info": {
+		"name": "DISNET_REST_v0.1.3",
+		"_postman_id": "9b07d326-79d6-bfaf-2c65-b45ca5ede527",
+		"description": "DISNET Web Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Retrieve sources list",
+			"request": {
+				"url": {
+					"raw": "http://disnet.ctb.upm.es/api/disnet/query/sourceList?token=",
+					"protocol": "http",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"sourceList"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": null
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve all versions available from Wikipedia",
+			"request": {
+				"url": {
+					"raw": "http://disnet.ctb.upm.es/api/disnet/query/versionList?source=wikipedia&token=",
+					"protocol": "http",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"versionList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia"
+						},
+						{
+							"key": "token",
+							"value": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve all versions available from PubMed",
+			"request": {
+				"url": {
+					"raw": "http://disnet.ctb.upm.es/api/disnet/query/versionList?source=pubmed&token=",
+					"protocol": "http",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"versionList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "pubmed",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve diseases list from Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseList?source=wikipedia&version=2018-04-01&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve diseases list from PubMed (version 2018-04-03)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseList?source=pubmed&version=2018-04-03&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "pubmed",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-03",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve concept list for a given disease name in Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/disnetConceptList?source=wikipedia&version=2018-04-01&diseaseName=Cancer&matchExactName=true&diseaseCode=&typeCode=&forceSemanticTypes=&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"disnetConceptList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "diseaseName",
+							"value": "Cancer",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "matchExactName",
+							"value": "true",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "diseaseCode",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "typeCode",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "forceSemanticTypes",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve concept list for a given disease name in PubMed (version 2018-04-03)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/disnetConceptList?source=pubmed&version=2018-04-03&diseaseName=Cancer&matchExactName=true&diseaseCode=&typeCode=&forceSemanticTypes=&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"disnetConceptList"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "pubmed",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-03",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "diseaseName",
+							"value": "Cancer",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "matchExactName",
+							"value": "true",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "diseaseCode",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "typeCode",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "forceSemanticTypes",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve disease(s) with more concepts (using limit parameter) in Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseWithMoreDisnetConcepts?source=wikipedia&version=2018-04-01&limit=2&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseWithMoreDisnetConcepts"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "limit",
+							"value": "2",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve disease(s) with more concepts (using limit parameter) in PubMed (version 2018-04-03)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseWithMoreDisnetConcepts?source=pubmed&version=2018-04-03&limit=2&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseWithMoreDisnetConcepts"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "pubmed",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-03",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "limit",
+							"value": "2",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Search by exact name in Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/searchByDiseaseName?source=wikipedia&version=2018-04-01&diseaseName=Gastric varices&matchExactName=true&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"searchByDiseaseName"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "diseaseName",
+							"value": "Gastric varices",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "matchExactName",
+							"value": "true",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve less common concepts in Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/lessCommonDisnetConcepts?source=wikipedia&version=2018-04-01&forceSemanticTypes=dsyn&limit=0&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"lessCommonDisnetConcepts"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "forceSemanticTypes",
+							"value": "dsyn",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "limit",
+							"value": "0",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve less common concepts but using limit and forcing semantic types in Wikipedia (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/lessCommonDisnetConcepts?source=wikipedia&version=2018-04-01&limit=3&forceSemanticTypes=dsyn&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"lessCommonDisnetConcepts"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "limit",
+							"value": "3",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "forceSemanticTypes",
+							"value": "dsyn",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve metadata for a given Wikipedia version (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/metadata?source=wikipedia&version=2018-04-01&=&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"metadata"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "",
+							"value": "",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve the list of diseases with fewer disnet concepts using Wikipedia as source (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseWithFewerDisnetConcepts?source=wikipedia&version=2018-04-01&limit=2&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseWithFewerDisnetConcepts"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "limit",
+							"value": "2",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Retrieve number of diseases for a given Wikipedia version (version 2018-04-01)",
+			"request": {
+				"url": {
+					"raw": "disnet.ctb.upm.es/api/disnet/query/diseaseCount?source=wikipedia&version=2018-04-01&token=",
+					"host": [
+						"disnet",
+						"ctb",
+						"upm",
+						"es"
+					],
+					"path": [
+						"api",
+						"disnet",
+						"query",
+						"diseaseCount"
+					],
+					"query": [
+						{
+							"key": "source",
+							"value": "wikipedia",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "version",
+							"value": "2018-04-01",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "token",
+							"value": "",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}

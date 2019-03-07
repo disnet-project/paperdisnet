@@ -1,0 +1,2213 @@
+# CUI ; Name ; SemanticTypes
+C0039232	;	AV nodal re-entry tachycardia	;	dsyn
+C0000731	;	Abdomen distended	;	fndg
+C1280008	;	Abdominal angina	;	sosy
+C1291077	;	Abdominal bloating	;	sosy
+C0232488	;	Abdominal colic	;	fndg
+C0000729	;	Abdominal cramps	;	sosy
+C0232487	;	Abdominal discomfort	;	sosy
+C0235698	;	Abdominal distension, gaseous	;	sosy
+C0000734	;	Abdominal mass	;	fndg
+C0000737	;	Abdominal pain	;	sosy
+C0277969	;	Abdominal pain through to back	;	sosy
+C0429218	;	Abdominal pressure	;	clna
+C0159066	;	Abdominal rigidity	;	sosy
+C0232498	;	Abdominal tenderness	;	sosy
+C0476289	;	Abdominal wind pain	;	sosy
+C0233514	;	Abnormal behavior	;	mobd
+C1260922	;	Abnormal breathing	;	fndg
+C0476427	;	Abnormal cervical smear	;	fndg
+C0520966	;	Abnormal coordination	;	sosy
+C0031873	;	Abnormal craving	;	mobd
+C0332599	;	Abnormal facies	;	fndg
+C0162287	;	Abnormal feces	;	fndg
+C0266652	;	Abnormal fetus	;	dsyn
+C1744601	;	Abnormal heart beat	;	sosy
+C0086565	;	Abnormal hepatic function	;	patf
+C0392702	;	Abnormal involuntary movement	;	dsyn
+C0450978	;	Abnormal involuntary movement scale	;	inpr
+C0278061	;	Abnormal mental state	;	mobd
+C0231471	;	Abnormal posture	;	fndg
+C0034933	;	Abnormal reflex, NOS	;	sosy
+C0151746	;	Abnormal renal function	;	patf
+C0151766	;	Abnormal results of liver function studies	;	fndg
+C0151989	;	Abnormal urination	;	sosy
+C3650625	;	Abnormal uterine bleeding	;	patf
+C0578503	;	Abnormal vaginal bleeding	;	fndg
+C3665386	;	Abnormal vision	;	fndg
+C0522214	;	Abnormal visual evoked potential	;	fndg
+C0332544	;	Abnormal weight gain	;	sosy
+C0391870	;	Abnormality of red blood cells	;	fndg
+C0000832	;	Abruptio placentae	;	patf
+C0000833	;	Abscess	;	dsyn
+C0278134	;	Absence of sensation	;	sosy
+C0149720	;	Abuse of laxatives	;	mobd
+C0000889	;	Acanthosis nigricans	;	dsyn
+C0234238	;	Ache	;	sosy
+C0333913	;	Achromasia	;	comd
+C0152200	;	Achromatopsia	;	dsyn
+C0262977	;	Achromia of skin	;	sosy
+C0001122	;	Acidosis	;	patf
+C0702166	;	Acne	;	dsyn
+C0001144	;	Acne vulgaris	;	dsyn
+C0175167	;	Acneform eruptions	;	fndg
+C0001161	;	Acoustic impedance test	;	diap
+C0430619	;	Acoustic rhinometry	;	diap
+C0155018	;	Acquired color blindness	;	acab
+C0158485	;	Acquired genu varum	;	acab
+C0030044	;	Acrocephaly	;	cgab
+C0238590	;	Acrogeria	;	dsyn
+C0022602	;	Actinic keratosis	;	neop
+C0751354	;	Action myoclonus	;	sosy
+C0234376	;	Action tremor	;	sosy
+C0030605	;	Activated partial thromboplastin time	;	lbpr
+C1272061	;	Activated partial thromboplastin time ratio	;	lbpr
+C0000727	;	Acute abdomen	;	sosy
+C0740577	;	Acute abdominal pain	;	sosy
+C0149514	;	Acute bronchitis	;	dsyn
+C0522051	;	Acute chest pain	;	sosy
+C0742343	;	Acute chest syndrome	;	dsyn
+C1285577	;	Acute confusional state	;	fndg
+C0948089	;	Acute coronary syndrome	;	dsyn
+C0149523	;	Acute cystitis	;	dsyn
+C3697716	;	Acute flaccid paralysis	;	sosy
+C0272292	;	Acute idiopathic thrombocytopenic purpura	;	dsyn
+C0149613	;	Acute mastitis	;	dsyn
+C0155626	;	Acute myocardial infarction	;	dsyn
+C0184567	;	Acute onset pain	;	sosy
+C0022660	;	Acute renal failure NOS	;	dsyn
+C0001361	;	Acute tonsillitis	;	dsyn
+C0234357	;	Adiadochokinesis	;	sosy
+C0001519	;	Adie's syndrome	;	dsyn
+C0035222	;	Adult respiratory distress syndrome, NOS	;	dsyn
+C0001707	;	Aerophagy	;	mobd
+C0863106	;	Afebrile seizure	;	dsyn
+C0423732	;	After pains	;	sosy
+C1306068	;	After-cataract	;	acab
+C0236848	;	Age-related cognitive decline	;	mobd
+C2364111	;	Ageusia	;	sosy
+C0001807	;	Aggressive behavior	;	mobd
+C0235136	;	Agitated depression	;	mobd
+C0085631	;	Agitation	;	sosy
+C0001816	;	Agnosia	;	mobd
+C2315245	;	Agonal respiration	;	fndg
+C0001818	;	Agoraphobia	;	mobd
+C0242186	;	Agrammatism	;	mobd
+C0001825	;	Agraphia	;	mobd
+C0231819	;	Air trapping	;	sosy
+C0392156	;	Akathisia	;	sosy
+C0085623	;	Akinesia	;	dsyn
+C0001916	;	Albinism	;	cgab
+C0042038	;	Albumin - urine	;	lbpr
+C0201837	;	Albumin/Globulin ratio	;	lbpr
+C0486293	;	Albumin/creatinine ratio	;	lbpr
+C0001925	;	Albuminuria	;	fndg
+C0001973	;	Alcohol dependence	;	mobd
+C0001957	;	Alcohol withdrawal delirium	;	dsyn
+C0002018	;	Alexia	;	mobd
+C0221106	;	Alkalemia	;	dsyn
+C0002063	;	Alkalosis	;	dsyn
+C0004031	;	Allergic bronchopulmonary aspergillosis	;	dsyn
+C0009766	;	Allergic conjunctivitis	;	dsyn
+C0559470	;	Allergy to peanuts	;	dsyn
+C0458247	;	Allodynia	;	fndg
+C1264031	;	Alloimmune thrombocytopenia	;	dsyn
+C0002170	;	Alopecia	;	dsyn
+C0419584	;	Alpha-fetoprotein blood test	;	lbpr
+C0426587	;	Altered appetite	;	fndg
+C0278008	;	Altered bowel function	;	sosy
+C0271205	;	Altitudinal hemianopsia	;	fndg
+C0422991	;	Altitudinal scotoma	;	fndg
+C0300946	;	Alymphocytosis	;	dsyn
+C0376288	;	Amaurosis	;	dsyn
+C0149793	;	Amaurosis fugax	;	sosy
+C0002418	;	Amblyopia	;	dsyn
+C0013799	;	Ambulatory ECG	;	diap
+C0002445	;	Ameboma	;	dsyn
+C0002453	;	Amenorrhea	;	dsyn
+C0002622	;	Amnesia	;	mobd
+C0002627	;	Amniocentesis	;	diap
+C0426209	;	Amniotic fluid -meconium stain	;	fndg
+C0234497	;	Amusia	;	dsyn
+C0263519	;	Anagen effluvium	;	dsyn
+C0016167	;	Anal fissure	;	dsyn
+C0238637	;	Anal pain	;	sosy
+C1319072	;	Anal pap smear	;	diap
+C0002792	;	Anaphylaxis	;	patf
+C0002793	;	Anaplasia	;	neop
+C0151603	;	Anasarca	;	patf
+C0002871	;	Anemia	;	dsyn
+C0476226	;	Anesthesia of skin	;	sosy
+C0002957	;	Anger	;	menp
+C0002962	;	Angina pectoris NOS	;	fndg
+C0002971	;	Angiocardiography	;	diap
+C0002994	;	Angioedema	;	patf
+C0002978	;	Angiogram	;	diap
+C0221237	;	Angular cheilitis	;	dsyn
+C0178417	;	Anhedonia	;	mobd
+C0003028	;	Anhidrosis	;	dsyn
+C0003076	;	Aniridia	;	cgab
+C0003079	;	Anisocoria	;	fndg
+C0221278	;	Anisocytosis	;	fndg
+C0339696	;	Anisometropic amblyopia	;	dsyn
+C1328319	;	Ankle brachial pressure index (observable entity)	;	clna
+C2733181	;	Ankle flare	;	dsyn
+C0238656	;	Ankle pain	;	sosy
+C0003113	;	Anomia	;	mobd
+C0003119	;	Anophthalmos	;	cgab
+C0581362	;	Anorectal pain	;	sosy
+C0003123	;	Anorexia	;	dsyn
+C0003126	;	Anosmia	;	sosy
+C0234507	;	Anosognosia	;	dsyn
+C0269608	;	Antepartum hemorrhage	;	patf
+C0476278	;	Anterior chest wall pain	;	sosy
+C0233795	;	Anterograde amnesia	;	mobd
+C0578159	;	Antibiotic-associated diarrhea	;	dsyn
+C0368676	;	Antibody screen	;	lbpr
+C0233523	;	Antisocial behavior	;	mobd
+C0751730	;	Anton's syndrome	;	dsyn
+C0003460	;	Anuria	;	dsyn
+C0003467	;	Anxiety	;	mobd
+C0700031	;	Anxiety attack	;	mobd
+C0003515	;	Aortography	;	diap
+C0085632	;	Apathy	;	sosy
+C0221470	;	Aphagia	;	fndg
+C0003534	;	Aphakia	;	anab
+C0003537	;	Aphasia	;	mobd
+C0003564	;	Aphonia	;	sosy
+C0038363	;	Aphthous stomatitis	;	dsyn
+C0282160	;	Aplasia cutis congenita	;	cgab,dsyn
+C0003578	;	Apnea	;	patf
+C2712370	;	Apparent life-threatening event in infant	;	dsyn
+C0233485	;	Apprehension	;	fndg
+C0003635	;	Apraxia, NOS	;	mobd
+C0553824	;	Apraxia, developmental	;	mobd
+C0003706	;	Arachnodactyly	;	cgab
+C0392331	;	Arachnophobia	;	mobd
+C0271198	;	Arcuate scotoma	;	fndg
+C0003742	;	Arcus senilis	;	anab,dsyn
+C0234668	;	Argyll-Robertson pupil (finding)	;	fndg
+C0239377	;	Arm pain, NOS	;	sosy
+C0003860	;	Arteritis	;	patf
+C0003862	;	Arthralgia	;	sosy
+C0003864	;	Arthritis	;	dsyn
+C0702102	;	Arthritis mutilans	;	dsyn
+C0003885	;	Arthrogram	;	diap
+C0003886	;	Arthrogryposis	;	dsyn
+C0022408	;	Arthropathy	;	dsyn
+C0003904	;	Arthroscopy	;	diap
+C0003962	;	Ascites	;	fndg
+C0025290	;	Aseptic meningitis	;	dsyn
+C0428339	;	Aspartate transaminase level	;	lbtr
+C0236792	;	Asperger's syndrome	;	mobd
+C0004044	;	Asphyxia	;	patf
+C0234471	;	Associative aphasia	;	mobd
+C0004090	;	Astasia-abasia	;	mobd
+C0232766	;	Asterixis	;	sosy
+C0004093	;	Asthenia	;	sosy
+C0004095	;	Asthenopia	;	dsyn
+C0004096	;	Asthma	;	dsyn
+C0347950	;	Asthma attack	;	dsyn
+C0004106	;	Astigmatism	;	dsyn
+C0231221	;	Asymptomatic	;	fndg
+C0004134	;	Ataxia	;	sosy
+C0751837	;	Ataxic gait	;	sosy
+C0004158	;	Athetosis	;	sosy
+C0004238	;	Atrial fibrillation	;	dsyn
+C0033036	;	Atrial premature complex	;	fndg
+C0546959	;	Atrial tachycardia	;	patf
+C0333641	;	Atrophic	;	patf
+C0151511	;	Atrophy of breast	;	acab
+C0004286	;	Audiometry	;	diap
+C0233762	;	Auditory hallucinations	;	sosy
+C0422852	;	Auditory seizure	;	patf
+C0236018	;	Aura	;	fndg
+C0004339	;	Auscultation	;	diap
+C0018793	;	Auscultation of heart	;	diap
+C0004364	;	Autoimmune disease NOS	;	dsyn
+C0002880	;	Autoimmune hemolytic anemia	;	dsyn
+C0242584	;	Autoimmune thrombocytopenia	;	dsyn
+C0004377	;	Automatism	;	fndg
+C0004398	;	Autopsy	;	diap
+C0004444	;	Avoidant personality disorder	;	mobd
+C0578735	;	Axillary lymphadenopathy	;	patf
+C0544925	;	Axonal swelling	;	comd
+C0242528	;	Azotemia	;	dsyn
+C0004604	;	Back pain	;	sosy
+C0004610	;	Bacteremia	;	dsyn
+C0085166	;	Bacterial vaginosis	;	dsyn
+C0275547	;	Balanitis circinata	;	dsyn
+C0752196	;	Ballismus	;	dsyn
+C0544755	;	Bandy legged	;	fndg
+C0576702	;	Barber's chair sign	;	fndg
+C0412103	;	Barium meal	;	diap
+C0203065	;	Barium swallow	;	diap
+C0234866	;	Barking cough	;	fndg
+C0264172	;	Barrel chest	;	fndg
+C0263534	;	Beau's lines	;	sosy
+C0270327	;	Bedwetting	;	mobd
+C0231616	;	Beevor's sign	;	sosy
+C0278076	;	Behavioral tic	;	mobd
+C0004943	;	Behcet's syndrome	;	dsyn
+C0376175	;	Bell palsy	;	dsyn
+C0004968	;	Bence-Jones proteinuria	;	fndg
+C2930898	;	Benign essential blepharospasm	;	dsyn
+C0393584	;	Benign hereditary chorea	;	dsyn
+C0017677	;	Benign migratory glossitis	;	dsyn
+C0155502	;	Benign paroxysmal positional vertigo	;	dsyn
+C0018775	;	Bilateral hearing loss	;	dsyn
+C0151824	;	Biliary colic	;	dsyn
+C0159076	;	Biliuria	;	fndg
+C0596170	;	Binge eating disorder	;	mobd
+C0005558	;	Biopsy	;	diap
+C0405352	;	Biopsy of breast	;	diap
+C0193842	;	Biopsy of lymph node	;	diap
+C0196622	;	Biopsy of nerve	;	diap
+C0194804	;	Biopsy of prostate	;	diap
+C0150866	;	Biopsy of skin	;	diap
+C0948073	;	Biopsy of uterus	;	diap
+C0265974	;	Birthmark	;	cgab
+C0221184	;	Bitemporal hemianopia	;	fndg
+C0423178	;	Bitot's spots	;	sosy
+C1442861	;	Black eye	;	fndg
+C0312422	;	Blackout	;	sosy
+C0232849	;	Bladder pain	;	sosy
+C0426390	;	Bladder spasm	;	sosy
+C0271412	;	Bleeding from ear	;	patf
+C0576995	;	Bleeding of pharynx	;	fndg
+C1458140	;	Bleeding tendency	;	patf
+C0005729	;	Bleeding time	;	lbpr
+C0333106	;	Bleeding varices	;	patf
+C0005741	;	Blepharitis	;	dsyn
+C0005747	;	Blepharospasm	;	dsyn
+C0456909	;	Blindness, NOS	;	fndg
+C1579830	;	Blister of skin AND/OR mucosa	;	fndg
+C0018794	;	Block - heart	;	dsyn
+C0005779	;	Blood coagulation disorder	;	dsyn
+C0200949	;	Blood culture	;	lbpr
+C0580546	;	Blood glucose abnormal	;	fndg
+C1321898	;	Blood in stool	;	sosy
+C0428256	;	Blood lead level	;	lbpr
+C0018941	;	Blood test	;	lbpr
+C0005858	;	Bloodshot eye	;	sosy
+C0206736	;	Blue naevus	;	neop
+C0542514	;	Blue sclera	;	fndg
+C0233469	;	Blunted affect	;	mobd
+C0344232	;	Blurred vision	;	sosy
+C0005874	;	Blushing	;	sosy
+C0268000	;	Body fluid retention	;	patf
+C0085595	;	Body odor	;	fndg
+C0234511	;	Body-image agnosia	;	mobd
+C0730031	;	Bone density scan	;	diap
+C0005954	;	Bone marrow biopsy	;	diap
+C0005957	;	Bone marrow examination NOS	;	lbpr
+C0151825	;	Bone pain	;	sosy
+C0006009	;	Borderline mental retardation (I.Q. 70-85)	;	mobd
+C0006019	;	Boredom	;	menp
+C0263780	;	Bouchard's node	;	dsyn
+C0425574	;	Bounding pulse	;	fndg
+C0232696	;	Bowel sounds absent	;	fndg
+C0221356	;	Brachycephaly	;	cgab,dsyn
+C0221357	;	Brachydactyly	;	cgab,dsyn
+C0428977	;	Bradycardia	;	patf
+C0233565	;	Bradykinesia	;	sosy
+C0553692	;	Brain hemorrhage	;	dsyn
+C0233187	;	Braxton Hicks contractions	;	sosy
+C0085688	;	Breast engorgement	;	sosy
+C0085105	;	Breast self-examination	;	diap
+C0262397	;	Breast tenderness	;	sosy
+C0476287	;	Breath holding spell	;	sosy
+C0006153	;	Breath test	;	diap
+C0085924	;	Breathalyser test	;	diap
+C0003550	;	Broca's aphasia	;	mobd
+C0263472	;	Bromhidrosis	;	dsyn
+C0006265	;	Bronchial provocation test	;	diap
+C0006266	;	Bronchial spasm	;	dsyn
+C0006267	;	Bronchiectasis	;	dsyn
+C0264372	;	Bronchiolectasis	;	dsyn
+C0006277	;	Bronchitis	;	dsyn
+C0264362	;	Bronchocele	;	dsyn
+C0235568	;	Bronchorrhea	;	sosy
+C0006290	;	Bronchoscopy	;	diap
+C0242644	;	Brown-Sequard syndrome	;	dsyn
+C0234179	;	Brudzinski's sign	;	sosy
+C0006318	;	Bruit	;	fndg
+C1303007	;	Brushfield spots	;	fndg
+C0006325	;	Bruxism	;	mobd
+C0006370	;	Bulimia	;	mobd
+C0232721	;	Bulky stool	;	sosy
+C0006386	;	Bunion	;	acab
+C0006430	;	Burning mouth syndrome	;	dsyn
+C0241057	;	Burning sensation of skin	;	sosy
+C0241426	;	Burning tongue	;	sosy
+C0006444	;	Bursitis	;	dsyn
+C0277942	;	Butterfly rash	;	fndg
+C0201131	;	CAMP test	;	lbpr
+C0585237	;	CLO test for helicobacter pylori	;	lbpr
+C0006625	;	Cachexia	;	sosy
+C0221263	;	Cafe au lait spots	;	fndg
+C0158322	;	Calcaneal spur	;	dsyn
+C0006663	;	Calcinosis	;	patf
+C0006664	;	Calcinosis cutis	;	dsyn
+C0022650	;	Calculus of kidney	;	dsyn
+C0006778	;	Caloric test	;	diap
+C4048328	;	Cancer of cervix	;	neop
+C0006840	;	Candidiasis	;	dsyn
+C0006895	;	Capgras syndrome	;	mobd
+C0430501	;	Capillaroscopy	;	diap
+C0376529	;	Capnography	;	diap
+C1721048	;	Capsule endoscopy	;	diap
+C0302592	;	Carcinoma of cervix	;	neop
+C0412618	;	Cardiac CT	;	diap
+C0018790	;	Cardiac arrest	;	dsyn
+C0003811	;	Cardiac arrhythmia	;	fndg
+C1956414	;	Cardiac asthma	;	patf
+C0013608	;	Cardiac edema	;	dsyn
+C0199551	;	Cardiac electrophysiologic stimulation and recording study	;	diap
+C0007165	;	Cardiac output, NOS	;	clna
+C0596683	;	Cardiac ventriculography	;	diap
+C0036980	;	Cardiogenic shock	;	patf
+C0018800	;	Cardiomegaly	;	fndg
+C0600228	;	Cardiopulmonary arrest	;	patf
+C1444565	;	Cardiorespiratory failure	;	patf
+C0920771	;	Cardiotochogram	;	diap
+C0007286	;	Carpal tunnel syndrome	;	dsyn
+C0231785	;	Carpopedal spasm	;	sosy
+C0333512	;	Caseous necrosis	;	patf
+C0007384	;	Cataplexy	;	dsyn
+C0086543	;	Cataract	;	acab
+C0007398	;	Catatonia	;	mobd
+C0233607	;	Catatonic stupor	;	mobd
+C0392548	;	Cauda equina syndrome NOS	;	dsyn
+C0007642	;	Cellulitis	;	patf
+C0751257	;	Central auditory processing disorder	;	dsyn
+C0018776	;	Central hearing loss	;	dsyn
+C0206083	;	Central pontine myelinolysis	;	dsyn
+C0152191	;	Central scotoma	;	fndg
+C0271196	;	Centrocecal scotoma	;	fndg
+C0007758	;	Cerebellar ataxia NOS	;	sosy
+C0454599	;	Cerebellar dysarthria	;	fndg
+C0231691	;	Cerebellar gait	;	fndg
+C0451672	;	Cerebellar stroke syndrome	;	dsyn
+C0917996	;	Cerebral aneurysm	;	dsyn
+C0023182	;	Cerebrospinal fluid leak	;	dsyn
+C0007815	;	Cerebrospinal fluid rhinorrhea	;	dsyn
+C0038454	;	Cerebrovascular accident	;	dsyn
+C0007820	;	Cerebrovascular disease NOS	;	dsyn
+C0235592	;	Cervical lymphadenopathy	;	patf
+C1531651	;	Chaddock's reflex	;	fndg
+C2733651	;	Chadwick's sign	;	sosy
+C0600049	;	Chancre	;	patf
+C0518179	;	Change in voice (finding)	;	sosy
+C0221264	;	Cheilosis	;	dsyn
+C0271298	;	Chemosis of conjunctiva	;	patf
+C0278234	;	Cherry red spot	;	sosy
+C0008031	;	Chest pain NOS	;	sosy
+C0423729	;	Chest pain on breathing	;	sosy
+C0232292	;	Chest tightness	;	sosy
+C0008039	;	Cheyne Stokes respiration	;	sosy
+C0085593	;	Chills	;	sosy
+C0546947	;	Choking sensation	;	sosy
+C0008307	;	Cholangiography	;	diap
+C0221182	;	Chordee	;	cgab,dsyn
+C0008489	;	Chorea	;	dsyn
+C0085583	;	Choreoathetosis	;	dsyn
+C0008513	;	Chorioretinitis	;	dsyn
+C0263473	;	Chromhidrosis	;	fndg
+C0740418	;	Chronic back pain	;	sosy
+C0401149	;	Chronic constipation	;	sosy
+C0010201	;	Chronic cough	;	sosy
+C0581391	;	Chronic depression	;	mobd
+C0401151	;	Chronic diarrhea	;	dsyn
+C0015674	;	Chronic fatigue syndrome	;	dsyn
+C0150055	;	Chronic pain	;	sosy
+C0404484	;	Chronic pelvic pain of female	;	sosy
+C0162674	;	Chronic progressive external ophthalmoplegia	;	dsyn
+C0085696	;	Chronic prostatitis	;	dsyn
+C1723764	;	Chronic prostatitis - chronic pelvic pain syndrome	;	dsyn
+C0234180	;	Chvostek sign	;	fndg
+C0159075	;	Chyluria	;	sosy
+C0444720	;	Circulatory arrest	;	dsyn
+C0023890	;	Cirrhosis of liver NOS	;	dsyn
+C0392162	;	Clammy skin	;	fndg
+C0008909	;	Claustrophobia	;	mobd
+C0008924	;	Cleft lip NOS	;	cgab
+C0008925	;	Cleft palate NOS	;	cgab,dsyn
+C0427285	;	Clicking hip	;	sosy
+C0234535	;	Clonic seizure	;	dsyn
+C0009024	;	Clonus	;	sosy
+C0683369	;	Clouded consciousness	;	sosy
+C0278034	;	Cloudy urine	;	fndg
+C0009080	;	Clubbed fingers	;	anab
+C0149651	;	Clubbing	;	sosy
+C0263538	;	Clubbing of nail	;	sosy
+C0427611	;	Coagulation time, activated	;	lbpr
+C0277959	;	Coarse hair	;	fndg
+C0234374	;	Coarse tremor	;	sosy
+C0151564	;	Cogwheel rigidity	;	sosy
+C0009269	;	Cold intolerance	;	sosy
+C0232431	;	Cold sweat	;	sosy
+C0009319	;	Colitis	;	dsyn
+C0242225	;	Color blindness	;	dsyn
+C0009398	;	Color vision deficiency	;	dsyn
+C0009417	;	Colposcopy	;	diap
+C0009421	;	Comatose	;	dsyn
+C3662017	;	Combativeness	;	fndg
+C0221228	;	Comedone	;	dsyn
+C0009443	;	Common cold	;	dsyn
+C0043037	;	Common wart	;	dsyn
+C0009492	;	Compartment syndrome, NOS	;	dsyn
+C0151517	;	Complete atrioventricular block	;	dsyn
+C0009555	;	Complete blood count	;	lbpr
+C0751057	;	Complex febrile seizure	;	dsyn
+C0424290	;	Compulsive hoarding	;	mobd
+C0018777	;	Conductive hearing loss	;	dsyn
+C0302180	;	Condyloma	;	dsyn
+C0009663	;	Condylomata acuminata	;	dsyn
+C0233800	;	Confabulation	;	mobd
+C0009676	;	Confusion	;	mobd
+C0018798	;	Congenital heart defect	;	cgab
+C0152021	;	Congenital heart disease	;	cgab,dsyn
+C0266092	;	Congenital lip pits	;	cgab
+C0266150	;	Congenital microgastria	;	cgab
+C0158731	;	Congenital pectus carinatum	;	cgab
+C0016842	;	Congenital pectus excavatum	;	cgab,dsyn
+C0018802	;	Congestive heart failure	;	dsyn
+C0009763	;	Conjunctivitis	;	dsyn
+C0234421	;	Consciousness, NOS	;	menp
+C0009806	;	Constipation	;	sosy
+C2243023	;	Constructional apraxia	;	fndg
+C0234371	;	Continuous tremor	;	sosy
+C0009917	;	Contracture	;	acab
+C0006282	;	Contrast bronchogram	;	diap
+C0036572	;	Convulsions	;	sosy
+C0009961	;	Coombs test	;	lbpr
+C0233729	;	Coprolalia	;	fndg
+C0191853	;	Core needle biopsy of breast	;	diap
+C1706559	;	Cornea verticillata	;	dsyn
+C0271291	;	Corneal anesthesia	;	dsyn
+C0010038	;	Corneal opacity, NOS	;	fndg
+C0412514	;	Corneal pachymetry	;	diap
+C1096274	;	Corneal thinning	;	dsyn
+C0524957	;	Corneal topography	;	diap
+C0085532	;	Coronary angiography	;	diap
+C0155320	;	Cortical blindness	;	dsyn
+C0392704	;	Cortical deafness	;	dsyn
+C0271053	;	Cotton wool spots	;	fndg
+C0010200	;	Coughing	;	sosy
+C0239137	;	Coxa valga	;	fndg
+C0263776	;	Coxitis	;	dsyn
+C0265541	;	Cranioschisis	;	cgab
+C0278110	;	Crossed hemiplegia	;	dsyn
+C0581876	;	Crying infant	;	fndg
+C0438697	;	Crying, excessive	;	fndg
+C0340979	;	Cryoglobulinemic purpura	;	sosy
+C0232942	;	Cryptomenorrhea	;	dsyn
+C0010417	;	Cryptorchidism	;	cgab
+C0151579	;	Crystalluria	;	lbtr
+C0195127	;	Culdocentesis	;	diap
+C0233200	;	Cullen's sign	;	sosy
+C0010481	;	Cushing's syndrome NOS	;	dsyn
+C0332601	;	Cushingoid facies	;	sosy
+C0010495	;	Cutis laxa, NOS	;	dsyn
+C0263401	;	Cutis marmorata	;	dsyn
+C0010520	;	Cyanosis	;	sosy
+C0235238	;	Cycloplegia	;	dsyn
+C0010709	;	Cyst	;	dsyn
+C3887499	;	Cyst - kidney	;	dsyn
+C0010666	;	Cystic acne	;	dsyn
+C0203126	;	Cystography	;	diap
+C0010702	;	Cystoscopy	;	diap
+C0333467	;	Cytopathic effect	;	patf
+C0155223	;	Dacryoadenitis	;	dsyn
+C0239161	;	Dactylitis	;	dsyn
+C0011053	;	Deafness	;	fndg
+C0277589	;	Death of unknown cause	;	fndg
+C0547002	;	Death rattle	;	sosy
+C0700185	;	Decalcification	;	patf
+C0231474	;	Decerebrate posture	;	fndg
+C0011103	;	Decerebrate rigidity	;	patf
+C0232462	;	Decrease in appetite	;	sosy
+C0424641	;	Decrease in height	;	fndg
+C0020672	;	Decreased body temperature	;	fndg
+C0007166	;	Decreased cardiac output	;	fndg
+C0011124	;	Decreased libido	;	sosy
+C0852983	;	Decreased lipid	;	fndg
+C0392386	;	Decreased platelet count	;	fndg
+C1265833	;	Deep abscess	;	patf
+C0149871	;	Deep vein thrombosis	;	dsyn
+C0473906	;	Defecating proctogram	;	diap
+C2939465	;	Deficiency of glucose-6-phosphate dehydrogenase	;	dsyn
+C1272352	;	Deficiency of vitamin D3	;	dsyn
+C0302142	;	Deformity	;	anab
+C0410719	;	Deformity of bone	;	anab
+C0011175	;	Dehydration	;	dsyn
+C0476241	;	Delayed developmental milestone	;	fndg
+C0740411	;	Delayed gastric emptying	;	fndg
+C0034012	;	Delayed puberty NOS	;	patf
+C0011206	;	Delirium	;	mobd
+C0011251	;	Delusional disorder	;	mobd
+C0011253	;	Delusions	;	mobd
+C0497327	;	Dementia	;	mobd
+C0011334	;	Dental caries	;	dsyn
+C0034575	;	Dental radiography	;	diap
+C0235324	;	Dental swelling	;	fndg
+C0011548	;	Dependent personality disorder	;	mobd
+C0011551	;	Depersonalization	;	mobd
+C1579931	;	Depressed - symptom	;	sosy
+C0344315	;	Depressed mood	;	fndg
+C0011570	;	Depression NOS	;	mobd
+C0011603	;	Dermatitis	;	dsyn
+C0008073	;	Developmental disorder	;	mobd
+C0549397	;	Deviated nasal septum	;	anab
+C0011848	;	Diabetes insipidus, NOS	;	dsyn
+C0011849	;	Diabetes mellitus, NOS	;	dsyn
+C1320657	;	Diabetes type	;	fndg
+C0035232	;	Diaphragmatic paralysis	;	fndg
+C0521532	;	Diaphragmatic paresis	;	sosy
+C0011991	;	Diarrhea	;	sosy
+C0232262	;	Diastolic murmur, NOS	;	sosy
+C0220726	;	Diastrophic dysplasia	;	cgab,dsyn
+C0012090	;	Dichotic listening test	;	diap
+C0518085	;	Difficulty eating	;	fndg
+C0586742	;	Difficulty reading	;	fndg
+C0235162	;	Difficulty sleeping	;	sosy
+C1527347	;	Difficulty speaking	;	fndg
+C0564221	;	Difficulty talking	;	fndg
+C0311394	;	Difficulty walking	;	fndg
+C1384593	;	Digital palpation of rectum	;	diap
+C0002979	;	Digital subtraction angiography	;	diap
+C0012569	;	Diplopia	;	fndg
+C0200555	;	Direct Coombs test	;	lbpr
+C0423006	;	Discharge from eye	;	sosy
+C0232861	;	Discharge from penis	;	sosy
+C0203206	;	Discogram	;	diap
+C0151907	;	Discoloration of skin	;	patf
+C0040434	;	Discoloration of tooth	;	fndg
+C2364135	;	Discomfort, NOS	;	sosy
+C0006111	;	Disease of brain	;	dsyn
+C0037928	;	Disease of spinal cord	;	dsyn
+C0010034	;	Disorder of cornea	;	dsyn
+C1704431	;	Disorder of electrolytes	;	patf
+C0233636	;	Disorder of form of thought	;	mobd
+C1290854	;	Disorder of skull	;	dsyn
+C0042790	;	Disorder of vision	;	fndg
+C0042940	;	Disorder of voice	;	dsyn
+C0553757	;	Disorders of smell	;	dsyn
+C0233407	;	Disorientation	;	mobd
+C0012739	;	Disseminated intravascular coagulation	;	dsyn
+C0012746	;	Dissociative disorder	;	mobd
+C0398349	;	Distal intestinal obstruction syndrome	;	dsyn
+C0427065	;	Distal muscle weakness	;	fndg
+C0751336	;	Distal muscular dystrophy	;	dsyn
+C0221226	;	Distended umbilical veins	;	sosy
+C0037317	;	Disturbance in sleep behavior	;	sosy
+C0270328	;	Diurnal enuresis	;	dsyn
+C0012833	;	Dizziness	;	sosy
+C0857087	;	Dizzy spells	;	fndg
+C0149671	;	Dribbling of urine	;	fndg
+C0013132	;	Drooling	;	sosy
+C0013144	;	Drowsiness	;	fndg
+C0013146	;	Drug abuse	;	mobd
+C0162550	;	Drug-induced akathisia	;	dsyn
+C0038577	;	Drugs of abuse screen	;	lbpr
+C0850149	;	Dry cough	;	sosy
+C0013238	;	Dry eye syndrome	;	dsyn
+C0277960	;	Dry hair	;	fndg
+C0151908	;	Dry skin	;	sosy
+C0474605	;	Dry stool	;	lbtr
+C0314719	;	Dryness of eye	;	sosy
+C0278144	;	Dull pain	;	sosy
+C0013301	;	Duodenoscopy	;	diap
+C0013312	;	Dupuytren contracture	;	dsyn
+C0013336	;	Dwarfism	;	cgab,dsyn
+C0013362	;	Dysarthria	;	mobd
+C0013363	;	Dysautonomia	;	dsyn
+C0869474	;	Dyscalculia	;	mobd
+C0237326	;	Dyschezia	;	sosy
+C0234979	;	Dysdiadochokinesis	;	sosy
+C0013369	;	Dysentery	;	dsyn
+C0392699	;	Dysesthesia	;	sosy
+C0013378	;	Dysgeusia	;	fndg
+C0234144	;	Dysgraphia	;	mobd
+C0013384	;	Dyskinesia	;	dsyn
+C0013390	;	Dysmenorrhea	;	patf
+C0234162	;	Dysmetria, NOS	;	fndg
+C0235287	;	Dysosmia	;	dsyn
+C1384606	;	Dyspareunia	;	fndg
+C0013394	;	Dyspareunia	;	dsyn
+C0013395	;	Dyspepsia	;	sosy
+C0011168	;	Dysphagia, NOS	;	dsyn
+C0973461	;	Dysphasia	;	mobd
+C1527344	;	Dysphonia	;	fndg
+C0233477	;	Dysphoric mood	;	mobd
+C0334044	;	Dysplasia	;	patf
+C0013404	;	Dyspnea	;	sosy
+C0231807	;	Dyspnea on exertion	;	sosy
+C0013418	;	Dystocia	;	fndg
+C0013421	;	Dystonia	;	sosy
+C0013428	;	Dysuria	;	sosy
+C0151632	;	ESR raised	;	fndg
+C0155540	;	Ear discharge	;	fndg
+C0013456	;	Earache	;	sosy
+C0232263	;	Early diastolic murmur	;	fndg
+C0239233	;	Early satiety	;	sosy
+C0424421	;	Eating problem	;	fndg
+C0013491	;	Ecchymosis	;	patf
+C0476369	;	Echocardiogram abnormal	;	fndg
+C0013516	;	Echocardiography	;	diap
+C0013526	;	Echoencephalography	;	diap
+C0013528	;	Echolalia	;	mobd
+C0233613	;	Echopraxia	;	mobd
+C0013595	;	Eczema	;	dsyn
+C0013604	;	Edema	;	fndg
+C1827170	;	Edema of extremity	;	fndg
+C0574002	;	Edema of foot (finding)	;	sosy
+C0239340	;	Edema of lower extremity	;	patf
+C0277910	;	Ejection murmur	;	fndg
+C0013854	;	Electro-oculogram examination	;	diap
+C0013798	;	Electrocardiogram	;	fndg
+C1623258	;	Electrocardiography	;	diap
+C0013805	;	Electrocochleography	;	diap
+C0151611	;	Electroencephalogram abnormal	;	fndg
+C0013819	;	Electroencephalography	;	diap
+C0342579	;	Electrolyte imbalance	;	patf
+C0476403	;	Electromyogram abnormal	;	fndg
+C0013839	;	Electromyography	;	diap
+C0013853	;	Electronystagmography	;	diap
+C0013867	;	Electroretinography	;	diap
+C0497247	;	Elevated blood pressure	;	fndg
+C0013911	;	Emaciation	;	sosy
+C0237105	;	Emotional stability	;	menp
+C0014038	;	Encephalitis	;	dsyn
+C0085584	;	Encephalopathy, NOS	;	dsyn
+C0014130	;	Endocrine system disease, NOS	;	dsyn
+C1510477	;	Endometrial biopsy	;	diap
+C0341858	;	Endometriosis of uterus	;	dsyn
+C0008310	;	Endoscopic retrograde cholangiopancreatography	;	diap
+C0376443	;	Endoscopic ultrasonography	;	diap
+C0542518	;	Enlarged kidney	;	fndg
+C0151994	;	Enlarged uterus	;	fndg
+C0014306	;	Enophthalmos	;	dsyn
+C0014356	;	Enterocolitis	;	dsyn
+C1282952	;	Enthesitis	;	dsyn
+C0242490	;	Enthesopathy	;	dsyn
+C0014394	;	Enuresis	;	sosy
+C0162676	;	Enzyme-multiplied immunoassay technique	;	lbpr
+C0014457	;	Eosinophilia	;	dsyn
+C1291078	;	Epigastric discomfort	;	sosy
+C0232493	;	Epigastric pain	;	sosy
+C0014544	;	Epilepsy	;	dsyn
+C0014591	;	Epistaxis	;	patf
+C0014511	;	Epithelial cyst	;	anab
+C0575090	;	Equilibration disorder	;	sosy
+C0242350	;	Erectile dysfunction	;	dsyn
+C0014724	;	Eructation	;	sosy
+C0302295	;	Eruption	;	patf
+C0041834	;	Erythema	;	dsyn
+C0494853	;	Erythema ab igne	;	dsyn
+C0014740	;	Erythema chronicum migrans	;	dsyn
+C0263357	;	Erythema gyratum repens	;	dsyn
+C0085659	;	Erythema marginatum	;	dsyn
+C1619634	;	Erythrocyte sedimentation rate	;	lbtr
+C1527405	;	Erythrocytosis	;	fndg
+C0014804	;	Erythromelalgia	;	dsyn
+C0014818	;	Erythroplasia	;	dsyn
+C0521172	;	Eschar	;	patf
+C0267072	;	Esophageal dysphagia	;	dsyn
+C0586354	;	Esophageal dysplasia	;	dsyn
+C0199873	;	Esophageal manometry	;	diap
+C0203769	;	Esophageal motility study	;	diap
+C0430701	;	Esophageal pH monitoring	;	diap
+C0014867	;	Esophageal varix	;	acab
+C0014868	;	Esophagitis	;	dsyn
+C0079304	;	Esophagogastroduodenoscopy	;	diap
+C0014873	;	Esophagoscopy	;	diap
+C0014877	;	Esotropia	;	dsyn
+C0238117	;	Eunuchism	;	dsyn
+C0235146	;	Euphoria	;	menp
+C0004290	;	Evoked response audiometry	;	diap
+C0015230	;	Exanthema	;	sosy
+C0235567	;	Excessive bronchial secretion	;	fndg
+C0152227	;	Excessive tearing	;	dsyn
+C0405348	;	Excisional biopsy of breast	;	diap
+C0233571	;	Excitement	;	menp
+C0162521	;	Exercise tolerance	;	clna
+C0392674	;	Exhaustion	;	sosy
+C0015300	;	Exophthalmos	;	dsyn
+C1442903	;	Exostosis NOS	;	patf
+C0015310	;	Exotropia	;	dsyn
+C0917814	;	Expressive aphasia	;	mobd
+C0277821	;	Extrapyramidal rigidity	;	sosy
+C0152245	;	Extravasation of urine	;	patf
+C0277794	;	Extreme exhaustion	;	sosy
+C0015403	;	Eye infection	;	dsyn
+C0151827	;	Eye pain	;	sosy
+C0270996	;	Eye swelling	;	sosy
+C0015457	;	Facial expression	;	fndg
+C0015469	;	Facial nerve palsy	;	dsyn
+C0015468	;	Facial pain, NOS	;	sosy
+C0427055	;	Facial paresis	;	sosy
+C0278151	;	Facial spasm	;	fndg
+C0151602	;	Facial swelling	;	fndg
+C3463916	;	Factor I deficiency	;	dsyn
+C3203356	;	Factor II deficiency	;	dsyn
+C0015499	;	Factor V deficiency	;	dsyn
+C0015503	;	Factor VII deficiency	;	cgab,dsyn
+C0015519	;	Factor X deficiency	;	dsyn
+C0015523	;	Factor XI deficiency	;	dsyn
+C0015526	;	Factor XII deficiency	;	dsyn
+C0231246	;	Failure to gain weight	;	fndg
+C0015544	;	Failure to thrive	;	dsyn
+C0085639	;	Falls	;	fndg
+C1268935	;	Familial thrombotic thrombocytopenic purpura / hemolytic uremic syndrome	;	dsyn
+C0239548	;	Fasciculation of tongue	;	fndg
+C0015663	;	Fasting	;	fndg
+C0271708	;	Fasting hypoglycemia	;	dsyn
+C0239549	;	Fat intolerance	;	sosy
+C0015672	;	Fatigue	;	sosy
+C0015695	;	Fatty liver	;	dsyn
+C0015726	;	Fear	;	menp
+C0877040	;	Fear of falling	;	fndg
+C0009952	;	Febrile convulsions	;	dsyn
+C0015732	;	Fecal incontinence	;	dsyn
+C0201811	;	Fecal occult blood test	;	lbpr
+C0266813	;	Fecal occult blood: positive	;	lbtr
+C0474585	;	Feces color: tarry	;	sosy
+C0699815	;	Feeding difficulties and mismanagement	;	fndg
+C0576456	;	Feeding poor	;	fndg
+C0232466	;	Feeding problem NOS	;	fndg
+C0150041	;	Feeling hopeless	;	mobd
+C0235108	;	Feeling tense	;	sosy
+C3887804	;	Feeling upset	;	menp
+C1527305	;	Feelings	;	menp
+C0021361	;	Female infertility	;	patf
+C0015799	;	Feminization	;	patf
+C0015930	;	Fetal distress NOS	;	dsyn
+C0412564	;	Fetal echocardiography	;	diap
+C0349489	;	Fetal hypoxia	;	dsyn
+C0015938	;	Fetal macrosomia	;	dsyn
+C0239571	;	Fetor hepaticus	;	fndg
+C0015962	;	Fetoscopy	;	diap
+C0015967	;	Fever	;	fndg
+C0015970	;	Fever of unknown origin	;	sosy
+C0085594	;	Fever with chills	;	sosy
+C0232197	;	Fibrillation	;	dsyn
+C0016053	;	Fibromyalgia	;	dsyn
+C0016059	;	Fibrosis	;	patf
+C0424235	;	Fidgeting	;	fndg
+C1286370	;	Finding of odor of urine	;	fndg
+C0234373	;	Fine tremor	;	sosy
+C0085614	;	First degree atrioventricular block	;	dsyn
+C1273976	;	First myocardial infarction	;	dsyn
+C0221245	;	Fissure in skin	;	fndg
+C0040412	;	Fissured tongue	;	dsyn
+C0424576	;	Fit and well	;	fndg
+C0454597	;	Flaccid dysarthria	;	sosy
+C0154693	;	Flaccid hemiplegia	;	sosy
+C0085620	;	Flaccid paralysis	;	sosy
+C0751460	;	Flaccid tetraplegia	;	sosy
+C0026825	;	Flaccidity - muscle	;	sosy
+C0016199	;	Flank pain	;	sosy
+C0344323	;	Flashing	;	mobd
+C0016204	;	Flatulence	;	sosy
+C1629856	;	Fleisher ring	;	dsyn
+C0427201	;	Floppy muscles	;	sosy
+C0016263	;	Flow cytometry	;	lbpr
+C0016313	;	Fluorescein angiography	;	diap
+C0085108	;	Fluorescent treponemal antibody absorption test	;	lbpr
+C0016356	;	Fluoroscopy	;	diap
+C0016382	;	Flushing	;	sosy
+C0751495	;	Focal seizure	;	sosy
+C0016512	;	Foot pain	;	sosy
+C0085684	;	Foot-drop	;	dsyn
+C0423602	;	Foreign body sensation	;	fndg
+C0542476	;	Forgetful	;	sosy
+C0016579	;	Formication	;	fndg
+C3853525	;	Fourth heart sound, S4	;	fndg
+C0241181	;	Fragile skin	;	fndg
+C0424594	;	Frailty	;	fndg
+C0473237	;	Frank hematuria	;	fndg
+C0016689	;	Freckles	;	fndg
+C1290999	;	Froment's sign	;	sosy
+C0016781	;	Fuchs' endothelial dystrophy	;	dsyn
+C0014089	;	Functional encopresis	;	mobd
+C0150042	;	Functional urinary incontinence	;	dsyn
+C0200189	;	Fundus photography	;	diap
+C0242301	;	Furuncle	;	dsyn
+C0016867	;	Furunculosis	;	dsyn
+C0231639	;	Gaenslen's test	;	diap
+C0575081	;	Gait abnormality	;	fndg
+C0232200	;	Gallop rhythm	;	fndg
+C0017086	;	Gangrene	;	dsyn
+C0203071	;	Gastric emptying study	;	diap
+C0038358	;	Gastric ulcer	;	dsyn
+C0017145	;	Gastric varix	;	acab,dsyn
+C0017152	;	Gastritis	;	dsyn
+C0017168	;	Gastroesophageal reflux disease	;	dsyn
+C0017178	;	Gastrointestinal disorder, NOS	;	dsyn
+C0017181	;	Gastrointestinal hemorrhage, NOS	;	patf
+C2697368	;	Gastrointestinal irritation	;	dsyn
+C0237938	;	Gastrointestinal ulcer	;	dsyn
+C0152020	;	Gastroparesis	;	dsyn
+C0231519	;	Gegenhalten	;	fndg
+C0159028	;	General symptom	;	sosy
+C0427108	;	General unsteadiness	;	fndg
+C0234533	;	Generalised seizure	;	dsyn
+C0344304	;	Generalized abdominal pain	;	sosy
+C0281856	;	Generalized aches and pains	;	sosy
+C1304114	;	Generalized eczema	;	dsyn
+C2930812	;	Generalized elastolysis	;	dsyn
+C0476486	;	Generalized enlarged lymph nodes	;	patf
+C0476476	;	Generalized hyperhidrosis	;	fndg
+C0852036	;	Gestational hypertension	;	patf
+C0392701	;	Giddiness	;	sosy
+C0476206	;	Giddiness	;	sosy
+C0017547	;	Gigantism	;	dsyn
+C0376480	;	Gingival enlargement NOS	;	fndg
+C0017565	;	Gingival hemorrhage	;	fndg
+C0017566	;	Gingival hyperplasia	;	patf
+C0017572	;	Gingival recession NOS	;	dsyn
+C0017574	;	Gingivitis	;	dsyn
+C0231608	;	Girdle pain	;	sosy
+C0017639	;	Gliosis	;	patf
+C0017650	;	Globus hystericus	;	mobd
+C0232534	;	Globus sensation	;	sosy
+C0017658	;	Glomerulonephritis	;	dsyn
+C0017672	;	Glossalgia	;	sosy
+C0017675	;	Glossitis	;	dsyn
+C0267048	;	Glossoptosis	;	dsyn
+C0017741	;	Glucose tolerance test	;	lbpr
+C0237987	;	Glucose-6-phosphate dehydrogenase deficiency anemia	;	dsyn
+C0017979	;	Glycosuria	;	fndg
+C0018021	;	Goiter	;	patf
+C0018051	;	Gonadal dysgenesis NOS	;	cgab,dsyn
+C0018071	;	Gonioscopy	;	diap
+C0233189	;	Goodell's sign	;	sosy
+C0018099	;	Gout	;	dsyn
+C0234182	;	Gowers sign	;	fndg
+C0233681	;	Grandiose delusions	;	mobd
+C0018188	;	Granuloma	;	patf
+C0018213	;	Graves disease	;	dsyn
+C0277961	;	Greasy hair	;	sosy
+C0234925	;	Greasy skin	;	fndg
+C0232799	;	Grey Turner's sign	;	fndg
+C0240007	;	Groin lump	;	sosy
+C0018379	;	Guilt	;	menp
+C0200044	;	Gynecologic examination	;	diap
+C0018418	;	Gynecomastia	;	dsyn
+C0018520	;	Halitosis	;	sosy
+C0018524	;	Hallucinations	;	mobd
+C0233205	;	Halo sign	;	sosy
+C1532085	;	Hamman's sign	;	fndg
+C1136179	;	Hammer toe	;	anab
+C0239833	;	Hand pain	;	sosy
+C2242996	;	Has tingling sensation	;	sosy
+C0018681	;	Headache	;	sosy
+C0393754	;	Headache associated with sexual activity	;	sosy
+C1313969	;	Hearing difficulty	;	fndg
+C1384666	;	Hearing impairment	;	fndg
+C0260662	;	Hearing problem	;	dsyn
+C0018786	;	Hearing test	;	diap
+C0018801	;	Heart failure	;	dsyn
+C0018808	;	Heart murmur	;	fndg
+C0577822	;	Heart sounds abnormal	;	fndg
+C0018834	;	Heartburn	;	sosy
+C0581911	;	Heavy legs	;	fndg
+C0458256	;	Heavy pain	;	fndg
+C0018862	;	Heberden's node	;	fndg
+C0231780	;	Heel pain	;	sosy
+C0233191	;	Hegar's sign	;	sosy
+C0018916	;	Hemangioma	;	neop
+C0018926	;	Hematemesis	;	sosy
+C0018932	;	Hematochezia	;	fndg
+C0018935	;	Hematocrit	;	lbpr
+C0518014	;	Hematocrit	;	fndg
+C0018944	;	Hematoma	;	patf
+C0019125	;	Hematotympanum	;	dsyn
+C0018965	;	Hematuria	;	fndg
+C0150088	;	Hemi-neglect	;	fndg
+C0018979	;	Hemianopsia	;	dsyn
+C0221169	;	Hemiballismus	;	dsyn
+C0278152	;	Hemifacial spasm	;	fndg
+C0018989	;	Hemiparesis	;	sosy
+C0018991	;	Hemiplegia	;	sosy
+C0235573	;	Hemoglobinemia	;	dsyn
+C0019048	;	Hemoglobinuria	;	dsyn
+C0002878	;	Hemolytic anemia, NOS	;	dsyn
+C0019065	;	Hemoperitoneum	;	patf
+C0015402	;	Hemophthalmos	;	patf
+C0019079	;	Hemoptysis	;	sosy
+C0019080	;	Hemorrhage	;	patf
+C0151594	;	Hemorrhagic diarrhea	;	dsyn
+C0149707	;	Hemospermia	;	fndg
+C0019123	;	Hemothorax	;	patf
+C0034152	;	Henoch-Schoenlein purpura	;	dsyn
+C0019151	;	Hepatic encephalopathy	;	dsyn
+C0019209	;	Hepatomegaly	;	sosy
+C0600452	;	Hepatopulmonary syndrome	;	dsyn
+C0019212	;	Hepatorenal syndrome	;	dsyn
+C0019214	;	Hepatosplenomegaly	;	sosy
+C0349781	;	Hibernating myocardium	;	patf
+C0019521	;	Hiccup	;	fndg
+C0476442	;	High antibody titer	;	fndg
+C0018780	;	High frequency hearing loss	;	dsyn
+C0019559	;	Hip pain	;	sosy
+C0019572	;	Hirsutism	;	fndg
+C0019633	;	Histocompatibility testing	;	lbpr
+C0019825	;	Hoarseness	;	sosy
+C0237154	;	Homeless	;	fndg
+C0268617	;	Homocystinemia	;	dsyn
+C0019880	;	Homocystinuria	;	dsyn
+C0271202	;	Homonymous hemianopsia	;	dsyn
+C0277848	;	Hoover's sign	;	sosy
+C0019937	;	Horner syndrome	;	dsyn
+C0221353	;	Horseshoe kidney	;	cgab
+C0020039	;	Hostility	;	menp
+C0600142	;	Hot flushes	;	sosy
+C0427357	;	Human leukocyte antigen type	;	lbtr
+C0020175	;	Hunger	;	sosy
+C0020186	;	Hutchinson teeth	;	cgab
+C1444627	;	Hutchinson's sign	;	dsyn
+C0020255	;	Hydrocephalus	;	dsyn
+C1720771	;	Hydrocoele	;	cgab,dsyn
+C0344439	;	Hydrogen breath test	;	diap
+C0020305	;	Hydrops fetalis, NOS	;	dsyn
+C0424295	;	Hyperactive behavior	;	mobd
+C0232694	;	Hyperactive bowel sounds	;	fndg
+C0034880	;	Hyperacusis	;	sosy
+C1142113	;	Hyperalbuminemia	;	patf
+C0020429	;	Hyperalgesia	;	sosy
+C0206081	;	Hyperandrogenism	;	dsyn
+C0020438	;	Hypercalciuria	;	dsyn
+C0020440	;	Hypercapnia	;	fndg
+C0398353	;	Hypercapnic respiratory failure	;	patf
+C0154271	;	Hypercarotinemia	;	dsyn
+C0151713	;	Hyperchlorhydria	;	patf
+C0020443	;	Hypercholesterolemia	;	dsyn
+C0020450	;	Hyperemesis gravidarum	;	sosy
+C0020452	;	Hyperemia	;	dsyn
+C0020453	;	Hyperesthesia	;	sosy
+C0154209	;	Hyperestrogenism	;	dsyn
+C0234166	;	Hyperexplexia	;	sosy
+C0231451	;	Hyperextension	;	sosy
+C0020455	;	Hypergammaglobulinemia	;	dsyn
+C1306857	;	Hyperglobulinemia	;	fndg
+C0034151	;	Hyperglobulinemic purpura	;	dsyn
+C0020456	;	Hyperglycemia	;	dsyn
+C0268559	;	Hyperglycinemia	;	dsyn
+C0020458	;	Hyperhidrosis	;	fndg
+C0020461	;	Hyperkalemia	;	fndg
+C0870082	;	Hyperkeratosis	;	dsyn
+C0020473	;	Hyperlipidemia	;	dsyn
+C0152093	;	Hypermobility syndrome	;	dsyn
+C0264614	;	Hypernasality	;	dsyn
+C0020488	;	Hypernatremia	;	dsyn
+C0020490	;	Hyperopia	;	dsyn
+C0242706	;	Hyperoxia	;	sosy
+C0020502	;	Hyperparathyroidism	;	dsyn
+C0020505	;	Hyperphagia	;	fndg
+C0085681	;	Hyperphosphatemia (disorder)	;	dsyn
+C0268079	;	Hyperphosphaturia	;	dsyn
+C0162834	;	Hyperpigmentation	;	patf
+C0392676	;	Hyperpyrexia	;	patf
+C0151889	;	Hyperreflexia	;	fndg
+C0427516	;	Hypersegmentation	;	lbtr
+C0312420	;	Hypersexuality state	;	mobd
+C0917799	;	Hypersomnia	;	dsyn
+C0020538	;	Hypertensive disease	;	dsyn
+C0020550	;	Hyperthyroidism	;	dsyn
+C0020555	;	Hypertrichosis	;	dsyn
+C0020557	;	Hypertriglyceridemia	;	dsyn
+C0020564	;	Hypertrophy	;	patf
+C0020565	;	Hypertrophy of breast NOS	;	patf
+C0156394	;	Hypertrophy of clitoris	;	dsyn
+C0020578	;	Hyperventilation	;	fndg
+C0020580	;	Hypesthesia	;	fndg
+C0020581	;	Hyphema	;	patf
+C0020594	;	Hypoactive sexual desire disorder	;	mobd
+C0239981	;	Hypoalbuminemia	;	dsyn
+C0020598	;	Hypocalcemia	;	dsyn
+C0020599	;	Hypocalciuria	;	dsyn
+C0085383	;	Hypocapnia	;	fndg
+C0079581	;	Hypochlorhydria	;	patf
+C0151718	;	Hypocholesterolemia	;	patf
+C0338938	;	Hypochondriacal pain	;	mobd
+C0476305	;	Hypochondrial pain	;	sosy
+C0086438	;	Hypogammaglobulinemia	;	dsyn
+C0151934	;	Hypogeusia	;	fndg
+C0020615	;	Hypoglycemia	;	dsyn
+C0020619	;	Hypogonadism	;	dsyn
+C0020620	;	Hypohidrosis	;	dsyn
+C0020621	;	Hypokalemia	;	fndg
+C0086439	;	Hypokinesia	;	sosy
+C0342892	;	Hypolipidemia	;	patf
+C0241934	;	Hypomania	;	fndg
+C0020624	;	Hypomenorrhea	;	dsyn
+C0264618	;	Hyponasality syndrome	;	dsyn
+C0020626	;	Hypoparathyroidism	;	dsyn
+C0521007	;	Hypophonia	;	fndg
+C0085682	;	Hypophosphatemia	;	patf
+C0162835	;	Hypopigmentation disorder	;	dsyn
+C0338502	;	Hypoplasia of the optic nerve	;	cgab
+C0151888	;	Hyporeflexia	;	fndg
+C0020649	;	Hypotension	;	fndg
+C0020676	;	Hypothyroidism	;	dsyn
+C0020678	;	Hypotrichosis	;	cgab
+C0221333	;	Hypouricemia	;	dsyn
+C3203358	;	Hypoventilation	;	patf
+C0546884	;	Hypovolemia	;	fndg
+C0020683	;	Hypovolemic shock	;	patf
+C0700292	;	Hypoxemia	;	fndg
+C0242184	;	Hypoxia	;	patf
+C0684276	;	Hypsarrhythmia	;	fndg
+C0020709	;	Hysterosalpingogram	;	diap
+C0020710	;	Hysteroscopy	;	diap
+C0022346	;	Icterus	;	patf
+C0751757	;	Idiopathic hypersomnia	;	dsyn
+C1258215	;	Ileus	;	dsyn
+C0221423	;	Illness (finding)	;	sosy
+C0231441	;	Immobile	;	fndg
+C0455990	;	Immune hydrops fetalis	;	dsyn
+C0398650	;	Immune thrombocytopenic purpura	;	dsyn
+C0338656	;	Impaired cognition	;	mobd
+C0424551	;	Impaired exercise tolerance	;	fndg
+C1272092	;	Impaired fasting glycaemia	;	fndg
+C0271650	;	Impaired glucose tolerance	;	dsyn
+C1565489	;	Impaired renal function	;	dsyn
+C0241981	;	Impairment of balance	;	fndg
+C0021099	;	Impetigo	;	dsyn
+C3875470	;	Improved exercise tolerance	;	fndg
+C0564567	;	Impulsive character (finding)	;	mobd
+C0424101	;	Inattention	;	mobd
+C0700129	;	Incoherent speech	;	fndg
+C0344365	;	Incomplete emptying of bladder	;	sosy
+C1443947	;	Incomplete paralysis	;	fndg
+C0021167	;	Incontinence	;	dsyn
+C0232359	;	Increased capillary filling time	;	fndg
+C0085128	;	Increased cardiac output	;	fndg
+C0239978	;	Increased frequency of defecation	;	fndg
+C0042023	;	Increased frequency of micturition	;	fndg
+C0151740	;	Increased intracranial pressure	;	dsyn
+C0021177	;	Increased libido	;	sosy
+C0232474	;	Increased peristalsis	;	fndg
+C0700590	;	Increased sweating	;	sosy
+C0423798	;	Increased tendency to bruise	;	fndg
+C0269268	;	Induration of breast	;	sosy
+C0241075	;	Induration of skin	;	dsyn
+C0266836	;	Infantile colic	;	sosy
+C0011992	;	Infantile diarrhea	;	sosy
+C0392550	;	Infantile hemiplegia NOS	;	dsyn
+C0175948	;	Infantilism	;	dsyn
+C3714514	;	Infection	;	patf
+C0699744	;	Infection of ear	;	dsyn
+C0021313	;	Infection of kidney	;	dsyn
+C0877046	;	Infection of tooth	;	dsyn
+C0265072	;	Inferior vena cava syndrome	;	dsyn
+C0021359	;	Infertility	;	patf
+C0021368	;	Inflammation	;	patf
+C0021390	;	Inflammatory bowel disease, NOS	;	dsyn
+C0544791	;	Inflammatory fistula	;	patf
+C0392171	;	Influenza-like symptoms	;	sosy
+C0426377	;	Infrequent urination	;	fndg
+C0027343	;	Ingrown nail	;	acab
+C0578736	;	Inguinal lymphadenopathy	;	dsyn
+C0239783	;	Inguinal pain	;	sosy
+C0393760	;	Initial insomnia	;	mobd
+C0151735	;	Injection site reaction	;	patf
+C0232255	;	Innocent murmur	;	fndg
+C0233497	;	Insecurity	;	menp
+C0011854	;	Insulin-dependent diabetes mellitus	;	dsyn
+C0423898	;	Intellectual ability	;	fndg
+C3714756	;	Intellectual disability	;	mobd
+C0021712	;	Intention myoclonus	;	sosy
+C0021775	;	Intermittent claudication	;	dsyn
+C0426785	;	Intermittent torticollis	;	sosy
+C0234372	;	Intermittent tremor	;	sosy
+C0152134	;	Internuclear ophthalmoplegia	;	dsyn
+C0152419	;	Interrupted aortic arch	;	cgab,dsyn
+C0021807	;	Intertrigo	;	dsyn
+C0021843	;	Intestinal obstruction NOS	;	dsyn
+C0231274	;	Intolerant of heat	;	patf
+C0007766	;	Intracranial aneurysm	;	dsyn
+C0524812	;	Intracranial hypotension	;	dsyn
+C0430888	;	Intraocular pressure test	;	diap
+C0203108	;	Intravenous pyelogram	;	diap
+C0558066	;	Intrusive thoughts	;	mobd
+C0269269	;	Inversion of nipple (disorder)	;	anab
+C0427086	;	Involuntary movement	;	sosy
+C0022081	;	Iritis	;	dsyn
+C0240066	;	Iron deficiency	;	dsyn
+C0282193	;	Iron overload	;	dsyn
+C0425492	;	Irregular breathing	;	fndg
+C0237314	;	Irregular heart beat	;	fndg
+C0156404	;	Irregular periods	;	fndg
+C0022107	;	Irritable mood	;	fndg
+C0022116	;	Ischemia	;	patf
+C0235627	;	Isosthenuria	;	fndg
+C0849907	;	Itching of ear	;	sosy
+C0022281	;	Itching of eye	;	fndg
+C0022333	;	Jacksonian seizure, NOS	;	dsyn
+C0234473	;	Jargon aphasia	;	mobd
+C0236000	;	Jaw pain	;	sosy
+C0086437	;	Joint laxity	;	sosy
+C0162298	;	Joint stiffness	;	sosy
+C0152031	;	Joint swelling	;	sosy
+C0240094	;	Joint tenderness	;	sosy
+C0425687	;	Jugular venous engorgement	;	fndg
+C0428897	;	Jugular venous pressure	;	fndg
+C0036220	;	Kaposi sarcoma	;	neop
+C0152457	;	Kayser-Fleischer ring	;	dsyn
+C0277834	;	Kehr's sign	;	sosy
+C0022568	;	Keratitis	;	dsyn
+C0022575	;	Keratoconjunctivitis sicca	;	dsyn
+C0220982	;	Ketoacidosis	;	patf
+C0162275	;	Ketonuria	;	dsyn
+C0343166	;	Knee joint effusion	;	fndg
+C0231749	;	Knee pain	;	sosy
+C0278218	;	Kocher's sign	;	sosy
+C0221261	;	Koilonychia	;	sosy
+C0221200	;	Koplik spots	;	sosy
+C0022821	;	Kyphosis deformity of spine	;	anab
+C0233472	;	Labile affect	;	mobd
+C0474368	;	Labor pain	;	sosy
+C0553668	;	Labored breathing	;	sosy
+C0423153	;	Lacrimation	;	fndg
+C0554400	;	Lactation problem	;	fndg
+C0022951	;	Lactose intolerance	;	dsyn
+C0022953	;	Lactose tolerance test	;	lbpr
+C0023014	;	Language development disorder	;	mobd
+C0521264	;	Laparoscopic biopsy of liver	;	diap
+C0031150	;	Laparoscopy	;	diap
+C0426870	;	Large hand	;	fndg
+C2243051	;	Large head (disorder)	;	fndg
+C0549123	;	Large tonsils (finding)	;	fndg
+C1963946	;	Laryngeal dystonia	;	dsyn
+C0086523	;	Laryngeal paralysis	;	dsyn
+C0023066	;	Laryngismus	;	dsyn
+C0023067	;	Laryngitis	;	dsyn
+C0023072	;	Laryngoscopy	;	diap
+C0422955	;	Lazy eye	;	dsyn
+C0023185	;	Learning	;	menp
+C0424939	;	Learning difficulties	;	fndg
+C0751265	;	Learning disability	;	mobd
+C0023186	;	Learning disorder	;	mobd
+C0423641	;	Left flank pain	;	sosy
+C0238551	;	Left lower quadrant pain	;	sosy
+C0238552	;	Left upper quadrant pain	;	sosy
+C0149721	;	Left ventricular hypertrophy	;	dsyn
+C0344917	;	Left ventricular outflow tract obstruction	;	cgab
+C0023218	;	Leg cramps	;	sosy
+C0023223	;	Leg ulcer NOS	;	acab,dsyn
+C0686770	;	Leser-Trelat sign	;	sosy
+C0221198	;	Lesion	;	fndg
+C0221505	;	Lesion of brain	;	dsyn
+C2168629	;	Lesion of scalp	;	fndg
+C0023380	;	Lethargy	;	sosy
+C0023418	;	Leukemia, NOS	;	neop
+C0152458	;	Leukocoria	;	dsyn
+C0750426	;	Leukocytosis	;	fndg
+C0023518	;	Leukocytosis	;	patf
+C0750394	;	Leukopenia	;	fndg
+C0023530	;	Leukopenia	;	dsyn
+C0023531	;	Leukoplakia	;	neop
+C0023533	;	Leukorrhea	;	sosy
+C0234425	;	Level of consciousness	;	fndg
+C0023653	;	Lichenification	;	patf
+C0220870	;	Lightheadedness	;	sosy
+C0152459	;	Linear atrophy	;	acab
+C0200382	;	Lipid panel	;	lbpr
+C0406500	;	Lipodermatosclerosis	;	dsyn
+C0023787	;	Lipodystrophy	;	dsyn
+C0085642	;	Livedo reticularis, NOS	;	dsyn
+C0343081	;	Livedoid vasculitis	;	dsyn
+C0151763	;	Liver damage	;	patf
+C0438237	;	Liver enzymes abnormal	;	fndg
+C0023901	;	Liver function test	;	lbpr
+C0522067	;	Liver pain	;	sosy
+C0013609	;	Localized edema	;	sosy
+C0478664	;	Localized enlarged lymph nodes	;	patf
+C0036420	;	Localized scleroderma	;	dsyn
+C0023944	;	Locked in syndrome	;	dsyn
+C0547000	;	Locking of joint	;	fndg
+C0343495	;	Lockjaw	;	fndg
+C3248383	;	Logorrhea	;	mobd
+C0235632	;	Loin pain	;	sosy
+C0023974	;	Loneliness	;	fndg
+C2129214	;	Loose stool	;	sosy
+C0600028	;	Loose tooth	;	fndg
+C0024003	;	Lordosis	;	fndg
+C0041657	;	Loss of consciousness, NOS	;	fndg
+C0424091	;	Loss of interest	;	fndg
+C0751295	;	Loss of memory	;	sosy
+C0024031	;	Low back pain	;	sosy
+C0024032	;	Low birth weight	;	fndg
+C0600177	;	Low cardiac output syndrome	;	patf
+C0151631	;	Low erythrocyte sedimentation rate	;	fndg
+C0239574	;	Low grade fever	;	fndg
+C0679136	;	Low self-esteem	;	fndg
+C0239234	;	Low set ears	;	cgab
+C0042798	;	Low vision, NOS	;	dsyn
+C0232495	;	Lower abdominal pain	;	sosy
+C0024050	;	Lower gastrointestinal hemorrhage	;	patf
+C0442865	;	Lower motor neurone lesion	;	patf
+C0424844	;	Lump in eyelid	;	fndg
+C0024205	;	Lymphadenitis	;	dsyn
+C0497156	;	Lymphadenopathy	;	fndg
+C0024219	;	Lymphangiography	;	diap
+C0024225	;	Lymphangitis	;	dsyn
+C0024236	;	Lymphedema	;	dsyn
+C0024282	;	Lymphocytosis	;	dsyn
+C0853698	;	Lymphocytosis	;	fndg
+C0333997	;	Lymphoid hyperplasia	;	dsyn
+C0023448	;	Lymphoid leukemia	;	neop
+C0024312	;	Lymphopenia	;	dsyn
+C0333525	;	Maceration	;	patf
+C0221355	;	Macrocephaly	;	cgab
+C2720434	;	Macroencephaly	;	cgab
+C0024421	;	Macroglossia	;	anab
+C2729166	;	Macrognathia	;	anab
+C2225524	;	Macromastia	;	fndg
+C0233771	;	Macropsia	;	fndg
+C0332573	;	Macule	;	sosy
+C0423791	;	Maculopapular eruption	;	fndg
+C0427170	;	Magnetic gait	;	fndg
+C0243032	;	Magnetic resonance angiography	;	diap
+C0994163	;	Magnetic resonance cholangiopancreatography	;	diap
+C0024485	;	Magnetic resonance imaging	;	diap
+C0442974	;	Magnetic resonance imaging guidance	;	diap
+C0412693	;	Magnetic resonance imaging of abdomen	;	diap
+C0344104	;	Magnetic resonance imaging of breast	;	diap
+C0202762	;	Magnetic resonance imaging of neck	;	diap
+C0024489	;	Magnetoencephalography	;	diap
+C1269683	;	Major depressive disorder	;	mobd
+C0024523	;	Malabsorption syndrome NOS	;	dsyn
+C0231218	;	Malaise	;	sosy
+C0024528	;	Malaise and fatigue	;	sosy
+C0021364	;	Male infertility	;	dsyn
+C0220656	;	Malignant ascites	;	neop
+C0007114	;	Malignant neoplasm of skin	;	neop
+C0162429	;	Malnutrition	;	dsyn
+C0024636	;	Malocclusion	;	anab
+C2830589	;	Mammographic microcalcification of breast	;	fndg
+C0024671	;	Mammography	;	diap
+C0338831	;	Manic	;	mobd
+C1304836	;	Mantoux test	;	diap
+C0200045	;	Manual pelvic examination (procedure)	;	diap
+C0270749	;	Marie cerebellar ataxia	;	dsyn
+C0024103	;	Mass in breast	;	fndg
+C0149736	;	Mass of neck	;	fndg
+C0240691	;	Mass of penis	;	fndg
+C0240302	;	Masseter spasm	;	fndg
+C0333245	;	Massive edema	;	sosy
+C0234375	;	Massive tremor	;	sosy
+C0024902	;	Mastodynia	;	sosy
+C0024985	;	McGill pain questionnaire	;	diap
+C0344388	;	Mean platelet volume	;	fndg
+C0423682	;	Mechanical low back pain	;	dsyn
+C0264573	;	Mediastinal fibrosis	;	dsyn
+C0264576	;	Mediastinal shift	;	fndg
+C0025065	;	Mediastinoscopy	;	diap
+C0025149	;	Medulloblastoma	;	neop
+C0025193	;	Melancholia	;	mobd
+C0027962	;	Melanocytic nevus	;	neop
+C0025222	;	Melena	;	patf
+C0233794	;	Memory impairment	;	mobd
+C0025287	;	Meningism	;	sosy
+C0025289	;	Meningitis	;	dsyn
+C1403891	;	Meningococcal Waterhouse-Friderichsen syndrome	;	dsyn
+C0025323	;	Menorrhagia	;	patf
+C0497456	;	Menstruation absent	;	sosy
+C0004936	;	Mental disorders NOS	;	mobd
+C0235109	;	Mental distress	;	fndg
+C0025362	;	Mental retardation NOS	;	mobd
+C0220981	;	Metabolic acidosis	;	patf
+C0240327	;	Metallic taste	;	sosy
+C0271185	;	Metamorphopsia	;	sosy
+C0025568	;	Metaplasia	;	comd
+C0025587	;	Metatarsalgia	;	sosy
+C0025637	;	Methemoglobinemia	;	dsyn
+C0025874	;	Metrorrhagia	;	patf
+C0730345	;	Microalbuminuria	;	dsyn
+C0521174	;	Microcalcification	;	patf
+C0025958	;	Microcephaly	;	cgab,dsyn
+C0025988	;	Microglossia	;	cgab
+C0025990	;	Micrognathism	;	cgab
+C0233769	;	Micropsia	;	sosy
+C0239937	;	Microscopic hematuria	;	fndg
+C0547005	;	Mid-cycle bleeding	;	sosy
+C0149931	;	Migraine NOS	;	dsyn
+C0588006	;	Mild depression	;	mobd
+C0451306	;	Mini-mental state examination	;	diap
+C0751699	;	Minimally conscious state	;	dsyn
+C0520675	;	Minor depressive disorder	;	mobd
+C0454598	;	Mixed dysarthria	;	fndg
+C0155552	;	Mixed type deafness	;	dsyn
+C0869256	;	Mixed urinary incontinence	;	sosy
+C1320549	;	Molecular genetic test	;	lbpr
+C0201383	;	Mono test	;	lbpr
+C1136085	;	Monoclonal gammopathy	;	neop
+C0271190	;	Monocular diplopia	;	dsyn
+C0751409	;	Monoparesis - arm	;	sosy
+C0427068	;	Monoparesis - leg	;	fndg
+C0085622	;	Monoplegia	;	dsyn
+C0430435	;	Monospot test	;	lbpr
+C0525045	;	Mood disorder	;	mobd
+C0085633	;	Mood swings	;	mobd
+C0338818	;	Morbid jealousy	;	mobd
+C0240352	;	Morning nausea	;	sosy
+C0312416	;	Morning sickness	;	sosy
+C2129318	;	Morning vomiting	;	sosy
+C1527383	;	Morphea	;	dsyn
+C0026603	;	Motion sickness NOS	;	dsyn
+C0700075	;	Motor restlessness	;	sosy
+C0424230	;	Motor retardation	;	fndg
+C0026613	;	Motor skill disorder	;	mobd
+C0026635	;	Mouth breathing	;	fndg
+C0026650	;	Movement disorder	;	dsyn
+C0241254	;	Mucus in stool	;	fndg
+C0263535	;	Muehrcke's lines	;	dsyn
+C0014742	;	Multiforme - erythema	;	dsyn
+C0015306	;	Multiple hereditary exostoses	;	cgab,dsyn
+C0026766	;	Multiple organ failure	;	patf
+C0519186	;	Multiple sleep latency test	;	diap
+C0333376	;	Munro microabscess	;	patf
+C0277977	;	Murphy's sign	;	sosy
+C0026821	;	Muscle cramp	;	sosy
+C0026826	;	Muscle hypertonia	;	fndg
+C0026827	;	Muscle hypotonia	;	fndg
+C0026837	;	Muscle rigidity	;	sosy
+C0026838	;	Muscle spasticity	;	sosy
+C0427195	;	Muscle tension	;	fndg
+C0231530	;	Muscle twitch	;	fndg
+C0151786	;	Muscle weakness	;	sosy
+C0587246	;	Muscle weakness of limb	;	fndg
+C0427202	;	Muscular atony	;	sosy
+C0026846	;	Muscular atrophy	;	patf
+C0015644	;	Muscular fasciculation	;	sosy
+C0553727	;	Muscular paralysis	;	fndg
+C0221170	;	Muscular stiffness	;	sosy
+C0026858	;	Musculoskeletal pain	;	fndg
+C0277927	;	Musset's sign	;	sosy
+C0231528	;	Myalgia	;	sosy
+C0523176	;	Mycoplasma culture	;	lbpr
+C0026961	;	Mydriasis	;	sosy
+C0026995	;	Myelography	;	diap
+C1304881	;	Myocardial biopsy	;	diap
+C0027051	;	Myocardial infarction, NOS	;	dsyn
+C0027066	;	Myoclonus	;	sosy
+C0027080	;	Myoglobinuria	;	fndg
+C0684219	;	Myokymia	;	sosy
+C0026848	;	Myopathy	;	dsyn
+C0027092	;	Myopia	;	dsyn
+C0027125	;	Myotonia	;	fndg
+C0027145	;	Myxedema	;	dsyn
+C0027365	;	Name	;	inpr
+C0234447	;	Narcosis	;	mobd
+C0027424	;	Nasal congestion (finding)	;	sosy
+C0027429	;	Nasal obstruction	;	fndg
+C0027430	;	Nasal polyp NOS	;	dsyn
+C0027431	;	Nasal provocation test	;	diap
+C0027441	;	Nasopharyngitis	;	dsyn
+C0027497	;	Nausea	;	sosy
+C0027498	;	Nausea and vomiting	;	sosy
+C0007859	;	Neck pain NOS	;	sosy
+C0151315	;	Neck stiffness	;	sosy
+C0578454	;	Neck swelling	;	sosy
+C0221217	;	Neck webbing	;	cgab
+C0221243	;	Necrolytic migratory erythema	;	dsyn
+C0576479	;	Neglect of left side of body	;	fndg
+C2267233	;	Neonatal hypotonia	;	dsyn
+C1290310	;	Neoplasm of back	;	neop
+C0005967	;	Neoplasm of bone	;	neop
+C0007873	;	Neoplasm of uterine cervix	;	neop
+C0027651	;	Neoplasms	;	neop
+C0268732	;	Nephritic syndrome	;	dsyn
+C0027697	;	Nephritis	;	dsyn
+C0027709	;	Nephrocalcinosis	;	dsyn
+C0162283	;	Nephrogenic diabetes insipidus, NOS	;	dsyn
+C0392525	;	Nephrolithiasis	;	dsyn
+C0027726	;	Nephrotic syndrome NOS	;	dsyn
+C0200125	;	Nerve conduction study	;	diap
+C1827478	;	Nervous tension	;	fndg
+C0027769	;	Nervousness	;	sosy
+C0027796	;	Neuralgia	;	sosy
+C0027804	;	Neurasthenia	;	mobd
+C0027830	;	Neurofibroma, NOS	;	neop
+C0005697	;	Neurogenic bladder	;	dsyn
+C0580173	;	Neurogenic claudication	;	fndg
+C0521654	;	Neurologic deficit	;	fndg
+C0027853	;	Neurological examination	;	diap
+C0027902	;	Neuropsychological testing	;	diap
+C0346099	;	Nevus spilus	;	neop
+C0028077	;	Night blindness NOS	;	dsyn
+C0028081	;	Night sweats	;	sosy
+C0037320	;	Night terrors	;	mobd
+C0028084	;	Nightmares	;	sosy
+C0241128	;	Nikolsky sign	;	fndg
+C0149741	;	Nipple discharge NOS	;	sosy
+C0240521	;	Nipple tenderness	;	sosy
+C0427184	;	No incoordination	;	fndg
+C0457775	;	No malocclusion	;	fndg
+C0028734	;	Nocturia	;	dsyn
+C0231912	;	Nocturnal cough	;	sosy
+C0344357	;	Nocturnal dyspnea	;	fndg
+C0751352	;	Nocturnal myoclonus	;	sosy
+C0014743	;	Nodosum - erythema	;	dsyn
+C0028259	;	Nodule	;	acab
+C0455988	;	Non-immune hydrops fetalis	;	dsyn
+C0011860	;	Non-insulin-dependent diabetes mellitus	;	dsyn
+C0334067	;	Non-ossifying fibroma	;	neop
+C0155730	;	Nonruptured cerebral aneurysm	;	anab,dsyn
+C1314734	;	Nonstress test	;	diap
+C0333349	;	Nonsuppurative inflammation	;	patf
+C0242461	;	Nonthrombocytopenic purpura NOS	;	dsyn
+C0522225	;	Normal reflex	;	fndg
+C0522182	;	Nosophobia	;	menp
+C0442735	;	Nothing	;	fndg
+C1320474	;	Nuchal rigidity	;	sosy
+C0028643	;	Numbness	;	sosy
+C0239511	;	Numbness of face	;	sosy
+C0587054	;	Numbness of finger	;	sosy
+C0239649	;	Numbness of foot	;	sosy
+C0239832	;	Numbness of hand	;	sosy
+C0239375	;	Numbness of limbs	;	sosy
+C0522057	;	Numbness of skin	;	sosy
+C0028738	;	Nystagmus	;	dsyn
+C0029134	;	ON - Optic neuritis	;	dsyn
+C0028754	;	Obesity	;	dsyn
+C0155534	;	Objective tinnitus	;	sosy
+C0600104	;	Obsessive compulsive behavior	;	mobd
+C0022354	;	Obstructive jaundice NOS	;	dsyn
+C0277978	;	Obturator sign	;	sosy
+C0270951	;	Ocular muscular dystrophy	;	dsyn
+C0406486	;	Ocular rosacea	;	dsyn
+C0028856	;	Ocular torticollis	;	dsyn
+C0078918	;	Oculocutaneous albinism	;	cgab
+C0585540	;	Oculopalatal myoclonus	;	sosy
+C0422853	;	Olfactory seizure	;	dsyn
+C0028949	;	Oligomenorrhea	;	patf
+C0028961	;	Oliguria	;	dsyn
+C0028962	;	Oliguria and anuria	;	sosy
+C0344022	;	Onchocercal depigmentation	;	dsyn
+C0263537	;	Onychogryposis	;	dsyn
+C0333128	;	Open comedone	;	dsyn
+C0029089	;	Ophthalmoplegia	;	sosy
+C0221058	;	Ophthalmoplegic migraine	;	dsyn
+C0029090	;	Ophthalmoscopy	;	diap
+C0151818	;	Opisthotonus	;	sosy
+C0029118	;	Opportunistic infectious disease, NOS	;	dsyn
+C0029124	;	Optic atrophy NOS	;	dsyn
+C0920367	;	Optical coherence tomography	;	diap
+C0006849	;	Oral candidiasis	;	dsyn
+C0029163	;	Oral hemorrhage	;	fndg
+C0555971	;	Oral infection	;	dsyn
+C0149744	;	Oral lesion	;	fndg
+C0221776	;	Oral pain	;	sosy
+C2315800	;	Oral phase dysphagia	;	dsyn
+C0430568	;	Oral provocation test	;	diap
+C0149745	;	Oral ulcer	;	dsyn
+C0020534	;	Orbital separation excessive	;	cgab
+C0267071	;	Oropharyngeal dysphagia	;	dsyn
+C0085619	;	Orthopnea	;	sosy
+C0020651	;	Orthostatic hypotension	;	fndg
+C0232867	;	Orthostatic proteinuria	;	dsyn
+C0240608	;	Osler's node	;	sosy
+C0029405	;	Osteitis fibrosa cystica	;	dsyn
+C0029442	;	Osteomalacia	;	dsyn
+C0029443	;	Osteomyelitis	;	dsyn
+C0029453	;	Osteopenia	;	dsyn
+C1956089	;	Osteophyte	;	dsyn
+C0029456	;	Osteoporosis	;	dsyn
+C3697172	;	Osteoporosis circumscripta	;	dsyn
+C0029878	;	Otitis externa NOS	;	dsyn
+C0029877	;	Otitis, NOS	;	dsyn
+C0847244	;	Otoscopy	;	diap
+C0242700	;	Outerspace sickness	;	dsyn
+C0878773	;	Overactive bladder	;	dsyn
+C1536696	;	Overactivity	;	fndg
+C0312413	;	Overflow incontinence of urine	;	fndg
+C0497406	;	Overweight	;	sosy
+C0240444	;	Pachyonychia	;	sosy
+C0030193	;	Pain	;	sosy
+C0234656	;	Pain around eye	;	sosy
+C0030198	;	Pain assessment	;	diap
+C0236040	;	Pain in calf	;	sosy
+C0239266	;	Pain in elbow	;	sosy
+C0239589	;	Pain in finger	;	sosy
+C0030196	;	Pain in limb	;	sosy
+C0023222	;	Pain in lower limb	;	sosy
+C0497481	;	Pain in penis	;	sosy
+C0236078	;	Pain in scrotum	;	sosy
+C0039591	;	Pain in testicle	;	sosy
+C0009193	;	Pain in the coccyx	;	sosy
+C0241416	;	Pain in toe	;	sosy
+C0221785	;	Pain in wrist	;	sosy
+C0241136	;	Pain of skin	;	sosy
+C0423742	;	Pain on intercourse	;	fndg
+C0278107	;	Painful ejaculation	;	sosy
+C0233973	;	Painful penile erection	;	sosy
+C0030214	;	Palatal myoclonus	;	sosy
+C0232720	;	Pale feces (finding)	;	fndg
+C0233652	;	Palinopsia	;	mobd
+C0030232	;	Pallor	;	fndg
+C0014745	;	Palmar erythema	;	fndg
+C0030247	;	Palpation	;	diap
+C0030252	;	Palpitations	;	fndg
+C0030291	;	Pancreatic function test	;	lbpr
+C0030305	;	Pancreatitis	;	dsyn
+C0030318	;	Panic	;	fndg
+C0086769	;	Panic attack	;	mobd
+C0232258	;	Pansystolic murmur	;	dsyn
+C0079104	;	Pap smear	;	diap
+C0030353	;	Papilledema	;	dsyn
+C0205875	;	Papillomatosis	;	neop
+C0332563	;	Papule	;	fndg
+C0234920	;	Papulovesicular rash	;	fndg
+C0271197	;	Paracentral scotoma	;	fndg
+C0030436	;	Parakeratosis	;	dsyn
+C0522224	;	Paralysis NOS	;	fndg
+C1456784	;	Paranoia	;	mobd
+C0221166	;	Paraparesis	;	sosy
+C0234488	;	Paraphasia	;	fndg
+C0030486	;	Paraplegia	;	dsyn
+C0030552	;	Paresis	;	sosy
+C0030554	;	Paresthesia	;	dsyn
+C0242422	;	Parkinsonism, NOS	;	dsyn
+C1956415	;	Paroxysmal nocturnal dyspnea	;	dsyn
+C0234164	;	Past pointing (finding)	;	fndg
+C0332461	;	Patch	;	fndg
+C0030646	;	Patch test	;	diap
+C2939416	;	Pectus carinatum	;	dsyn
+C2051831	;	Pectus excavatum	;	anab
+C0237849	;	Peeling of skin	;	fndg
+C0240682	;	Pelvic girdle pain	;	fndg
+C0242172	;	Pelvic inflammatory disease NOS	;	dsyn
+C0406608	;	Pelvic lipomatosis	;	neop
+C0030794	;	Pelvic pain, NOS	;	sosy
+C0343731	;	Penile warts	;	sosy
+C0030920	;	Peptic ulcer NOS	;	dsyn
+C0030987	;	Percussion	;	diap
+C0558534	;	Percutaneous liver biopsy	;	diap
+C0585134	;	Perianal pain	;	sosy
+C0232267	;	Pericardial friction rub	;	fndg
+C0031046	;	Pericarditis	;	dsyn
+C0031053	;	Perichondritis	;	dsyn
+C0031061	;	Perimetry	;	diap
+C0151205	;	Periorbital edema	;	sosy
+C0085649	;	Peripheral edema	;	fndg
+C0235025	;	Peripheral motor neuropathy	;	dsyn
+C0031117	;	Peripheral neuropathy, NOS	;	dsyn
+C0235066	;	Peripheral scotoma	;	fndg
+C1096624	;	Periumbilical pain	;	fndg
+C0233651	;	Perseveration	;	mobd
+C0562483	;	Persistent cough	;	sosy
+C0026205	;	Persistent miosis	;	dsyn
+C0234370	;	Persistent tremor	;	sosy
+C0041207	;	Persistent truncus arteriosus	;	cgab
+C0266543	;	Persistent tunica vasculosa lentis	;	cgab
+C0242670	;	Persistent vegetative state	;	dsyn
+C0240735	;	Personality change	;	sosy
+C0031256	;	Petechiae	;	dsyn
+C0235234	;	Pharyngeal dryness	;	sosy
+C0031350	;	Pharyngitis	;	dsyn
+C0031542	;	Phlebitis	;	dsyn
+C0031575	;	Phocomelia	;	cgab
+C0751466	;	Phonophobia	;	mobd
+C0206051	;	Photoallergy	;	dsyn
+C0031762	;	Photodermatitis, NOS	;	dsyn
+C0155078	;	Photokeratitis	;	dsyn
+C0085636	;	Photophobia	;	sosy
+C0162599	;	Photoplethysmography	;	diap
+C0085635	;	Photopsia	;	sosy
+C0010701	;	Phyllodes tumor, NOS	;	neop
+C0278080	;	Physical addiction	;	mobd
+C0424323	;	Physical aggression	;	fndg
+C0236642	;	Pick disease	;	dsyn
+C0263491	;	Pili torti	;	fndg
+C0751564	;	Pill rolling	;	sosy
+C0542346	;	Pimples	;	patf
+C0423572	;	Pins and needles	;	sosy
+C0458224	;	Piriformis syndrome	;	dsyn
+C0333243	;	Pitting edema	;	sosy
+C0150993	;	Pitting of nails	;	fndg
+C0149756	;	Plantar fasciitis	;	dsyn
+C0278131	;	Plantar reflex	;	fndg
+C0520825	;	Platypnea	;	sosy
+C0032227	;	Pleural effusion NOS	;	dsyn
+C0032231	;	Pleurisy	;	dsyn
+C0008033	;	Pleuritic pain	;	sosy
+C0232894	;	Pneumatouria	;	sosy
+C0032285	;	Pneumonia	;	dsyn
+C0221168	;	Podagra	;	dsyn
+C0221281	;	Poikilocytosis	;	fndg
+C0264992	;	Polyarteritis	;	dsyn
+C0162323	;	Polyarthritis	;	dsyn
+C0272249	;	Polyclonal gammopathy	;	dsyn
+C0032461	;	Polycythemia	;	dsyn
+C0085602	;	Polydipsia	;	sosy
+C0032541	;	Polyneuritis	;	dsyn
+C0152025	;	Polyneuropathy	;	dsyn
+C0162701	;	Polysomnography	;	diap
+C0032617	;	Polyuria	;	sosy
+C0234964	;	Poor balance (finding)	;	fndg
+C0563243	;	Poor coordination	;	fndg
+C0455880	;	Poor stream of urine	;	sosy
+C0020541	;	Portal hypertension	;	dsyn
+C0032743	;	Positron emission tomography	;	diap
+C0751188	;	Post-dural puncture headache	;	sosy
+C0032781	;	Posterior rhinorrhea	;	sosy
+C0032768	;	Postherpetic neuralgia	;	dsyn
+C0333616	;	Postinflammatory hyperpigmentation	;	patf
+C0520904	;	Postoperative nausea	;	sosy
+C0030201	;	Postoperative pain	;	sosy
+C0520905	;	Postoperative vomiting	;	sosy
+C0032914	;	Pre-eclampsia NOS	;	patf
+C0034013	;	Precocious puberty	;	dsyn
+C0232286	;	Precordial pain	;	sosy
+C0362046	;	Prediabetes	;	dsyn
+C0032976	;	Pregnancy test	;	diap
+C0231341	;	Premature aging syndrome	;	dsyn
+C0033038	;	Premature ejaculation	;	patf
+C0554309	;	Prerenal uremia syndrome	;	dsyn
+C0033074	;	Presbycusis	;	patf
+C0438716	;	Pressure in chest	;	sosy
+C0233718	;	Pressure of speech	;	mobd
+C0232265	;	Presystolic murmur	;	fndg
+C0033103	;	Pretibial myxedema	;	dsyn
+C0033117	;	Priapism	;	dsyn
+C0221002	;	Primary hyperparathyroidism	;	dsyn
+C0029411	;	Primary hypertrophic osteoarthropathy	;	dsyn
+C0278210	;	Problem of visual accommodation	;	fndg
+C0033246	;	Proctitis	;	dsyn
+C0239134	;	Productive cough	;	sosy
+C0038868	;	Progressive supranuclear palsy	;	dsyn
+C0221151	;	Projectile vomiting	;	sosy
+C0424768	;	Prolonged fever	;	fndg
+C0234512	;	Prosopagnosia	;	mobd
+C0240812	;	Prostatic pain	;	sosy
+C0155015	;	Protan defect	;	dsyn
+C0033687	;	Proteinuria	;	fndg
+C0241442	;	Protrusion of tongue	;	fndg
+C0221629	;	Proximal muscle weakness	;	fndg
+C0033771	;	Prurigo	;	dsyn
+C0033774	;	Pruritus	;	sosy
+C0033775	;	Pruritus ani	;	sosy
+C0033777	;	Pruritus of genital organs	;	sosy
+C0240941	;	Pruritus of scalp	;	sosy
+C0042256	;	Pruritus of vagina	;	sosy
+C0033778	;	Pruritus vulvae	;	sosy
+C0021847	;	Pseudo-obstruction of intestine	;	dsyn
+C0410538	;	Pseudoachondroplasia	;	cgab,dsyn
+C0033790	;	Pseudobulbar palsy	;	dsyn
+C0233693	;	Pseudologia fantastica	;	mobd
+C0240821	;	Pseudomembrane	;	patf
+C1257843	;	Pseudomembranous colitis	;	dsyn
+C0684343	;	Pseudophakia	;	fndg
+C0277849	;	Psoas sign	;	sosy
+C3887612	;	Psychomotor agitation	;	fndg
+C0033931	;	Psychophysiologic disorder, NOS	;	mobd
+C0033975	;	Psychotic disorder	;	mobd
+C0033377	;	Ptosis	;	dsyn
+C1997249	;	Pudendal neuralgia	;	dsyn
+C0677490	;	Pulmonary angiogram	;	diap
+C0034063	;	Pulmonary edema NOS	;	dsyn
+C0151701	;	Pulmonary hemorrhage	;	patf
+C0020542	;	Pulmonary hypertension, NOS	;	patf
+C0751559	;	Pulsatile tinnitus	;	sosy
+C0237313	;	Pulse deficit	;	fndg
+C0034108	;	Pulse oximetry	;	diap
+C0232121	;	Pulsus alternans	;	fndg
+C0232118	;	Pulsus paradoxus	;	fndg
+C0004292	;	Pure tone audiometry	;	diap
+C0034150	;	Purpura	;	dsyn
+C0085650	;	Purpura fulminans	;	dsyn
+C0376362	;	Purpura hemorrhagica	;	dsyn
+C0425465	;	Pursed-lip breathing	;	fndg
+C0241235	;	Purulent sputum	;	sosy
+C0241157	;	Pustule, NOS	;	fndg
+C0034186	;	Pyelonephritis	;	dsyn
+C0085652	;	Pyoderma gangrenosum	;	dsyn
+C0267000	;	Pyostomatitis vegetans	;	dsyn
+C0034359	;	Pyuria	;	dsyn
+C0544680	;	Quadrantanopsia	;	fndg
+C0270790	;	Quadriparesis	;	sosy
+C0034372	;	Quadriplegia	;	dsyn
+C0554978	;	Racing thoughts	;	mobd
+C0677499	;	Radial tunnel syndrome	;	dsyn
+C0700594	;	Radiculopathy	;	dsyn
+C0034554	;	Radioallergosorbent test	;	lbpr
+C0412375	;	Radioisotope scan of lymphatic system	;	diap
+C2919404	;	Raised low density lipoprotein cholesterol	;	fndg
+C0178415	;	Raised prostate specific antigen	;	fndg
+C0034642	;	Rales	;	sosy
+C0201405	;	Rapid plasma reagin test	;	lbpr
+C0034734	;	Raynaud disease	;	dsyn
+C0034735	;	Raynaud phenomenon	;	dsyn
+C0234246	;	Rebound tenderness	;	sosy
+C0454578	;	Receptive aphasia (finding)	;	mobd
+C0221780	;	Rectal discharge	;	fndg
+C0034882	;	Rectal disorder	;	dsyn
+C0199900	;	Rectal examination	;	diap
+C0267596	;	Rectal hemorrhage	;	patf
+C0034886	;	Rectal pain	;	sosy
+C0034888	;	Rectal prolapse NOS	;	dsyn
+C0232726	;	Rectal tenesmus	;	sosy
+C0221480	;	Recurrent depression	;	mobd
+C0542142	;	Recurrent laryngeal nerve palsy	;	dsyn
+C0553084	;	Red blood cell morphology	;	fndg
+C0200655	;	Red blood cell morphology	;	lbpr
+C0476320	;	Red blood cell morphology abnormal	;	fndg
+C0155016	;	Red-green color blindness	;	dsyn
+C0235267	;	Redness of eye	;	sosy
+C0262630	;	Reduced concentration span	;	fndg
+C0234250	;	Referred pain	;	sosy
+C2004489	;	Regurgitation	;	sosy
+C0035021	;	Relapsing fever NOS	;	dsyn
+C0424021	;	Religious delusion	;	fndg
+C0152169	;	Renal colic	;	sosy
+C0035078	;	Renal insufficiency	;	dsyn
+C0558489	;	Renal pain	;	sosy
+C0035143	;	Repression	;	menp
+C1313952	;	Respiration intermittent	;	sosy
+C0162297	;	Respiratory arrest	;	patf
+C0235063	;	Respiratory depression	;	patf
+C0476273	;	Respiratory distress	;	sosy
+C1145670	;	Respiratory failure, NOS	;	dsyn
+C0035229	;	Respiratory insufficiency, NOS	;	patf
+C0035234	;	Respiratory sounds, NOS	;	clna
+C0037090	;	Respiratory symptom	;	sosy
+C0425442	;	Respiratory system finding	;	fndg
+C0234253	;	Rest pain	;	sosy
+C0234379	;	Resting tremor	;	fndg
+C0035258	;	Restless legs syndrome	;	dsyn
+C3887611	;	Restlessness	;	sosy
+C0232602	;	Retching	;	sosy
+C0206160	;	Reticulocytosis	;	fndg
+C0235272	;	Retinal damage	;	dsyn
+C0035304	;	Retinal degeneration, NOS	;	patf
+C0455973	;	Retinoscopy	;	diap
+C0085582	;	Retrobulbar neuritis	;	dsyn
+C0002624	;	Retrograde amnesia	;	mobd
+C0403673	;	Retrograde ejaculation	;	patf
+C0203110	;	Retrograde pyelogram	;	diap
+C0035357	;	Retroperitoneal fibrosis	;	patf
+C0152113	;	Rheumatic chorea NOS	;	dsyn
+C0035450	;	Rheumatoid nodule, NOS	;	acab
+C0035455	;	Rhinitis	;	dsyn
+C0430615	;	Rhinomanometry	;	diap
+C0035466	;	Rhinophyma	;	dsyn
+C1260880	;	Rhinorrhea	;	sosy
+C0035508	;	Rhonchi	;	fndg
+C0574068	;	Rib pain	;	sosy
+C0035579	;	Rickets	;	dsyn
+C0154162	;	Riedel's thyroiditis	;	dsyn
+C0748427	;	Right atrial enlargement	;	dsyn
+C0423640	;	Right flank pain	;	sosy
+C0694551	;	Right lower quadrant pain	;	sosy
+C0238545	;	Right upper quadrant abdominal mass	;	fndg
+C0235299	;	Right upper quadrant pain	;	sosy
+C0162770	;	Right ventricular hypertrophy	;	dsyn
+C0344900	;	Right ventricular outflow tract obstruction	;	cgab
+C0234996	;	Rigid gait	;	fndg
+C0424790	;	Rigor	;	sosy
+C0438434	;	Ring scotoma	;	sosy
+C0343494	;	Risus sardonicus	;	sosy
+C0154575	;	Rumination disorder	;	mobd
+C0242084	;	Ruptured cerebral aneurysm	;	dsyn
+C0036135	;	Salpingography	;	diap
+C0008509	;	Sampling of chorionic villus	;	diap
+C0205204	;	Scab	;	acab
+C0423736	;	Scalding pain on urination	;	sosy
+C0423773	;	Scaly skin	;	sosy
+C1271439	;	Scanning laser polarimetry	;	diap
+C0278184	;	Scanning speech	;	sosy
+C0265534	;	Scaphycephaly	;	cgab
+C0036313	;	Schilling test	;	diap
+C1301514	;	Schirmer I test	;	diap
+C0036396	;	Sciatica	;	sosy
+C0235068	;	Scintillating scotoma	;	sosy
+C0231698	;	Scissor gait	;	fndg
+C0036416	;	Scleritis	;	dsyn
+C0150988	;	Sclerodactyly	;	dsyn
+C0036439	;	Scoliosis, NOS	;	anab
+C0036454	;	Scotoma	;	fndg
+C0199230	;	Screening for cancer	;	diap
+C0149774	;	Scrotal mass	;	fndg
+C0423775	;	Scurfiness of scalp	;	dsyn
+C1368816	;	Sebaceous adenoma	;	neop
+C0036508	;	Seborrheic dermatitis	;	dsyn
+C0264906	;	Second degree atrioventricular block	;	dsyn
+C0030569	;	Secondary Parkinson's disease	;	dsyn
+C0333979	;	Secondary hyperplasia	;	patf
+C0029412	;	Secondary hypertrophic osteoarthropathy	;	dsyn
+C0454655	;	Semantic-pragmatic disorder	;	mobd
+C0234439	;	Semicoma	;	patf
+C0149840	;	Senile tremor	;	sosy
+C0231337	;	Senility	;	fndg
+C1510410	;	Sense of smell altered	;	fndg
+C0018784	;	Sensorineural deafness	;	dsyn
+C0240991	;	Sensory ataxia	;	sosy
+C0796693	;	Sentinel lymph node biopsy	;	diap
+C0243026	;	Sepsis	;	dsyn
+C0036983	;	Septic shock	;	patf
+C0036690	;	Septicemia	;	dsyn
+C0201720	;	Serum protein electrophoresis	;	lbpr
+C0588008	;	Severe depression	;	mobd
+C1443924	;	Severe diarrhea	;	sosy
+C0278140	;	Severe pain	;	fndg
+C0549622	;	Sexual dysfunction, NOS	;	dsyn
+C0221161	;	Shallow breathing	;	sosy
+C0036973	;	Shivering	;	fndg
+C0036974	;	Shock	;	patf
+C0521525	;	Short neck	;	fndg
+C0349588	;	Short stature	;	fndg
+C0423670	;	Shoulder joint pain	;	sosy
+C0037011	;	Shoulder pain	;	sosy
+C0037036	;	Sialorrhea	;	dsyn
+C0086981	;	Sicca syndrome	;	dsyn
+C0425481	;	Sighing respiration	;	sosy
+C0149886	;	Simple febrile seizure	;	dsyn
+C0024517	;	Single major depressive episode	;	mobd
+C0040399	;	Single photon emission computed tomography	;	diap
+C0424731	;	Single transverse palmar crease	;	fndg
+C0003813	;	Sinus arrhythmia	;	fndg
+C0085610	;	Sinus bradycardia	;	patf
+C0522251	;	Sinus pain	;	sosy
+C0039239	;	Sinus tachycardia	;	dsyn
+C0037199	;	Sinusitis	;	dsyn
+C0558035	;	Skin assessment	;	diap
+C0152030	;	Skin irritation	;	fndg
+C0037284	;	Skin lesion	;	dsyn
+C0037293	;	Skin tag	;	neop
+C0037299	;	Skin ulcer	;	dsyn
+C0037315	;	Sleep apnea syndrome	;	dsyn
+C0037316	;	Sleep deprivation	;	fndg
+C0851578	;	Sleep disorders	;	dsyn
+C0917801	;	Sleeplessness	;	sosy
+C2316166	;	Slit ventricle syndrome	;	dsyn
+C0231837	;	Slow respiration	;	fndg
+C0232854	;	Slowing of urinary stream	;	sosy
+C0234518	;	Slurred speech	;	fndg
+C0576224	;	Small foot	;	fndg
+C0021296	;	Small for gestational age baby	;	dsyn
+C0192682	;	Small intestine endoscopy	;	diap
+C0399478	;	Smokers keratosis	;	dsyn
+C0037383	;	Sneezing	;	fndg
+C0037384	;	Snoring	;	sosy
+C0424296	;	Social disinhibition	;	mobd
+C0152174	;	Somatoform pain disorder	;	mobd
+C0271561	;	Somatotropin deficiency	;	dsyn
+C2830004	;	Somnolence	;	fndg
+C0578687	;	Sore eye	;	sosy
+C1579838	;	Sore mouth	;	sosy
+C3241942	;	Sore on skin	;	fndg
+C1442877	;	Sore skin	;	sosy
+C0242429	;	Sore throat NOS	;	sosy
+C0234233	;	Sore to touch	;	sosy
+C0037763	;	Spasm	;	sosy
+C0238738	;	Spasm of back muscles	;	dsyn
+C0152116	;	Spasmodic torticollis	;	sosy
+C0443306	;	Spastic	;	mobd
+C0454596	;	Spastic dysarthria	;	fndg
+C0264588	;	Spastic dysphonia	;	fndg
+C0231687	;	Spastic gait	;	fndg
+C0154694	;	Spastic hemiplegia	;	dsyn
+C0085621	;	Spastic paralysis	;	patf
+C0037771	;	Spastic paraparesis	;	sosy
+C0426970	;	Spastic quadriplegia	;	dsyn
+C0241210	;	Speech delay	;	mobd
+C0233715	;	Speech impairment	;	fndg
+C0085666	;	Spider nevus	;	fndg
+C0424781	;	Spiking temperature	;	fndg
+C0037981	;	Spirometry	;	diap
+C0038002	;	Splenomegaly	;	fndg
+C0038003	;	Splenoportography	;	diap
+C0333286	;	Splinter hemorrhage	;	patf
+C0000786	;	Spontaneous abortion	;	patf
+C0159039	;	Spontaneous bruising	;	patf
+C0201812	;	Spot test	;	lbpr
+C0278145	;	Stabbing pain	;	sosy
+C0340288	;	Stable angina	;	dsyn
+C0395003	;	Stage fright	;	mobd
+C0701824	;	Staggering gait	;	sosy
+C0038131	;	Stammering	;	mobd
+C0038187	;	Starvation	;	fndg
+C0333138	;	Stasis	;	patf
+C0011620	;	Stasis dermatitis	;	dsyn
+C3662068	;	Static encephalopathy	;	dsyn
+C0234378	;	Static tremor	;	sosy
+C0038220	;	Status epilepticus	;	dsyn
+C0038238	;	Steatorrhea	;	fndg
+C2733326	;	Stemmer sign	;	fndg
+C0038271	;	Stereotyped behavior	;	mobd
+C0427008	;	Stiffness	;	sosy
+C0595939	;	Stillbirth	;	fndg
+C0221512	;	Stomach ache	;	sosy
+C0344375	;	Stomach cramps (finding)	;	sosy
+C0577027	;	Stomach problem	;	fndg
+C0038362	;	Stomatitis	;	dsyn
+C0430414	;	Stool culture	;	lbpr
+C0038379	;	Strabismus	;	dsyn
+C0241262	;	Strawberry tongue	;	dsyn
+C0262374	;	Stricture of anus	;	acab
+C0038450	;	Stridor	;	sosy
+C0085628	;	Stupor	;	mobd
+C0038506	;	Stuttering	;	mobd
+C0263625	;	Subcutaneous calcification	;	dsyn
+C0277964	;	Subcutaneous crepitus	;	patf
+C0038536	;	Subcutaneous emphysema	;	patf
+C0151811	;	Subcutaneous nodule	;	patf
+C0155533	;	Subjective tinnitus	;	sosy
+C0740858	;	Substance abuse	;	mobd
+C0038580	;	Substance dependence	;	mobd
+C0011057	;	Sudden hearing loss, NOS	;	fndg
+C0155002	;	Sudden visual loss	;	sosy
+C1142436	;	Sundowning	;	mobd
+C0423224	;	Sunken eyes	;	fndg
+C0038833	;	Superior vena cava syndrome	;	dsyn
+C0750903	;	Suppression amblyopia	;	dsyn
+C0038862	;	Suppurative inflammation	;	patf
+C0241310	;	Suprapubic pain	;	sosy
+C0430815	;	Surface electromyography	;	diap
+C2717757	;	Susac syndrome	;	dsyn
+C0221150	;	Swallowing painful	;	sosy
+C0038981	;	Swayback	;	dsyn
+C0233730	;	Swearing	;	fndg
+C0430179	;	Sweat test	;	lbpr
+C0038990	;	Sweating	;	fndg
+C0038999	;	Swelling	;	fndg
+C0424810	;	Swelling around eyes	;	sosy
+C0006152	;	Swelling of breast	;	fndg
+C0560024	;	Swelling of eyelid	;	sosy
+C0239598	;	Swelling of finger	;	fndg
+C0575805	;	Swelling of hand	;	fndg
+C0744631	;	Swelling of head	;	fndg
+C0476313	;	Swelling of inguinal region	;	fndg
+C0158369	;	Swelling of limb	;	sosy
+C0282005	;	Swelling of scrotum	;	sosy
+C0281982	;	Swelling of skin	;	fndg
+C2584688	;	Swelling of testicle (finding)	;	fndg
+C0581394	;	Swollen legs	;	sosy
+C0039070	;	Syncope	;	sosy
+C0334157	;	Synechia	;	patf
+C0234362	;	Synkinesis	;	sosy
+C0200648	;	Synovial fluid analysis	;	lbpr
+C0039103	;	Synovitis	;	dsyn
+C0242966	;	Systemic inflammatory response syndrome	;	dsyn
+C0749225	;	Systolic dysfunction	;	patf
+C0232257	;	Systolic murmur, NOS	;	fndg
+C0039231	;	Tachycardia	;	patf
+C0231835	;	Tachypnea	;	fndg
+C0233767	;	Tactile hallucinations	;	sosy
+C0686347	;	Tardive dyskinesia	;	dsyn
+C0278155	;	Taste-blindness	;	sosy
+C0424320	;	Teasing	;	fndg
+C0039446	;	Telangiectasis	;	dsyn
+C0240273	;	Tender lymph node	;	sosy
+C1562820	;	Tender point	;	fndg
+C0239739	;	Tenderness of gums	;	sosy
+C0039503	;	Tendinitis	;	dsyn
+C0271858	;	Tertiary hyperparathyroidism	;	dsyn
+C0241353	;	Testicular mass	;	fndg
+C0039621	;	Tetany	;	dsyn
+C0039685	;	Tetralogy of Fallot	;	cgab
+C0039756	;	Thematic apperception test	;	diap
+C0241165	;	Thick skin	;	sosy
+C0457093	;	Thick sputum	;	fndg
+C0423756	;	Thickness of skin	;	fndg
+C0423757	;	Thin skin	;	fndg
+C0423684	;	Thoracic back pain	;	sosy
+C0425464	;	Thoracic breathing	;	fndg
+C0233687	;	Thought insertion	;	mobd
+C0203378	;	Three dimensional echocardiography	;	diap
+C0848397	;	Throat culture	;	lbpr
+C0700184	;	Throat irritation	;	sosy
+C0423618	;	Throbbing headache	;	sosy
+C0278148	;	Throbbing pain	;	sosy
+C0040034	;	Thrombocytopenia	;	fndg
+C0040017	;	Thromboelastography	;	lbpr
+C0040053	;	Thrombosis	;	patf
+C0034155	;	Thrombotic thrombocytopenic purpura	;	dsyn
+C0040130	;	Thyroid function tests	;	lbpr
+C0476414	;	Thyroid function tests abnormal	;	fndg
+C0040137	;	Thyroid nodule	;	neop
+C0339143	;	Thyroid-associated ophthalmopathy	;	dsyn
+C1318460	;	Thyroperoxidase antibody assay	;	lbpr
+C0040156	;	Thyrotoxicosis	;	dsyn
+C0040188	;	Tic disorder	;	mobd
+C0242880	;	Tilt table test	;	diap
+C0040259	;	Tinea pedis	;	dsyn
+C0235050	;	Tingling of skin	;	sosy
+C0040264	;	Tinnitus	;	fndg
+C0395959	;	Tinnitus of vascular origin	;	sosy
+C0236068	;	Tongue swelling	;	patf
+C0040416	;	Tonic pupil	;	sosy
+C0270844	;	Tonic seizures	;	sosy
+C0014549	;	Tonic-clonic epilepsy	;	dsyn
+C0494475	;	Tonic-clonic seizures	;	dsyn
+C0040420	;	Tonometry	;	diap
+C0040425	;	Tonsillitis	;	dsyn
+C0080233	;	Tooth loss	;	acab
+C0040460	;	Toothache	;	sosy
+C0221248	;	Tophus	;	acab
+C0040485	;	Torticollis	;	sosy
+C0032224	;	Total body plethysmography	;	diap
+C0700379	;	Total iron binding capacity	;	clna
+C0201666	;	Toxoplasmosis test	;	lbpr
+C0392014	;	Trachea displaced	;	anab
+C0264361	;	Traction bronchiectasis	;	dsyn
+C0206054	;	Transesophageal echocardiography	;	diap
+C0521662	;	Transient hemiplegia	;	sosy
+C0158940	;	Transitory tachypnea of newborn	;	dsyn
+C0234369	;	Trembling	;	sosy
+C0040822	;	Tremor	;	sosy
+C0231730	;	Trendelenburg sign	;	fndg
+C1303222	;	Treponema pallidum particle agglutination test	;	lbpr
+C0221259	;	Trichiasis	;	dsyn
+C0554819	;	Triple test	;	lbpr
+C0041105	;	Trismus	;	dsyn
+C0155017	;	Tritan defect	;	dsyn
+C0398359	;	Trousseau's syndrome	;	dsyn
+C0311277	;	Truncal obesity	;	fndg
+C0041296	;	Tuberculosis	;	dsyn
+C0085853	;	Tympanometry	;	diap
+C1690968	;	US angiography	;	diap
+C0041582	;	Ulcer	;	dsyn
+C0240698	;	Ulcer of penis	;	acab,dsyn
+C0235351	;	Ulcer on tongue	;	dsyn
+C0041618	;	Ultrasonography	;	diap
+C0203464	;	Ultrasonography of abdomen	;	diap
+C0080264	;	Ultrasonography of breast	;	diap
+C0235198	;	Unable to concentrate	;	fndg
+C0428440	;	Unconjugated bilirubin level	;	lbtr
+C1720436	;	Under anesthesia	;	fndg
+C0041667	;	Underweight	;	fndg
+C0521785	;	Unilateral hearing loss	;	dsyn
+C2363736	;	Unintentional weight loss	;	fndg
+C0021051	;	Unspecified immunity deficiency	;	dsyn
+C0002965	;	Unstable angina	;	dsyn
+C0231686	;	Unsteady gait	;	fndg
+C0232492	;	Upper abdominal pain	;	sosy
+C0041909	;	Upper gastrointestinal hemorrhage	;	patf
+C0235834	;	Upper motor neurone lesion	;	patf
+C0041912	;	Upper respiratory infection NOS	;	dsyn
+C0235309	;	Upset stomach	;	sosy
+C0041948	;	Uremia	;	dsyn
+C0474433	;	Uremic fetor	;	fndg
+C1456865	;	Ureteric calculus	;	dsyn
+C0041959	;	Ureteritis	;	dsyn
+C0041952	;	Ureterolithiasis	;	dsyn
+C0152447	;	Urethral discharge	;	sosy
+C0041976	;	Urethritis	;	dsyn
+C0150045	;	Urge incontinence	;	fndg
+C0085606	;	Urgency of micturition	;	dsyn
+C0042014	;	Urinalysis	;	lbpr
+C0152032	;	Urinary hesitation	;	dsyn
+C0042024	;	Urinary incontinence	;	patf
+C0080274	;	Urinary retention	;	fndg
+C0042025	;	Urinary stress incontinence	;	dsyn
+C0042029	;	Urinary tract infection	;	dsyn
+C0522153	;	Urine color abnormal	;	fndg
+C0587953	;	Urine cytology	;	fndg
+C0430404	;	Urine for culture	;	lbpr
+C0426396	;	Urine looks dark	;	sosy
+C0201721	;	Urine protein electrophoresis	;	lbpr
+C0262923	;	Urine protein test	;	lbpr
+C0427825	;	Urine: orange	;	lbtr
+C0427837	;	Urine: turbid	;	lbtr
+C0451641	;	Urolithiasis	;	dsyn
+C0042109	;	Urticaria	;	dsyn
+C0271097	;	Usher syndrome	;	cgab,dsyn
+C1568247	;	Usher syndrome type 1	;	cgab,dsyn
+C0339534	;	Usher syndrome type 2	;	cgab
+C0042164	;	Uveitis	;	dsyn
+C0201406	;	VDRL test	;	lbpr
+C0560738	;	VQ - Ventilation perfusion scan	;	diap
+C0227791	;	Vaginal discharge NOS	;	fndg
+C0566986	;	Vaginal discharge problem	;	fndg
+C0241633	;	Vaginal dryness	;	fndg
+C0200048	;	Vaginal examination	;	diap
+C2979982	;	Vaginal hemorrhage	;	dsyn
+C0558368	;	Vaginal irritation	;	fndg
+C0235678	;	Vaginal odor	;	sosy
+C0236082	;	Vaginal pain	;	sosy
+C0042267	;	Vaginitis	;	dsyn
+C0042293	;	Valsalva maneuver	;	diap
+C0002963	;	Variant angina pectoris	;	dsyn
+C0042345	;	Varicosities	;	dsyn
+C0042373	;	Vascular disease	;	dsyn
+C0042384	;	Vasculitis	;	dsyn
+C0042420	;	Vasovagal syncope	;	dsyn
+C1285498	;	Vegetation	;	anab
+C0042454	;	Velopharyngeal insufficiency	;	dsyn
+C0031545	;	Venography - procedure	;	diap
+C0042510	;	Ventricular fibrillation	;	dsyn
+C0151636	;	Ventricular premature contractions	;	patf
+C0018818	;	Ventricular septal defect NOS	;	anab
+C0344955	;	Ventricular septal hypertrophy	;	dsyn
+C0042514	;	Ventricular tachycardia, NOS	;	dsyn
+C0392185	;	Verbal repetition	;	fndg
+C0422855	;	Vertiginous seizure	;	dsyn
+C0042571	;	Vertigo	;	sosy
+C0333262	;	Vesicle (morphologic abnormality)	;	dsyn
+C0025297	;	Viral meningitis	;	dsyn
+C0032310	;	Viral pneumonia NOS	;	dsyn
+C0339916	;	Viral upper respiratory tract infection	;	dsyn
+C0042755	;	Virilism	;	patf
+C0234245	;	Visceral pain	;	sosy
+C0159059	;	Visible peristalsis	;	fndg
+C0042815	;	Visual analog pain scale	;	diap
+C3536884	;	Visual analog scale	;	diap
+C0547030	;	Visual disturbance	;	sosy
+C0270824	;	Visual epilepsy	;	dsyn
+C0042825	;	Visual field study	;	diap
+C0233763	;	Visual hallucinations	;	sosy
+C3665347	;	Visual impairment	;	fndg
+C0518766	;	Vital signs	;	clna
+C0936215	;	Vitamin B6 deficiency	;	dsyn
+C0042875	;	Vitamin E deficiency	;	dsyn
+C0042880	;	Vitamin K deficiency	;	dsyn
+C1510471	;	Vitamin deficiency	;	dsyn
+C0016242	;	Vitreous floaters	;	fndg
+C0042928	;	Vocal cord paralysis	;	dsyn
+C0751576	;	Vocal cord paresis	;	dsyn
+C0042950	;	Volition	;	menp
+C0042963	;	Vomiting	;	sosy
+C0232599	;	Vomiting bile	;	fndg
+C0269661	;	Vomiting of pregnancy	;	patf
+C0278217	;	Von Graefe sign	;	sosy
+C0269084	;	Vulvar vestibulitis	;	dsyn
+C0042996	;	Vulvitis	;	dsyn
+C0406670	;	Vulvodynia	;	dsyn
+C0376094	;	Wada test	;	diap
+C0398644	;	Waldenstrom's hypergammaglobulinaemic purpura	;	dsyn
+C0235218	;	Warm skin	;	sosy
+C3665596	;	Warts	;	neop
+C0043046	;	Wasting disease	;	dsyn
+C3257803	;	Watery eyes	;	sosy
+C0233612	;	Waxy flexibility	;	sosy
+C0232132	;	Weak arterial pulse	;	fndg
+C3714552	;	Weakness	;	sosy
+C0043084	;	Weaning	;	fndg
+C0005911	;	Weight change	;	fndg
+C1262477	;	Weight decreased	;	fndg
+C0043094	;	Weight gain	;	fndg
+C0221232	;	Welt	;	sosy
+C1510456	;	Wernicke's aphasia	;	mobd
+C0043144	;	Wheezing	;	sosy
+C0231871	;	Whispering pectoriloquy	;	sosy
+C0023508	;	White blood cell count	;	lbpr
+C0043159	;	Whole blood coagulation time	;	lbpr
+C0430432	;	Widal test	;	lbpr
+C0746459	;	Widened mediastinum	;	fndg
+C0233648	;	Word salad	;	mobd
+C0233481	;	Worried	;	fndg
+C0037301	;	Wrinkled skin	;	fndg
+C0221185	;	Xanthopsia	;	fndg
+C0333628	;	Xanthosis	;	patf
+C0043345	;	Xeroderma	;	dsyn
+C0043349	;	Xerophthalmia	;	dsyn
+C0043352	;	Xerostomia	;	dsyn
+C0043387	;	Yawning	;	fndg
+C0558148	;	Yellow complexion	;	sosy

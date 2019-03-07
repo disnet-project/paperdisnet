@@ -1,0 +1,23 @@
+ï»¿source;snapshot;MeSHDis;MeSHWVTMDis;PMARDArt;PMRDArt;PMRawDF;PMVRawDF;PMST;PMExCd;PMExtSrc
+pubmed;03/04/2018;2,355;2,212;199,013;197,066;22,521;2,043;18;15,676;5
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+Medical Term (MT);;;;;;;;;;
+Validated Medical Term (applaying TVP validation) (VMT) ;;;;;;;;;;
+;;;;;;;;;;
+Number of terms retrieved by MeSH as human diseases (MeSHDis);;;;;;;;;;
+Number of terms retrieved by MeSH as human diseases with VMT (MeSHWVTMDis);;;;;;;;;;
+Number of PubMed articles retrieved (PMARDArt);;;;;;;;;;
+Number of PubMed articles that contains VMT (PMRDArt);;;;;;;;;;
+Number of MTs found by MetaMap (not applying TVP validation but removing duplicates) (PMRawDF);;;;;;;;;;
+Number of MTs found by MetaMap (applying TVP validation but removing duplicates) (PMVRawDF);;;;;;;;;;
+Number of semantic types found (again: before applying TVP) (PMST);;;;;;;;;;
+Number of external codes found in PubMed (PMExCd);;;;;;;;;;
+Number of external sources found in PubMed (PMExtSrc);;;;;;;;;;

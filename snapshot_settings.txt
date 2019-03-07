@@ -1,56 +1,1549 @@
-wikipedia:2018-02-01_1517516568836	SO01	2018-02-01	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "vdivtentasyw", "version": "2018-02-01", "numberDiseases": 8161, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010" } 
-wikipedia:2018-02-01_1518469726870	SO01	2018-02-01	SE007 - METAMAP API REST	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R" } 
-wikipedia:2018-02-01_1518493437873	SO01	2018-02-01	SE006 - TVP API REST	{   "termsFound": 138636,   "nonRepetedTerms": 9937,   "validatedNonRepetedTerms": 1565 } 
-wikipedia:2018-02-15_1518696999402	SO01	2018-02-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "iczr1hosop3z", "version": "2018-02-15", "numberDiseases": 8161, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010" } 
-wikipedia:2018-02-15_1518905452996	SO01	2018-02-15	SE007 - METAMAP API REST	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": false } 
-wikipedia:2018-02-15_1518931383922	 SO01	2018-02-15	SE006 - TVP API REST	{   "termsFound": 138931,   "nonRepetedTerms": 9953,   "validatedNonRepetedTerms": 1566 } 
-wikipedia:2018-03-01_1518516568834	SO01	2018-03-01	SE010 - DISEASES AVAILABLE LIST API REST	{   "albumId": "ffmqpityntpm",   "version": "2018-03-01",   "numberDiseases": 8161,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010" } 
-wikipedia:2018-03-01_1521977576338	SO01	2018-03-01	SE007 - METAMAP API REST	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": false } 
-wikipedia:2018-03-01_1523008757938	SO01	2018-03-01	SE006 - TVP API REST	{   "termsFound": 177616,   "nonRepetedTerms": 11697,   "validatedNonRepetedTerms": 1848 } 
-wikipedia:2018-03-15_1521139179912	SO01	2018-03-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "tvkbevsk56jm", "version": "2018-03-15", "numberDiseases": 8161, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010" } 
-wikipedia:2018-03-15_1521810694353	SO01	2018-03-15	SE007 - METAMAP API REST	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": false } 
-wikipedia:2018-03-15_1523020446601	SO01	2018-03-15	SE006 - TVP API REST	{   "termsFound": 179195,   "nonRepetedTerms": 11731,   "validatedNonRepetedTerms": 1853 } 
-wikipedia:2018-04-01_1522680967642	SO01	2018-04-01	SE010 - DISEASES AVAILABLE LIST API REST	{   "albumId": "go7ehe7l2da4",   "version": "2018-04-01",   "numberDiseases": 9857,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010",   "useDiseaseSafeList": true } 
-wikipedia:2018-04-01_1522940108050	SO01	2018-04-01	SE007 - METAMAP API REST	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": false } 
-wikipedia:2018-04-01_1523033368876	SO01	2018-04-01	SE006 - TVP API REST	{   "termsFound": 187131,   "nonRepetedTerms": 11889,   "validatedNonRepetedTerms": 1860 } 
-pubmed:2018-04-03_1528186486102	SO02	2018-04-03	SE006 - TVP REST API	{   "termsFound": 1217480,   "nonRepetedTerms": 20527,   "validatedNonRepetedTerms": 1975 } 
-pubmed:2018-04-03_1528277376505	SO02	2018-04-03	SE007 - METAMAP API REST	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-04-15_1523445235633	SO01	2018-04-15	SE007 - METAMAP API REST	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-04-15_1523518311327	SO01	2018-04-15	SE006 - TVP API REST	{   "termsFound": 192431,   "nonRepetedTerms": 12571,   "validatedNonRepetedTerms": 1890 } 
-wikipedia:2018-04-15_1523806135063	SO01	2018-04-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "tx1ycnkm1hlb", "version": "2018-04-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": false } 
-wikipedia:2018-05-01_1525176323088	SO01	2018-05-01	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "g0imwb1bdkbv", "version": "2018-05-01", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-05-01_1526471234645	SO01	2018-05-01	SE007 - METAMAP API REST	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-05-01_1526518310718	SO01	2018-05-01	SE006 - TVP API REST	{ "termsFound": 193299, "nonRepetedTerms": 12595, "validatedNonRepetedTerms": 1894 } 
-wikipedia:2018-05-15_1526648508464	SO01	2018-05-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "uiqeqesnkaid", "version": "2018-05-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-05-15_1526900816096	SO01	2018-05-15	SE007 - METAMAP API REST	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-05-15_1526991031779	SO01	2018-05-15	SE006 - TVP REST API	{ "termsFound": 194206, "nonRepetedTerms": 12642, "validatedNonRepetedTerms": 1895 } 
-wikipedia:2018-06-01_1527849590084	SO01	2018-06-01	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "vttqm3rasxta", "version": "2018-06-01", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-06-01_1528363966245	SO01	2018-06-01	SE007 - METAMAP API REST	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-06-01_1528431076939	SO01	2018-06-01	SE006 - TVP API REST	{ "termsFound": 202986, "nonRepetedTerms": 12918, "validatedNonRepetedTerms": 1911 } 
-wikipedia:2018-06-15_1529065850294	SO01	2018-06-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "dmkqkfjmufvu", "version": "2018-06-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-06-15_1530233090735	SO01	2018-06-15	SE007 - METAMAP REST API	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-06-15_1530279526410	SO01	2018-06-15	SE006 - TVP REST API	{ "termsFound": 300086, "nonRepetedTerms": 13380, "validatedNonRepetedTerms": 1926 } 
-wikipedia:2018-07-01_1531801272320	SO01	2018-07-01	SE007 - METAMAP REST API	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-07-01_1531914920245	SO01	2018-07-01	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "cyolyt5iiwzu", "version": "2018-07-01", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-07-01_1532435620473	SO01	2018-07-01	SE006 - TVP REST API	{ "termsFound": 201849, "nonRepetedTerms": 12709, "validatedNonRepetedTerms": 1910 } 
-wikipedia:2018-07-15_1531871514461	SO01	2018-07-15	SE007 - METAMAP REST API	{   "semanticTypes": [     "sosy",     "diap",     "dsyn",     "fndg",     "lbpr",     "lbtr",     "inpr",     "menp",     "mobd",     "patf",     "cgab"   ],   "sources": [     "SNOMEDCT_US"   ],   "options": "-y -R",   "concept_location": true } 
-wikipedia:2018-07-15_1531914973753	SO01	2018-07-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "v7pxt3xv0zpx", "version": "2018-07-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-07-15_1532446852970	SO01	2018-07-15	SE006 - TVP REST API	{ "termsFound": 202364, "nonRepetedTerms": 12722, "validatedNonRepetedTerms": 1912 } 
-wikipedia:2018-08-01_1533096013595	SO01	2018-08-01	SE010 - DISEASES AVAILABLE LIST REST API	{ "albumId": "ajwj1fwsxpqh", "version": "2018-08-01", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-08-01_1533782383636	SO01	2018-08-01	SE006 - TVP REST API	{ "termsFound": 203012, "nonRepetedTerms": 12743, "validatedNonRepetedTerms": 1913 } 
-wikipedia:2018-08-01_1535586193125	SO01	2018-08-01	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-mayoclinic:2018-08-15_1536833382261	SO03	2018-08-15	SE006 - TVP REST API	{ "termsFound": 41242, "nonRepetedTerms": 3807, "validatedNonRepetedTerms": 1026 } 
-mayoclinic:2018-08-15_1537869303460	SO03	2018-08-15	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-08-15_1533634338295	SO01	2018-08-15	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-08-15_1534316074478	SO01	2018-08-15	SE010 - DISEASES AVAILABLE LIST API REST	{ "albumId": "rqptre0vc10i", "version": "2018-08-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-08-15_1534556782143	SO01	2018-08-15	SE006 - TVP REST API	{ "termsFound": 203499, "nonRepetedTerms": 12748, "validatedNonRepetedTerms": 1914 } 
-mayoclinic:2018-09-01_1537262629284	SO03	2018-09-01	SE006 - TVP REST API	{ "termsFound": 41205, "nonRepetedTerms": 3799, "validatedNonRepetedTerms": 1024 } 
-mayoclinic:2018-09-01_1536925009085	SO03	2018-09-01	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-09-01_1535836836019	SO01	2018-09-01	SE010 - DISEASES AVAILABLE LIST REST API	{ "albumId": "7hicvk0duv40", "version": "2018-09-01", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-09-01_1536791810177	SO01	2018-09-01	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-09-01_1537194388936	SO01	2018-09-01	SE006 - TVP REST API	{ "termsFound": 203750, "nonRepetedTerms": 12748, "validatedNonRepetedTerms": 1914 } 
-mayoclinic:2018-09-15_1537795128270	SO03	2018-09-15	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-09-15_1536988072973	SO01	2018-09-15	SE010 - DISEASES AVAILABLE LIST REST API	{ "albumId": "ueur88feoutx", "version": "2018-09-15", "numberDiseases": 9858, "source": "SO01", "requests": [ "/last", "/get" ], "serviceCode": "SE010", "useDiseaseSafeList": true } 
-wikipedia:2018-09-15_1537395624575	SO01	
-2018-09-15	SE007 - METAMAP REST API	{ "semanticTypes": [ "sosy", "diap", "dsyn", "fndg", "lbpr", "lbtr", "inpr", "menp", "mobd", "patf", "cgab" ], "sources": [ "SNOMEDCT_US" ], "options": "-y -R", "concept_location": true } 
-wikipedia:2018-09-15_1537451461991	SO01	2018-09-15	SE006 - TVP REST API	{ "termsFound": 203626, "nonRepetedTerms": 12748, "validatedNonRepetedTerms": 1913 }
+configuration_id @ source @ snapshot @ tool_name @ configuration
+mayoclinic:2018-08-15_1548241983209 @ mayoclinic  @ 2018-08-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-08-15_1548294727048 @ mayoclinic  @ 2018-08-15  @ TVP REST API  @ "{
+  ""termsFound"": 43946,
+  ""nonRepetedTerms"": 4196,
+  ""validatedNonRepetedTerms"": 1066
+}"
+mayoclinic:2018-09-01_1548253331169 @ mayoclinic  @ 2018-09-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-09-01_1548780633268 @ mayoclinic  @ 2018-09-01  @ TVP REST API  @ "{
+  ""termsFound"": 43910,
+  ""nonRepetedTerms"": 4187,
+  ""validatedNonRepetedTerms"": 1064
+}"
+mayoclinic:2018-09-15_1548257837716 @ mayoclinic  @ 2018-09-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-09-15_1548804381314 @ mayoclinic  @ 2018-09-15  @ TVP REST API  @ "{
+  ""termsFound"": 43922,
+  ""nonRepetedTerms"": 4185,
+  ""validatedNonRepetedTerms"": 1064
+}"
+mayoclinic:2018-10-01_1548310603745 @ mayoclinic  @ 2018-10-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-10-01_1548808818928 @ mayoclinic  @ 2018-10-01  @ TVP REST API  @ "{
+  ""termsFound"": 44017,
+  ""nonRepetedTerms"": 4190,
+  ""validatedNonRepetedTerms"": 1066
+}"
+mayoclinic:2018-10-15_1548310943118 @ mayoclinic  @ 2018-10-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-10-15_1548813927085 @ mayoclinic  @ 2018-10-15  @ TVP REST API  @ "{
+  ""termsFound"": 43984,
+  ""nonRepetedTerms"": 4190,
+  ""validatedNonRepetedTerms"": 1068
+}"
+mayoclinic:2018-11-01_1548310885340 @ mayoclinic  @ 2018-11-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-11-01_1548845659171 @ mayoclinic  @ 2018-11-01  @ TVP REST API  @ "{
+  ""termsFound"": 43963,
+  ""nonRepetedTerms"": 4186,
+  ""validatedNonRepetedTerms"": 1067
+}"
+mayoclinic:2018-11-15_1548311000049 @ mayoclinic  @ 2018-11-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-11-15_1548851393091 @ mayoclinic  @ 2018-11-15  @ TVP REST API  @ "{
+  ""termsFound"": 43960,
+  ""nonRepetedTerms"": 4185,
+  ""validatedNonRepetedTerms"": 1067
+}"
+mayoclinic:2018-12-01_1548340836587 @ mayoclinic  @ 2018-12-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-12-01_1548858422340 @ mayoclinic  @ 2018-12-01  @ TVP REST API  @ "{
+  ""termsFound"": 43970,
+  ""nonRepetedTerms"": 4186,
+  ""validatedNonRepetedTerms"": 1068
+}"
+mayoclinic:2018-12-15_1548340996434 @ mayoclinic  @ 2018-12-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2018-12-15_1548878057611 @ mayoclinic  @ 2018-12-15  @ TVP REST API  @ "{
+  ""termsFound"": 44207,
+  ""nonRepetedTerms"": 4219,
+  ""validatedNonRepetedTerms"": 1069
+}"
+mayoclinic:2019-01-01_1548339865162 @ mayoclinic  @ 2019-01-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-01-01_1548884988285 @ mayoclinic  @ 2019-01-01  @ TVP REST API  @ "{
+  ""termsFound"": 44253,
+  ""nonRepetedTerms"": 4226,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-01-15_1548341234655 @ mayoclinic  @ 2019-01-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-01-15_1548889240010 @ mayoclinic  @ 2019-01-15  @ TVP REST API  @ "{
+  ""termsFound"": 44240,
+  ""nonRepetedTerms"": 4227,
+  ""validatedNonRepetedTerms"": 1072
+}"
+mayoclinic:2019-01-15_1550767566094 @ mayoclinic  @ 2019-01-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-01_1549210916958 @ mayoclinic  @ 2019-02-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-01_1549246405035 @ mayoclinic  @ 2019-02-01  @ TVP REST API  @ "{
+  ""termsFound"": 44256,
+  ""nonRepetedTerms"": 4224,
+  ""validatedNonRepetedTerms"": 1071
+}"
+mayoclinic:2019-02-15_1550799904326 @ mayoclinic  @ 2019-02-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+mayoclinic:2019-02-15_1550882080526 @ mayoclinic  @ 2019-02-15  @ TVP REST API  @ "{
+  ""termsFound"": 44303,
+  ""nonRepetedTerms"": 4227,
+  ""validatedNonRepetedTerms"": 1072
+}"
+pubmed:2018-04-03_1528277376505 @ pubmed  @ 2018-04-03  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+pubmed:2018-04-03_1548190457660 @ pubmed  @ 2018-04-03  @ TVP REST API  @ "{
+  ""termsFound"": 1230046,
+  ""nonRepetedTerms"": 22521,
+  ""validatedNonRepetedTerms"": 2043
+}"
+wikipedia:2018-02-01_1517516568836  @ wikipedia @ 2018-02-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""vdivtentasyw"",
+  ""version"": ""2018-02-01"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-02-01_1544870081020  @ wikipedia @ 2018-02-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-02-01_1546467324559  @ wikipedia @ 2018-02-01  @ TVP REST API  @ "{
+  ""termsFound"": 186389,
+  ""nonRepetedTerms"": 13362,
+  ""validatedNonRepetedTerms"": 1933
+}"
+wikipedia:2018-02-15_1518696999402  @ wikipedia @ 2018-02-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""iczr1hosop3z"",
+  ""version"": ""2018-02-15"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-02-15_1544960897314  @ wikipedia @ 2018-02-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-02-15_1546657962392  @ wikipedia @ 2018-02-15  @ TVP REST API  @ "{
+  ""termsFound"": 186784,
+  ""nonRepetedTerms"": 13386,
+  ""validatedNonRepetedTerms"": 1935
+}"
+wikipedia:2018-03-01_1518516568834  @ wikipedia @ 2018-03-01  @ DISEASE AVAILABLE LIST REST API @ {   "albumId": "ffmqpityntpm",   "version": "2018-03-01",   "numberDiseases": 8161,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010" }
+wikipedia:2018-03-01_1545013315513  @ wikipedia @ 2018-03-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-03-01_1546661531739  @ wikipedia @ 2018-03-01  @ TVP REST API  @ "{
+  ""termsFound"": 187598,
+  ""nonRepetedTerms"": 13423,
+  ""validatedNonRepetedTerms"": 1938
+}"
+wikipedia:2018-03-15_1521139179912  @ wikipedia @ 2018-03-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""tvkbevsk56jm"",
+  ""version"": ""2018-03-15"",
+  ""numberDiseases"": 8161,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010""
+}"
+wikipedia:2018-03-15_1521810694353  @ wikipedia @ 2018-03-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-03-15_1546880355157  @ wikipedia @ 2018-03-15  @ TVP REST API  @ "{
+  ""termsFound"": 189191,
+  ""nonRepetedTerms"": 13460,
+  ""validatedNonRepetedTerms"": 1943
+}"
+wikipedia:2018-04-01_1522680967642  @ wikipedia @ 2018-04-01  @ DISEASE AVAILABLE LIST REST API @ {   "albumId": "go7ehe7l2da4",   "version": "2018-04-01",   "numberDiseases": 9857,   "source": "SO01",   "requests": [     "/last",     "/get"   ],   "serviceCode": "SE010",   "useDiseaseSafeList": true }
+wikipedia:2018-04-01_1545173221373  @ wikipedia @ 2018-04-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-04-01_1547431721801  @ wikipedia @ 2018-04-01  @ TVP REST API  @ "{
+  ""termsFound"": 197287,
+  ""nonRepetedTerms"": 13637,
+  ""validatedNonRepetedTerms"": 1950
+}"
+wikipedia:2018-04-15_1523806135063  @ wikipedia @ 2018-04-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""tx1ycnkm1hlb"",
+  ""version"": ""2018-04-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": false
+}"
+wikipedia:2018-04-15_1545217629933  @ wikipedia @ 2018-04-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-04-15_1547471841279  @ wikipedia @ 2018-04-15  @ TVP REST API  @ "{
+  ""termsFound"": 197840,
+  ""nonRepetedTerms"": 13647,
+  ""validatedNonRepetedTerms"": 1951
+}"
+wikipedia:2018-05-01_1525176323088  @ wikipedia @ 2018-05-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""g0imwb1bdkbv"",
+  ""version"": ""2018-05-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-05-01_1545261525045  @ wikipedia @ 2018-05-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-05-01_1547483755186  @ wikipedia @ 2018-05-01  @ TVP REST API  @ "{
+  ""termsFound"": 198733,
+  ""nonRepetedTerms"": 13669,
+  ""validatedNonRepetedTerms"": 1955
+}"
+wikipedia:2018-05-15_1526648508464  @ wikipedia @ 2018-05-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""uiqeqesnkaid"",
+  ""version"": ""2018-05-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-05-15_1545303527019  @ wikipedia @ 2018-05-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-05-15_1547510628959  @ wikipedia @ 2018-05-15  @ TVP REST API  @ "{
+  ""termsFound"": 199733,
+  ""nonRepetedTerms"": 13726,
+  ""validatedNonRepetedTerms"": 1956
+}"
+wikipedia:2018-06-01_1527849590084  @ wikipedia @ 2018-06-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""vttqm3rasxta"",
+  ""version"": ""2018-06-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-06-01_1545357217458  @ wikipedia @ 2018-06-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-06-01_1547571080054  @ wikipedia @ 2018-06-01  @ TVP REST API  @ "{
+  ""termsFound"": 206111,
+  ""nonRepetedTerms"": 13886,
+  ""validatedNonRepetedTerms"": 1965
+}"
+wikipedia:2018-06-15_1529065850294  @ wikipedia @ 2018-06-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""dmkqkfjmufvu"",
+  ""version"": ""2018-06-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-06-15_1545422619484  @ wikipedia @ 2018-06-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-06-15_1547603975984  @ wikipedia @ 2018-06-15  @ TVP REST API  @ "{
+  ""termsFound"": 213598,
+  ""nonRepetedTerms"": 14203,
+  ""validatedNonRepetedTerms"": 1969
+}"
+wikipedia:2018-07-01_1531914920245  @ wikipedia @ 2018-07-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""cyolyt5iiwzu"",
+  ""version"": ""2018-07-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-07-01_1545517527729  @ wikipedia @ 2018-07-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-07-01_1547636342011  @ wikipedia @ 2018-07-01  @ TVP REST API  @ "{
+  ""termsFound"": 208660,
+  ""nonRepetedTerms"": 14014,
+  ""validatedNonRepetedTerms"": 1971
+}"
+wikipedia:2018-07-15_1531914973753  @ wikipedia @ 2018-07-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""v7pxt3xv0zpx"",
+  ""version"": ""2018-07-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-07-15_1545567158387  @ wikipedia @ 2018-07-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-07-15_1547667690277  @ wikipedia @ 2018-07-15  @ TVP REST API  @ "{
+  ""termsFound"": 209187,
+  ""nonRepetedTerms"": 14030,
+  ""validatedNonRepetedTerms"": 1973
+}"
+wikipedia:2018-08-01_1533096013595  @ wikipedia @ 2018-08-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""ajwj1fwsxpqh"",
+  ""version"": ""2018-08-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-08-01_1545642053562  @ wikipedia @ 2018-08-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-08-01_1547683157426  @ wikipedia @ 2018-08-01  @ TVP REST API  @ "{
+  ""termsFound"": 209905,
+  ""nonRepetedTerms"": 14052,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-08-15_1534316074478  @ wikipedia @ 2018-08-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""rqptre0vc10i"",
+  ""version"": ""2018-08-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-08-15_1545687332573  @ wikipedia @ 2018-08-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-08-15_1547708765138  @ wikipedia @ 2018-08-15  @ TVP REST API  @ "{
+  ""termsFound"": 210399,
+  ""nonRepetedTerms"": 14058,
+  ""validatedNonRepetedTerms"": 1975
+}"
+wikipedia:2018-09-01_1535836836019  @ wikipedia @ 2018-09-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""7hicvk0duv40"",
+  ""version"": ""2018-09-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-09-01_1545736130081  @ wikipedia @ 2018-09-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-09-01_1547720142335  @ wikipedia @ 2018-09-01  @ TVP REST API  @ "{
+  ""termsFound"": 210673,
+  ""nonRepetedTerms"": 14061,
+  ""validatedNonRepetedTerms"": 1975
+}"
+wikipedia:2018-09-15_1536988072973  @ wikipedia @ 2018-09-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""ueur88feoutx"",
+  ""version"": ""2018-09-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-09-15_1545814857153  @ wikipedia @ 2018-09-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-09-15_1547734929583  @ wikipedia @ 2018-09-15  @ TVP REST API  @ "{
+  ""termsFound"": 210557,
+  ""nonRepetedTerms"": 14061,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-10-01_1538371042397  @ wikipedia @ 2018-10-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""e43nn0iyveaq"",
+  ""version"": ""2018-10-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-10-01_1545863006331  @ wikipedia @ 2018-10-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-10-01_1547750067814  @ wikipedia @ 2018-10-01  @ TVP REST API  @ "{
+  ""termsFound"": 210892,
+  ""nonRepetedTerms"": 14071,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-10-15_1539591412794  @ wikipedia @ 2018-10-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""i5owreducptb"",
+  ""version"": ""2018-10-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-10-15_1545908721720  @ wikipedia @ 2018-10-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-10-15_1547762552835  @ wikipedia @ 2018-10-15  @ TVP REST API  @ "{
+  ""termsFound"": 211469,
+  ""nonRepetedTerms"": 14089,
+  ""validatedNonRepetedTerms"": 1974
+}"
+wikipedia:2018-11-01_1541044838537  @ wikipedia @ 2018-11-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""nllg3tkuqd1i"",
+  ""version"": ""2018-11-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-11-01_1545952649884  @ wikipedia @ 2018-11-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-11-01_1547774652341  @ wikipedia @ 2018-11-01  @ TVP REST API  @ "{
+  ""termsFound"": 211993,
+  ""nonRepetedTerms"": 14103,
+  ""validatedNonRepetedTerms"": 1971
+}"
+wikipedia:2018-11-15_1542270413804  @ wikipedia @ 2018-11-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""jmpkbyzmuvse"",
+  ""version"": ""2018-11-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-11-15_1545999361285  @ wikipedia @ 2018-11-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-11-15_1547817834568  @ wikipedia @ 2018-11-15  @ TVP REST API  @ "{
+  ""termsFound"": 212904,
+  ""nonRepetedTerms"": 14128,
+  ""validatedNonRepetedTerms"": 1973
+}"
+wikipedia:2018-12-01_1543672471466  @ wikipedia @ 2018-12-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""ggjmwrfiskys"",
+  ""version"": ""2018-12-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-12-01_1546091314755  @ wikipedia @ 2018-12-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-12-01_1547849166868  @ wikipedia @ 2018-12-01  @ TVP REST API  @ "{
+  ""termsFound"": 213747,
+  ""nonRepetedTerms"": 14179,
+  ""validatedNonRepetedTerms"": 1977
+}"
+wikipedia:2018-12-15_1545132233016  @ wikipedia @ 2018-12-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""uw5nmcf33ru9"",
+  ""version"": ""2018-12-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2018-12-15_1546143405177  @ wikipedia @ 2018-12-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2018-12-15_1547940865251  @ wikipedia @ 2018-12-15  @ TVP REST API  @ "{
+  ""termsFound"": 214890,
+  ""nonRepetedTerms"": 14198,
+  ""validatedNonRepetedTerms"": 1979
+}"
+wikipedia:2019-01-01_1546963162799  @ wikipedia @ 2019-01-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""n6wa8fqwzxvo"",
+  ""version"": ""2019-01-01"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-01-01_1547550256420  @ wikipedia @ 2019-01-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-01-01_1547952551416  @ wikipedia @ 2019-01-01  @ TVP REST API  @ "{
+  ""termsFound"": 215772,
+  ""nonRepetedTerms"": 14221,
+  ""validatedNonRepetedTerms"": 1982
+}"
+wikipedia:2019-01-15_1547728064423  @ wikipedia @ 2019-01-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""projz0udb5rz"",
+  ""version"": ""2019-01-15"",
+  ""numberDiseases"": 9858,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-01-15_1548205260348  @ wikipedia @ 2019-01-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbpr"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-01-15_1548247424753  @ wikipedia @ 2019-01-15  @ TVP REST API  @ "{
+  ""termsFound"": 216162,
+  ""nonRepetedTerms"": 14224,
+  ""validatedNonRepetedTerms"": 1982
+}"
+wikipedia:2019-02-01_1549203697541  @ wikipedia @ 2019-02-01  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""iw9wlerchjym"",
+  ""version"": ""2019-02-01"",
+  ""numberDiseases"": 11084,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-02-01_1549263528939  @ wikipedia @ 2019-02-01  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-02-01_1549291637422  @ wikipedia @ 2019-02-01  @ TVP REST API  @ "{
+  ""termsFound"": 244103,
+  ""nonRepetedTerms"": 14760,
+  ""validatedNonRepetedTerms"": 2010
+}"
+wikipedia:2019-02-15_1550237576133  @ wikipedia @ 2019-02-15  @ DISEASE AVAILABLE LIST REST API @ "{
+  ""albumId"": ""wqqa7qlhonvr"",
+  ""version"": ""2019-02-15"",
+  ""numberDiseases"": 11084,
+  ""source"": ""SO01"",
+  ""requests"": [
+    ""/last"",
+    ""/get""
+  ],
+  ""serviceCode"": ""SE010"",
+  ""useDiseaseSafeList"": true
+}"
+wikipedia:2019-02-15_1550452160253  @ wikipedia @ 2019-02-15  @ METAMAP REST API  @ "{
+  ""semanticTypes"": [
+    ""acab"",
+    ""anab"",
+    ""comd"",
+    ""cgab"",
+    ""dsyn"",
+    ""emod"",
+    ""fndg"",
+    ""mobd"",
+    ""neop"",
+    ""patf"",
+    ""sosy"",
+    ""lbtr"",
+    ""clna"",
+    ""menp"",
+    ""diap"",
+    ""lbpr""
+  ],
+  ""sources"": [
+    ""SNOMEDCT_US""
+  ],
+  ""options"": ""-y -R"",
+  ""concept_location"": true
+}"
+wikipedia:2019-02-15_1550759979989  @ wikipedia @ 2019-02-15  @ TVP REST API  @ "{
+  ""termsFound"": 244933,
+  ""nonRepetedTerms"": 14763,
+  ""validatedNonRepetedTerms"": 2010
+}"

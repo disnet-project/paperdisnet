@@ -1,15 +1,24 @@
 Vocabularies 
 ALFRED
+AO
 AO Foundation
 BRENDA
+CAS number
+CAS Number
+ChEBI
+ChEMBL
+ChemSpider
 dbSNP
 DiseasesDB
 Dorlands /Elsevier
+DrugBank
 EC number
+ECHA InfoCard
 eMedicine
 Ensembl
 Entrez
 ExPASy
+External IDs
 FMA
 GARD
 Gene Ontology
@@ -18,11 +27,13 @@ HapMap
 HgenetInfoDB
 HUGO
 ICD-10
+ICD-10-CM
 ICD-9
 ICD-9-CM
 ICD-O
 IntEnz
 InterPro
+IUPHAR/BPS
 KEGG
 MedlinePlus
 MeSH
@@ -40,17 +51,17 @@ Pfam
 Pfam clan
 PRIAM
 PROSITE
+PubChem CID
 Radiopaedia
 Radiopedia
 RefSeq
 Rfam
 SCOP
-SNOMED_CT
 SNPedia
 SUPERFAMILY
 TA
 TE
 TH
-UMLS
+UNII
 UniProt
 Wheeless Online
